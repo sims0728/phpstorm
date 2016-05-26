@@ -1,0 +1,5 @@
+<templateSet group="PHP">
+  <template name="phpdebug" value="echo '&lt;pre&gt;';" description="php print debug" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

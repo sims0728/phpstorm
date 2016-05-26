@@ -3,9 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/sirius/sirius/Console/Command/Log/LogAggregatorShell.php" timestamp="1464242877980" />
+      <file name="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" timestamp="1464248595448">
+        <mark key="'" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/sirius/sirius/Console/Command/Log/LogAggregatorShell.php" timestamp="1464248510908">
+        <mark key="[" line="54" column="5" />
+        <mark key="]" line="55" column="3" />
+        <mark key="^" line="55" column="3" />
+        <mark key="." line="55" column="3" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="22" column="0" filename="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
@@ -20,6 +30,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
