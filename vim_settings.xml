@@ -12,7 +12,7 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/www/chie/chie/front_sp/Controller/AppController.php" timestamp="1464584955927">
+      <file name="$USER_HOME$/www/chie/chie/front_sp/Controller/AppController.php" timestamp="1464593807547">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="4" />
         <mark key="^" line="16" column="4" />
@@ -31,11 +31,10 @@
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/www/chie/fortune/Controller/FortuneAdminController.php" timestamp="1464593297838">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="28" column="165" />
-        <mark key="." line="28" column="165" />
-        <mark key="^" line="28" column="165" />
+      <file name="$USER_HOME$/www/chie/fortune/Controller/FortuneAdminController.php" timestamp="1464593509585">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" timestamp="1464248595448">
         <mark key="'" line="22" column="0" />
@@ -61,27 +60,30 @@
         <text>グ</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQllY2hvICc8cHJlPic7CgkJcHJpbnRfcigpOwoJCWVjaG8gJzwvcHJlPic7CgkJZXhpdChfX0ZJTEVfXy4nIGxpbmU6Jy5fX0xJTkVfXyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQllY2hvICc8cHJlPic7IHByaW50X3IoXCRTVFIkKTsKICAgIGVjaG8gJzwvcHJlPic7CiAgICBleGl0KF9fRklMRV9fLicgbGluZTonLl9fTElORV9fKTsK</text>
+        <text encoding="base64">CQllY2hvICc8cHJlPic7CgkJcHJpbnRfcigpOwoJCWVjaG8gJzwvcHJlPic7CgkJZXhpdChfX0ZJTEVfXy4nIGxpbmU6Jy5fX0xJTkVfXyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQllY2hvICc8cHJlPic7CgkJcHJpbnRfcigkYWFhYSk7CgkJZWNobyAnPC9wcmU+JzsKCQlleGl0KF9fRklMRV9fLicgbGluZTonLl9fTElORV9fKTsK</text>
+        <text encoding="base64">CQllY2hvICc8cHJlPic7IHByaW50X3IoXCRTVFIkKTsKICAgIGVjaG8gJzwvcHJlPic7CiAgICBleGl0KF9fRklMRV9fLicgbGluZTonLl9fTElORV9fKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwpwcmludF9yKCRTVFIkKTsKZWNobyAnPC9wcmU+JzsKZXhpdChfX0ZJTEVfXy4nIGxpbmU6Jy5fX0xJTkVfXyk7Cg==</text>
+        <text encoding="base64">CQllY2hvICc8cHJlPic7CgkJcHJpbnRfcigkYWFhYSk7CgkJZWNobyAnPC9wcmU+JzsKCQlleGl0KF9fRklMRV9fLicgbGluZTonLl9fTElORV9fKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ZWNobyAnPHByZT4nOwpwcmludF9yKCRTVFIkKTsKZWNobyAnPC9wcmU+JzsKZXhpdChfX0ZJTEVfXy4nIGxpbmU6Jy5fX0xJTkVfXyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQllY2hvICc8cHJlPic7IHByaW50X3IoKTsKCQllY2hvICc8L3ByZT4nOwoJCWV4aXQoX19GSUxFX18uJyBsaW5lOicuX19MSU5FX18pOwo=</text>
       </register>
       <register name=":" type="4">
