@@ -3,8 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1464577225930">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" timestamp="1464248595448">
         <mark key="'" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/chie/chie/front_sp/Controller/ChieController.php" timestamp="1464577288472" />
+      <file name="$USER_HOME$/www/chie/chie/Config/Env/stg_config.php" timestamp="1464577612811">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/www/sirius/sirius/Console/Command/Log/LogAggregatorShell.php" timestamp="1464248510908">
         <mark key="[" line="54" column="5" />
