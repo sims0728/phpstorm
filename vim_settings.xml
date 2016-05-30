@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1464586332411">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/chie/chie/front_sp/Controller/AppController.php" timestamp="1464584955927">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="4" />
@@ -11,6 +14,12 @@
       </file>
       <file name="/a.dummy" timestamp="1464577225930">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="49" column="4" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="$USER_HOME$/www/chie/chie/Config/Env/dev_config.php" timestamp="1464578745549">
         <mark key="[" line="16" column="8" />
@@ -43,7 +52,7 @@
         <text>グ</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -56,6 +65,7 @@
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
