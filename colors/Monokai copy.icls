@@ -6,7 +6,13 @@
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
-    <option name="FILESTATUS_MODIFIED" value="ff83eb" />
+    <option name="FILESTATUS_ADDED" value="9cb00" />
+    <option name="FILESTATUS_DELETED" value="a9a9a9" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="956179" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff726f" />
+    <option name="FILESTATUS_MERGED" value="b15bdc" />
+    <option name="FILESTATUS_MODIFIED" value="8091ff" />
+    <option name="FILESTATUS_UNKNOWN" value="ff5400" />
     <option name="FILESTATUS_modifiedOutside" value="6e8ee4" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
