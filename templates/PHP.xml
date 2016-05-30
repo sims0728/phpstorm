@@ -1,5 +1,9 @@
 <templateSet group="PHP">
-  <template name="phpdebug" value="echo '&lt;pre&gt;';" description="php print debug" toReformat="false" toShortenFQNames="true">
-    <context />
+  <template name="phpdebug" value="echo '&lt;pre&gt;';&#10;print_r($STR$);&#10;echo '&lt;/pre&gt;';&#10;exit(__FILE__.' line:'.__LINE__);" shortcut="ENTER" description="php print debug" toReformat="false" toShortenFQNames="true">
+    <variable name="STR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="HAML" value="true" />
+    </context>
   </template>
 </templateSet>
