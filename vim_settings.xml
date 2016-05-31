@@ -21,15 +21,8 @@
       <file name="/a.dummy" timestamp="1464577225930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="49" column="4" />
-        <mark key="^" line="49" column="4" />
-        <mark key="." line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/www/chie/chie/Config/Env/dev_config.php" timestamp="1464578745549">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
+      <file name="$USER_HOME$/www/sirius/sirius/Config/app_config.php" timestamp="1464661922832">
+        <mark key="'" line="99" column="43" />
       </file>
       <file name="$USER_HOME$/www/chie/fortune/Controller/FortuneAdminController.php" timestamp="1464593509585">
         <mark key="[" line="28" column="0" />
@@ -46,15 +39,30 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/www/sirius/sirius/Console/Command/Log/LogAggregatorShell.php" timestamp="1464248510908">
+      <file name="$USER_HOME$/www/sirius/sirius/Console/Command/Log/LogAggregatorShell.php" timestamp="1464661871542">
         <mark key="[" line="54" column="5" />
         <mark key="]" line="55" column="3" />
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
       </file>
+      <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="49" column="4" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/chie/chie/Config/Env/dev_config.php" timestamp="1464578745549">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="0" filename="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
+      <jump line="429" column="0" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
+      <jump line="102" column="43" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
+      <jump line="100" column="43" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
+      <jump line="99" column="43" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -90,13 +98,21 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="/" type="4">
+        <text>占い</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>占い</last-search>
+      <last-offset />
+      <last-pattern>占い</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>占い</entry>
+      </history-search>
       <history-cmd>
         <entry>vsp</entry>
         <entry>sp</entry>
