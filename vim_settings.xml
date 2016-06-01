@@ -54,8 +54,12 @@
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" timestamp="1464746193087">
+      <file name="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" timestamp="1464747137406">
         <mark key="'" line="562" column="36" />
+        <mark key="[" line="632" column="32" />
+        <mark key="]" line="632" column="32" />
+        <mark key="^" line="632" column="32" />
+        <mark key="." line="632" column="32" />
       </file>
     </filemarks>
     <jumps>
