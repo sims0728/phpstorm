@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" timestamp="1464938783216">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="48" />
+      </file>
       <file name="$USER_HOME$/www/chie/chie/.gitignore" timestamp="1464590417609">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="5" column="6" />
@@ -41,7 +47,6 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/www/mask/lib/Sms/Controller/Component/ComFeaturePhoneComponent.php" timestamp="1464933805552" />
       <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
         <mark key="[" line="46" column="9" />
         <mark key="]" line="49" column="4" />
@@ -59,7 +64,6 @@
         <mark key="^" line="632" column="32" />
         <mark key="." line="632" column="32" />
       </file>
-      <file name="$USER_HOME$/www/mask/mask/front_fp/Controller/AppController.php" timestamp="1464932876341" />
     </filemarks>
     <jumps>
       <jump line="22" column="0" filename="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" />
@@ -71,49 +75,56 @@
       <jump line="551" column="29" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
       <jump line="32" column="23" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
       <jump line="562" column="36" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
+      <jump line="64" column="27" filename="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>img_url</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpbWFnZV9wYXRoXD4=</text>
+      </register>
       <register name="0" type="4">
-        <text>グ</text>
+        <text>img_thumbnail_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="2" type="4">
+        <text>img_url</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQllY2hvICc8cHJlPic7CgkJcHJpbnRfcigpOwoJCWVjaG8gJzwvcHJlPic7CgkJZXhpdChfX0ZJTEVfXy4nIGxpbmU6Jy5fX0xJTkVfXyk7Cg==</text>
+      <register name="4" type="4">
+        <text>image_path</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQllY2hvICc8cHJlPic7IHByaW50X3IoXCRTVFIkKTsKICAgIGVjaG8gJzwvcHJlPic7CiAgICBleGl0KF9fRklMRV9fLicgbGluZTonLl9fTElORV9fKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQllY2hvICc8cHJlPic7CgkJcHJpbnRfcigkYWFhYSk7CgkJZWNobyAnPC9wcmU+JzsKCQlleGl0KF9fRklMRV9fLicgbGluZTonLl9fTElORV9fKTsK</text>
+        <text encoding="base64">CQkJCS8vJHNhdmVEYXRhWydpbWFnZV9wYXRoJ10gPSAkaXRlbVsnaW1nX3VybCddID86IENvbmZpZ3VyZTo6cmVhZCgiQ29uZmlnLmluZm9ybWFyaW9uX2ltYWdlLmtvem8uaW1hZ2VfcGF0aCIpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZWNobyAnPHByZT4nOwpwcmludF9yKCRTVFIkKTsKZWNobyAnPC9wcmU+JzsKZXhpdChfX0ZJTEVfXy4nIGxpbmU6Jy5fX0xJTkVfXyk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQllY2hvICc8cHJlPic7IHByaW50X3IoKTsKCQllY2hvICc8L3ByZT4nOwoJCWV4aXQoX19GSUxFX18uJyBsaW5lOicuX19MSU5FX18pOwo=</text>
+        <text encoding="base64">CQlhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxfX2ZyZWVNZW51XD4=</text>
-      </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfX2ZyZWVNZW51XD4=</last-search>
+      <last-search encoding="base64">XDxpbWFnZV9wYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfX2ZyZWVNZW51XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZV9wYXRoXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -121,6 +132,7 @@
       <history-search>
         <entry>占い</entry>
         <entry encoding="base64">XDxfX2ZyZWVNZW51XD4=</entry>
+        <entry encoding="base64">XDxpbWFnZV9wYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
