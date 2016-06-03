@@ -15,7 +15,6 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/www/mask/mask/.idea/vagrant.xml" timestamp="1464749934116" />
       <file name="/a.dummy" timestamp="1464577225930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +41,7 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
       </file>
+      <file name="$USER_HOME$/www/mask/lib/Sms/Controller/Component/ComFeaturePhoneComponent.php" timestamp="1464933742874" />
       <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
         <mark key="[" line="46" column="9" />
         <mark key="]" line="49" column="4" />
@@ -59,6 +59,7 @@
         <mark key="^" line="632" column="32" />
         <mark key="." line="632" column="32" />
       </file>
+      <file name="$USER_HOME$/www/mask/mask/front_fp/Controller/AppController.php" timestamp="1464932876341" />
     </filemarks>
     <jumps>
       <jump line="22" column="0" filename="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" />
