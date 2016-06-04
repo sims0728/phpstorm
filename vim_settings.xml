@@ -3,141 +3,130 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" timestamp="1464938783216">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="65" column="48" />
+      <file name="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" timestamp="1462287763008">
+        <mark key="'" line="230" column="55" />
+        <mark key="[" line="430" column="36" />
+        <mark key="]" line="430" column="37" />
+        <mark key="." line="430" column="37" />
       </file>
-      <file name="$USER_HOME$/www/chie/chie/.gitignore" timestamp="1464590417609">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/www/task_process/app/Http/routes.php" timestamp="1462334844538">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="23" />
+        <mark key="." line="20" column="23" />
+        <mark key="^" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/www/chie/chie/front_sp/Controller/AppController.php" timestamp="1464593807547">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1464577225930">
+      <file name="/Dummy.txt" timestamp="1462303722009">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/sirius/sirius/Config/app_config.php" timestamp="1464661922832">
-        <mark key="'" line="99" column="43" />
+      <file name="$USER_HOME$/www/task_process/app/Member.php" timestamp="1462304063419">
+        <mark key="[" line="9" column="70" />
+        <mark key="]" line="9" column="70" />
+        <mark key="^" line="9" column="68" />
+        <mark key="." line="9" column="70" />
       </file>
-      <file name="$USER_HOME$/www/chie/fortune/Controller/FortuneAdminController.php" timestamp="1464593509585">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/a.sql" timestamp="1462302493467">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" timestamp="1464248595448">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/www/task_process/database/migrations/2016_05_03_221004_create_member_table.php" timestamp="1462283877457">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/www/chie/chie/Config/Env/stg_config.php" timestamp="1464585354034">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/www/task_process/.env" timestamp="1462303546632">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/www/sirius/sirius/Console/Command/Log/LogAggregatorShell.php" timestamp="1464661871542">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="55" column="3" />
-        <mark key="^" line="55" column="3" />
-        <mark key="." line="55" column="3" />
+      <file name="$USER_HOME$/www/task_process/database/migrations/2016_05_04_042031_create_member_table.php" timestamp="1462303342669">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="49" column="4" />
-        <mark key="^" line="49" column="4" />
-        <mark key="." line="49" column="4" />
+      <file name="$USER_HOME$/www/task_process/config/app.php" timestamp="1462302840110">
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="54" column="28" />
+        <mark key="." line="54" column="28" />
+        <mark key="^" line="54" column="28" />
       </file>
-      <file name="$USER_HOME$/www/chie/chie/Config/Env/dev_config.php" timestamp="1464578745549">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
+      <file name="$USER_HOME$/www/task_process/vendor/composer/autoload_classmap.php" timestamp="1462303180483">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" timestamp="1464751566785">
-        <mark key="'" line="562" column="36" />
-        <mark key="[" line="632" column="32" />
-        <mark key="]" line="632" column="32" />
-        <mark key="^" line="632" column="32" />
-        <mark key="." line="632" column="32" />
+      <file name="/dummy.sql" timestamp="1462332025105">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
-      <jump line="429" column="0" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
-      <jump line="102" column="43" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
-      <jump line="100" column="43" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
-      <jump line="99" column="43" filename="$USER_HOME$/www/sirius/sirius/Config/app_config.php" />
-      <jump line="551" column="29" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
-      <jump line="32" column="23" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
-      <jump line="562" column="36" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
-      <jump line="64" column="27" filename="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" />
+      <jump line="351" column="20" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="736" column="31" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="298" column="19" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="550" column="4" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="740" column="31" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="127" column="28" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="223" column="31" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
+      <jump line="230" column="55" filename="$USER_HOME$/www/task_process/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>img_url</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZV9wYXRoXD4=</text>
+        <text>primary</text>
       </register>
-      <register name="0" type="4">
-        <text>img_thumbnail_url</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGFibGUgPSAnbWVtYmVyJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="1" type="4">
+        <text>k</text>
       </register>
       <register name="2" type="4">
-        <text>img_url</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="3" type="4">
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>image_path</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vJHNhdmVEYXRhWydpbWFnZV9wYXRoJ10gPSAkaXRlbVsnaW1nX3VybCddID86IENvbmZpZ3VyZTo6cmVhZCgiQ29uZmlnLmluZm9ybWFyaW9uX2ltYWdlLmtvem8uaW1hZ2VfcGF0aCIpOwo=</text>
+      <register name="6" type="4">
+        <text>b</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="9" type="4">
+        <text>m</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWFnZV9wYXRoXD4=</last-search>
+      <last-search>primary</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZV9wYXRoXD4=</last-pattern>
+      <last-pattern>primary</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>占い</entry>
-        <entry encoding="base64">XDxfX2ZyZWVNZW51XD4=</entry>
-        <entry encoding="base64">XDxpbWFnZV9wYXRoXD4=</entry>
+        <entry>primary</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
-        <entry>sp</entry>
-        <entry>q</entry>
+        <entry>10</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -147,12 +136,18 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
