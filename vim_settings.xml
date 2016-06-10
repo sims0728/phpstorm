@@ -6,10 +6,10 @@
       <file name="vim_settings.xml" timestamp="1465173781236">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" timestamp="1464947224144">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" timestamp="1465529267390">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
         <mark key="^" line="65" column="48" />
       </file>
       <file name="$USER_HOME$/www/chie/chie/.gitignore" timestamp="1464590417609">
@@ -84,10 +84,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCSRzYXZlRGF0YVsnaW1hZ2VfcGF0aCddID0gJGl0ZW1bJ2ltZ190aHVtYm5haWxfdXJsJ10gPzogQ29uZmlndXJlOjpyZWFkKCJDb25maWcuaW5mb3JtYXRpb25faW1hZ2Uua296by5pbWFnZV9wYXRoIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>img_url</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZV9wYXRoXD4=</text>
@@ -96,31 +96,31 @@
         <text>img_thumbnail_url</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCSRzYXZlRGF0YVsnaW1hZ2VfcGF0aCddID0gJGl0ZW1bJ2ltZ190aHVtYm5haWxfdXJsJ10gPzogQ29uZmlndXJlOjpyZWFkKCJDb25maWcuaW5mb3JtYXRpb25faW1hZ2Uua296by5pbWFnZV9wYXRoIik7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>img_url</text>
+        <text>/</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>/</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>image_path</text>
-      </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>img_url</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vJHNhdmVEYXRhWydpbWFnZV9wYXRoJ10gPSAkaXRlbVsnaW1nX3VybCddID86IENvbmZpZ3VyZTo6cmVhZCgiQ29uZmlnLmluZm9ybWFyaW9uX2ltYWdlLmtvem8uaW1hZ2VfcGF0aCIpOwo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="7" type="4">
+        <text>image_path</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCS8vJHNhdmVEYXRhWydpbWFnZV9wYXRoJ10gPSAkaXRlbVsnaW1nX3VybCddID86IENvbmZpZ3VyZTo6cmVhZCgiQ29uZmlnLmluZm9ybWFyaW9uX2ltYWdlLmtvem8uaW1hZ2VfcGF0aCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
