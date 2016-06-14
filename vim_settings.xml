@@ -38,6 +38,7 @@
       <file name="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" timestamp="1464248595448">
         <mark key="'" line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/uranaistreetAPI/確認事項.txt" timestamp="1465883399260" />
       <file name="$USER_HOME$/www/chie/chie/Config/Env/stg_config.php" timestamp="1464585354034">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="18" column="27" />
@@ -50,13 +51,15 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
       </file>
+      <file name="$USER_HOME$/Downloads/uranaistreetAPI/street_api.md" timestamp="1465883511520">
+        <mark key="'" line="79" column="4" />
+      </file>
       <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
         <mark key="[" line="46" column="9" />
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/Downloads/占いストリートjsonサンプル.json.txt" timestamp="1465551982634" />
       <file name="$USER_HOME$/www/chie/chie/Config/Env/dev_config.php" timestamp="1464578745549">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
@@ -80,6 +83,7 @@
       <jump line="32" column="23" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
       <jump line="562" column="36" filename="$USER_HOME$/www/mask/mask/front_sp/Controller/FortuneController.php" />
       <jump line="64" column="27" filename="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" />
+      <jump line="79" column="4" filename="$USER_HOME$/Downloads/uranaistreetAPI/street_api.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
