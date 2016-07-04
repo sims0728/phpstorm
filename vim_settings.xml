@@ -6,6 +6,9 @@
       <file name="vim_settings.xml" timestamp="1465173781236">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1467607057489">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/street/street/Console/Command/KozoArticleUpdateShell.php" timestamp="1465534484764">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -24,7 +27,12 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/IndexController.php" timestamp="1467599397449" />
+      <file name="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/IndexController.php" timestamp="1467600779995">
+        <mark key="[" line="122" column="31" />
+        <mark key="]" line="122" column="30" />
+        <mark key="^" line="122" column="30" />
+        <mark key="." line="122" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1464577225930">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,6 +61,11 @@
       </file>
       <file name="$USER_HOME$/Downloads/uranaistreetAPI/street_api.md" timestamp="1465883511520">
         <mark key="'" line="79" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/yoiko/lib/Cake/Error/exceptions.php" timestamp="1467601024412">
+        <mark key="[" line="111" column="20" />
+        <mark key="]" line="111" column="20" />
+        <mark key="." line="111" column="20" />
       </file>
       <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
         <mark key="[" line="46" column="9" />
@@ -107,13 +120,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/yoiko/yoiko/Model/Menu.php" />
       <jump line="1" column="0" filename="$USER_HOME$/www/yoiko/yoiko/Model/Menu.php" />
       <jump line="0" column="0" filename="$USER_HOME$/www/yoiko/yoiko/Model/Menu.php" />
+      <jump line="100" column="29" filename="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/IndexController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSRzYXZlRGF0YVsnaW1hZ2VfcGF0aCddID0gJGl0ZW1bJ2ltZ190aHVtYm5haWxfdXJsJ10gPzogQ29uZmlndXJlOjpyZWFkKCJDb25maWcuaW5mb3JtYXRpb25faW1hZ2Uua296by5pbWFnZV9wYXRoIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>__construct($message = null, $code = 404) {</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>__construct($message = null, $code = 404) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZV9wYXRoXD4=</text>
@@ -121,32 +135,32 @@
       <register name="0" type="4">
         <text>img_thumbnail_url</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCSRzYXZlRGF0YVsnaW1hZ2VfcGF0aCddID0gJGl0ZW1bJ2ltZ190aHVtYm5haWxfdXJsJ10gPzogQ29uZmlndXJlOjpyZWFkKCJDb25maWcuaW5mb3JtYXRpb25faW1hZ2Uua296by5pbWFnZV9wYXRoIik7Cg==</text>
+      <register name="1" type="4">
+        <text>__construct($message = null, $code = 404) {</text>
       </register>
-      <register name="2" type="4">
-        <text>/</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCSRzYXZlRGF0YVsnaW1hZ2VfcGF0aCddID0gJGl0ZW1bJ2ltZ190aHVtYm5haWxfdXJsJ10gPzogQ29uZmlndXJlOjpyZWFkKCJDb25maWcuaW5mb3JtYXRpb25faW1hZ2Uua296by5pbWFnZV9wYXRoIik7Cg==</text>
       </register>
       <register name="3" type="4">
         <text>/</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text>/</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>img_url</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>image_path</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vJHNhdmVEYXRhWydpbWFnZV9wYXRoJ10gPSAkaXRlbVsnaW1nX3VybCddID86IENvbmZpZ3VyZTo6cmVhZCgiQ29uZmlnLmluZm9ybWFyaW9uX2ltYWdlLmtvem8uaW1hZ2VfcGF0aCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -186,6 +200,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
