@@ -48,10 +48,15 @@
       <file name="$USER_HOME$/www/sirius/sirius/admin/Controller/AppController.php" timestamp="1464248595448">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/www/tamako/tamako/Config/Env/dev_config.php" timestamp="1468978492922">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/www/tamako/tamako/Component/ComFortuneComponent.php" timestamp="1468994120565">
+        <mark key="'" line="447" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/tamako/tamako/Config/Env/dev_config.php" timestamp="1468993016241">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="161" column="48" />
+        <mark key="^" line="161" column="1" />
+        <mark key="." line="148" column="47" />
       </file>
       <file name="$USER_HOME$/www/chie/chie/Config/Env/stg_config.php" timestamp="1464585354034">
         <mark key="[" line="17" column="24" />
@@ -68,11 +73,12 @@
       <file name="$USER_HOME$/Downloads/uranaistreetAPI/street_api.md" timestamp="1465883511520">
         <mark key="'" line="79" column="4" />
       </file>
-      <file name="$USER_HOME$/www/tamako/tamako/Config/Env/default_config.php" timestamp="1468991675230">
+      <file name="$USER_HOME$/www/tamako/tamako/Config/Env/default_config.php" timestamp="1468992613863">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="348" column="46" />
+        <mark key="." line="347" column="65" />
+        <mark key="^" line="347" column="80" />
       </file>
       <file name="$USER_HOME$/www/yoiko/lib/Cake/Error/exceptions.php" timestamp="1467601024412">
         <mark key="[" line="111" column="20" />
@@ -88,9 +94,12 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/www/chie/chie/Config/Env/dev_config.php" timestamp="1464578745549">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
+      <file name="$USER_HOME$/www/tamako/tamako/Config/Env/stg_config.php" timestamp="1468993026358">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="143" column="0" />
       </file>
       <file name="$USER_HOME$/www/yoiko/yoiko/Model/Menu.php" timestamp="1467874221235">
         <mark key="'" line="1055" column="0" />
@@ -144,55 +153,59 @@
       <jump line="155" column="18" filename="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/IndexController.php" />
       <jump line="129" column="52" filename="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/IndexController.php" />
       <jump line="12" column="0" filename="$USER_HOME$/www/tamako/tamako/Config/Env/default_config.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/www/tamako/tamako/Config/Env/dev_config.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/tamako/tamako/Config/Env/stg_config.php" />
+      <jump line="423" column="29" filename="$USER_HOME$/www/tamako/tamako/Component/ComFortuneComponent.php" />
+      <jump line="447" column="27" filename="$USER_HOME$/www/tamako/tamako/Component/ComFortuneComponent.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9mZXAuc3BzLXN5c3RlbS5jb20vZjAxL0ZlcEJ1eUluZm9SZWNlaXZlLmRvCg==</text>
+        <text encoding="base64">JGNvbmZpZ1snZnJvbnRfc3AnXVsnc2JwcyddWydidXlfdXJsJ10gPSAnaHR0cHM6Ly9zdGJmZXAuc3BzLXN5c3RlbS5jb20vZjAxL0ZlcEJ1eUluZm9SZWNlaXZlLmRvJzsKJGNvbmZpZ1snZnJvbnRfc3AnXVsnc2JwcyddWydpbmZvX3VybCddID0gJ2h0dHBzOi8vc3RiZmVwLnNwcy1zeXN0ZW0uY29tL2YwNC9GZXBQYXlJbmZvUmVjZWl2ZS5kbyc7Ci8vJGNvbmZpZ1snZnJvbnRfc3AnXVsnc2JwcyddWydzc2wnXSA9IHRydWU7CiRjb25maWdbJ2Zyb250X3NwJ11bJ3NicHMnXVsnbWFpbCddWydzdWJqZWN0J10gPSAnW+ODhuOCueODiF1b5rC05pm2546J5a2QIOW5uOmBi+mgmOWfn13msbrmuIjjga7jgYrnn6XjgonjgZsnOwokY29uZmlnWydmcm9udF9zcCddWydzYnBzJ11bJ21haWwnXVsnZnJvbV9hZGRyZXNzJ10gPSAnaW5mb0B0YW1ha28uazEucXcudG8nOwoKLy8g44Oh44O844Or44Ki44OJ44Os44K56KqN6Ki844OX44Op44Kw44Kk44OzCiRjb25maWdbJ2Zyb250X3NwJ11bJ21haWxfYXV0aCddWydtYWlsJ11bJ3N1YmplY3QnXVsncmVnaXN0cmF0aW9uJ10gPSAnW+ODhuOCueODiF3jgJDmsLTmmbbnjonlrZAg5bm46YGL6aCY5Z+f5LqL5YuZ5bGA44CR5Luu55m76Yyy44Gu44GU5qGI5YaFJzsKJGNvbmZpZ1snZnJvbnRfc3AnXVsnbWFpbF9hdXRoJ11bJ21haWwnXVsnc3ViamVjdCddWydwYXNzd29yZF9yZXNldCddID0gJ1vjg4bjgrnjg4hdW+OBiuefpeOCieOBm13jg5Hjgrnjg6/jg7zjg4njg6rjgrvjg4Pjg4jjga7jgZTmoYjlhoUnOwokY29uZmlnWydmcm9udF9zcCddWydtYWlsX2F1dGgnXVsnbWFpbCddWydzdWJqZWN0J11bJ21haWxhZGRyZXNzX2NoYW5nZSddID0gJ1vjg4bjgrnjg4hdW+OBiuefpeOCieOBm13jg6Hjg7zjg6vjgqLjg4njg6zjgrnlpInmm7Tjga7jgZTmoYjlhoUnOwokY29uZmlnWydmcm9udF9zcCddWydtYWlsX2F1dGgnXVsnbWFpbCddWydmcm9tX2FkZHJlc3MnXSA9ICdpbmZvQHRhbWFrby5rMS5xdy50byc7IC8vIFhYWCDjgr3jg7zjgrnjga7oh7PjgovmiYDjgavmlaPlnKjkuK3jgIHjgIEKLy8kY29uZmlnWydmcm9udF9zcCddWydtYWlsX2F1dGgnXVsnc3NsJ10gPSB0cnVlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>string string string</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>TRIAL_MENU_ID</text>
+        <text encoding="base64">XDxnZXRSZXN1bHRJZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>https://fep.sps-system.com/f01/FepBuyInfoReceive.do</text>
+      <register name="0" type="2">
+        <text encoding="base64">JGNvbmZpZ1snZnJvbnRfc3AnXVsnc2JwcyddWydidXlfdXJsJ10gPSAnaHR0cHM6Ly9zdGJmZXAuc3BzLXN5c3RlbS5jb20vZjAxL0ZlcEJ1eUluZm9SZWNlaXZlLmRvJzsKJGNvbmZpZ1snZnJvbnRfc3AnXVsnc2JwcyddWydpbmZvX3VybCddID0gJ2h0dHBzOi8vc3RiZmVwLnNwcy1zeXN0ZW0uY29tL2YwNC9GZXBQYXlJbmZvUmVjZWl2ZS5kbyc7Ci8vJGNvbmZpZ1snZnJvbnRfc3AnXVsnc2JwcyddWydzc2wnXSA9IHRydWU7CiRjb25maWdbJ2Zyb250X3NwJ11bJ3NicHMnXVsnbWFpbCddWydzdWJqZWN0J10gPSAnW+ODhuOCueODiF1b5rC05pm2546J5a2QIOW5uOmBi+mgmOWfn13msbrmuIjjga7jgYrnn6XjgonjgZsnOwokY29uZmlnWydmcm9udF9zcCddWydzYnBzJ11bJ21haWwnXVsnZnJvbV9hZGRyZXNzJ10gPSAnaW5mb0B0YW1ha28uazEucXcudG8nOwoKLy8g44Oh44O844Or44Ki44OJ44Os44K56KqN6Ki844OX44Op44Kw44Kk44OzCiRjb25maWdbJ2Zyb250X3NwJ11bJ21haWxfYXV0aCddWydtYWlsJ11bJ3N1YmplY3QnXVsncmVnaXN0cmF0aW9uJ10gPSAnW+ODhuOCueODiF3jgJDmsLTmmbbnjonlrZAg5bm46YGL6aCY5Z+f5LqL5YuZ5bGA44CR5Luu55m76Yyy44Gu44GU5qGI5YaFJzsKJGNvbmZpZ1snZnJvbnRfc3AnXVsnbWFpbF9hdXRoJ11bJ21haWwnXVsnc3ViamVjdCddWydwYXNzd29yZF9yZXNldCddID0gJ1vjg4bjgrnjg4hdW+OBiuefpeOCieOBm13jg5Hjgrnjg6/jg7zjg4njg6rjgrvjg4Pjg4jjga7jgZTmoYjlhoUnOwokY29uZmlnWydmcm9udF9zcCddWydtYWlsX2F1dGgnXVsnbWFpbCddWydzdWJqZWN0J11bJ21haWxhZGRyZXNzX2NoYW5nZSddID0gJ1vjg4bjgrnjg4hdW+OBiuefpeOCieOBm13jg6Hjg7zjg6vjgqLjg4njg6zjgrnlpInmm7Tjga7jgZTmoYjlhoUnOwokY29uZmlnWydmcm9udF9zcCddWydtYWlsX2F1dGgnXVsnbWFpbCddWydmcm9tX2FkZHJlc3MnXSA9ICdpbmZvQHRhbWFrby5rMS5xdy50byc7IC8vIFhYWCDjgr3jg7zjgrnjga7oh7PjgovmiYDjgavmlaPlnKjkuK3jgIHjgIEKLy8kY29uZmlnWydmcm9udF9zcCddWydtYWlsX2F1dGgnXVsnc3NsJ10gPSB0cnVlOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9mZXAuc3BzLXN5c3RlbS5jb20vZjAxL0ZlcEJ1eUluZm9SZWNlaXZlLmRvCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9mZXAuc3BzLXN5c3RlbS5jb20vZjAxL0ZlcEJ1eUluZm9SZWNlaXZlLmRvCg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>string string string</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
-        <text>numeric numeric numeric</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>numeric numeric numeric</text>
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>c</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8g5pyI6aGN44Kz44O844K544Go6YeR6aGN44Gu57SQ5LuY44GRCiRjb25maWdbJ2NvdXJzZV9wcmljZSddID0gYXJyYXkoCgknMScgPT4gYXJyYXkoJ3ByaWNlJz0+ICczMDAnLCAgICdwcmljZV90YXgnID0+ICczMjQnKSwKKTsK</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TRIAL_MENU_ID</last-search>
+      <last-search encoding="base64">XDxnZXRSZXN1bHRJZFw+</last-search>
       <last-offset />
-      <last-pattern>TRIAL_MENU_ID</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRSZXN1bHRJZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -202,6 +215,8 @@
         <entry encoding="base64">XDxfX2ZyZWVNZW51XD4=</entry>
         <entry encoding="base64">XDxpbWFnZV9wYXRoXD4=</entry>
         <entry>TRIAL_MENU_ID</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVw+</entry>
+        <entry encoding="base64">XDxnZXRSZXN1bHRJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
@@ -230,6 +245,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
