@@ -6,11 +6,28 @@
       <file name="vim_settings.xml" timestamp="1467872667902">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/tamako/tamako/front_sp/Config/bootstrap.php" timestamp="1469069417304">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="182" column="2" />
+      </file>
       <file name="$USER_HOME$/www/chie/chie/.gitignore" timestamp="1464590417609">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="5" column="6" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/www/tamako/tamako/View/Emails/text/MailAuth/mail_change.ctp" timestamp="1469069229673">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/tamako/tamako/View/Emails/text/Sbps/activate.ctp" timestamp="1469069315998">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1464577225930">
         <mark key="[" line="0" column="0" />
@@ -19,6 +36,11 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/tamako/tamako/front_fp/Config/bootstrap.php" timestamp="1469069424039">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/www/chie/chie/Config/Env/stg_config.php" timestamp="1464585354034">
         <mark key="[" line="17" column="24" />
@@ -42,6 +64,12 @@
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/tamako/tamako/View/Emails/text/MailAuth/entry.ctp" timestamp="1469069184716">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
       </file>
       <file name="$USER_HOME$/www/yoiko/yoiko/Model/Menu.php" timestamp="1467874221235">
         <mark key="'" line="1055" column="0" />
@@ -110,6 +138,12 @@
         <mark key="." line="206" column="0" />
         <mark key="^" line="60" column="20" />
       </file>
+      <file name="$USER_HOME$/www/tamako/tamako/View/Emails/text/MailAuth/password_reset.ctp" timestamp="1469069271324">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
       <file name="$USER_HOME$/www/sirius/sirius/Console/Command/Log/LogAggregatorShell.php" timestamp="1464661871542">
         <mark key="[" line="54" column="5" />
         <mark key="]" line="55" column="3" />
@@ -121,6 +155,12 @@
       </file>
       <file name="$USER_HOME$/www/tamako/tamako/Config/app.const.properties" timestamp="1468995795933">
         <mark key="'" line="132" column="8" />
+      </file>
+      <file name="$USER_HOME$/www/tamako/tamako/View/Emails/text/Sbps/charge.ctp" timestamp="1469069371143">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="$USER_HOME$/www/tamako/tamako/Config/Env/stg_config.php" timestamp="1468993026358">
         <mark key="'" line="0" column="0" />
@@ -173,37 +213,38 @@
       <jump line="447" column="27" filename="$USER_HOME$/www/tamako/tamako/Component/ComFortuneComponent.php" />
       <jump line="3" column="0" filename="$USER_HOME$/www/tamako/tamako/Config/app.const.properties" />
       <jump line="132" column="8" filename="$USER_HOME$/www/tamako/tamako/Config/app.const.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/tamako/tamako/front_sp/Config/bootstrap.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQk8PyBlbHNlaWYoJG0tPmlzU2Jwc0NyZWRpdCk6Pz4KCQkJCQkJPD8gaWYgKCFlbXB0eSgkbWVudVsnTWVudVNhbGUnXVsnY2hhcmdlX3R5cGUnXSkpOiA/PgoJCQkJCQkJPD89ICR0aGlzLT5TYnBzRm9ybS0+Y3JlYXRlUHVyY2hhc2VCdXR0b24oJG0tPk1lbWJlclsndWlkJ10sICRtZW51WydNZW51J11bJ2lkJ10sICflgIvliKXoqrLph5EnLCAkbWVudVsnTWVudVNhbGUnXVsnY2hhcmdlX3R5cGUnXSwgJHNhbGVQcmljZSk7ID8+CgkJCQkJCTw/IGVsc2U6ID8+CgkJCQkJCQk8Pz0gJHRoaXMtPlNicHNGb3JtLT5jcmVhdGVQdXJjaGFzZUJ1dHRvbigkbS0+TWVtYmVyWyd1aWQnXSwgJG1lbnVbJ01lbnUnXVsnaWQnXSwgJ+WAi+WIpeiqsumHkScsICRtZW51WydNZW51J11bJ2NoYXJnZV90eXBlJ10sICRwcmljZSk7ID8+CgkJCQkJCTw/IGVuZGlmOyA/Pgo=</text>
+        <text encoding="base64">CSdEZWJ1ZycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>mail_from</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQk8PyBlbHNlaWYoJG0tPmlzU2Jwc0NyZWRpdCk6Pz4KCQkJCQkJPD8gaWYgKCFlbXB0eSgkbWVudVsnTWVudVNhbGUnXVsnY2hhcmdlX3R5cGUnXSkpOiA/PgoJCQkJCQkJPD89ICR0aGlzLT5TYnBzRm9ybS0+Y3JlYXRlUHVyY2hhc2VCdXR0b24oJG0tPk1lbWJlclsndWlkJ10sICRtZW51WydNZW51J11bJ2lkJ10sICflgIvliKXoqrLph5EnLCAkbWVudVsnTWVudVNhbGUnXVsnY2hhcmdlX3R5cGUnXSwgJHNhbGVQcmljZSk7ID8+CgkJCQkJCTw/IGVsc2U6ID8+CgkJCQkJCQk8Pz0gJHRoaXMtPlNicHNGb3JtLT5jcmVhdGVQdXJjaGFzZUJ1dHRvbigkbS0+TWVtYmVyWyd1aWQnXSwgJG1lbnVbJ01lbnUnXVsnaWQnXSwgJ+WAi+WIpeiqsumHkScsICRtZW51WydNZW51J11bJ2NoYXJnZV90eXBlJ10sICRwcmljZSk7ID8+CgkJCQkJCTw/IGVuZGlmOyA/Pgo=</text>
+        <text encoding="base64">Ly8gUGx1Z2lu44GuTG9hZApDYWtlUGx1Z2luOjpsb2FkKGFycmF5KAoJJ0RlYnVnJywKCSdTYnBzJyA9PiBhcnJheSgKCQknYm9vdHN0cmFwJyA9PiB0cnVlLAoJKSwKCSdNYWlsQXV0aCcgPT4gYXJyYXkoCgkJJ2Jvb3RzdHJhcCcgPT4gdHJ1ZSwKCSksCikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8PyBlbmRpZjsgPz4K</text>
+        <text encoding="base64">CSdEZWJ1ZycsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJPC9kaXY+Cg==</text>
+      <register name="2" type="4">
+        <text>i</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJPGRpdiBjbGFzcz0iYWN0aW9uIj4K</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
         <text>s</text>
@@ -212,7 +253,7 @@
         <text>-</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
