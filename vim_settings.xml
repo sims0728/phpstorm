@@ -174,12 +174,12 @@
         <mark key="^" line="12" column="22" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/www/yoiko/yoiko/Config/app_config.php" timestamp="1469091678643">
+      <file name="$USER_HOME$/www/yoiko/yoiko/Config/app_config.php" timestamp="1469097995538">
         <mark key="'" line="45" column="6" />
-        <mark key="[" line="288" column="62" />
-        <mark key="]" line="288" column="62" />
-        <mark key="." line="288" column="62" />
-        <mark key="^" line="288" column="62" />
+        <mark key="[" line="302" column="22" />
+        <mark key="]" line="302" column="23" />
+        <mark key="." line="302" column="23" />
+        <mark key="^" line="302" column="23" />
       </file>
       <file name="$USER_HOME$/www/tamako/tamako/Config/Env/stg_config.php" timestamp="1468993026358">
         <mark key="'" line="0" column="0" />
@@ -245,43 +245,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>logic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkxMTYgPT4gYXJyYXkoJ21lX2VubmVhZ3JhbV9BJyAgICAgICAgPT4gJ+OAkOODreOCuOODg+OCr0rjgJHjgqjjg4vjgqLjgrDjg6njg6BBJyksCg==</text>
+        <text encoding="base64">CQkxMTYgPT4gYXJyYXkoJ21lX2VubmVhZ3JhbV9BJyAgICAgICAgPT4gJ+OAkOODreOCuOODg+OCr0rjgJHjgqjjg4vjgqLjgrDjg6njg6BBJyksCgkJMTE3ID0+IGFycmF5KCdtZV9lbm5lYWdyYW1fQicgICAgICAgID0+ICfjgJDjg63jgrjjg4Pjgq9K44CR44Ko44OL44Ki44Kw44Op44OgQicpLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>A</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>A</text>
+        <text>m</text>
       </register>
       <register name="3" type="4">
-        <text>6</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>ト</text>
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>ト</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>ー</text>
+        <text>A</text>
       </register>
       <register name="8" type="4">
-        <text>ャ</text>
+        <text>A</text>
       </register>
       <register name="9" type="4">
-        <text>チ</text>
+        <text>6</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
