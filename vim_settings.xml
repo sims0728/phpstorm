@@ -49,13 +49,14 @@
       <file name="ui.lnf.xml" timestamp="1467872686050">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/MemberInfoController.php" timestamp="1469085467178">
-        <mark key="'" line="114" column="16" />
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="117" column="20" />
-        <mark key="^" line="117" column="20" />
-        <mark key="." line="117" column="20" />
+      <file name="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/MemberInfoController.php" timestamp="1469086763778">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="119" column="17" />
+        <mark key="]" line="120" column="12" />
+        <mark key="^" line="120" column="12" />
+        <mark key="." line="120" column="12" />
       </file>
+      <file name="$USER_HOME$/www/yoiko/yoiko/Lib/FortuneLogic/Factory/FortuneLogicFactory.php" timestamp="1469085686154" />
       <file name="$USER_HOME$/www/abe/abe/front_sp/Controller/AppController.php" timestamp="1464586188222">
         <mark key="[" line="46" column="9" />
         <mark key="]" line="49" column="4" />
@@ -109,6 +110,12 @@
         <mark key="]" line="122" column="30" />
         <mark key="^" line="122" column="30" />
         <mark key="." line="122" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/yoiko/yoiko/Lib/FortuneLogic/FortuneEnneagram.php" timestamp="1469086470572">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/www/sirius/sirius/Config/app_config.php" timestamp="1464661922832">
         <mark key="'" line="99" column="43" />
@@ -221,46 +228,48 @@
       <jump line="28" column="0" filename="$USER_HOME$/www/yoiko/yoiko/Config/app_config.php" />
       <jump line="111" column="37" filename="$USER_HOME$/www/yoiko/yoiko/Config/app_config.php" />
       <jump line="112" column="16" filename="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/MemberInfoController.php" />
+      <jump line="101" column="0" filename="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/MemberInfoController.php" />
+      <jump line="40" column="16" filename="$USER_HOME$/www/yoiko/yoiko/front_sp/Controller/MemberInfoController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>分</text>
+        <text>enneagram</text>
       </register>
       <register name="-" type="4">
-        <text>分</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>mail_from</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CTUJPT4gYXJyYXkoJ2Jhc2ljJwkJPT4gJ+WfuuacrOmRkeWuml/oh6rliIYnKSwK</text>
+      <register name="0" type="4">
+        <text>enneagram</text>
       </register>
       <register name="1" type="4">
-        <text>分</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>自</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text>Lib</text>
       </register>
       <register name="4" type="4">
-        <text>年運_後半</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>E</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
