@@ -112,11 +112,11 @@
         <mark key="^" line="122" column="30" />
         <mark key="." line="122" column="30" />
       </file>
-      <file name="$USER_HOME$/www/yoiko/yoiko/Lib/FortuneLogic/FortuneEnneagram.php" timestamp="1469090760005">
-        <mark key="[" line="71" column="36" />
-        <mark key="]" line="71" column="28" />
-        <mark key="^" line="71" column="28" />
-        <mark key="." line="71" column="28" />
+      <file name="$USER_HOME$/www/yoiko/yoiko/Lib/FortuneLogic/FortuneEnneagram.php" timestamp="1469091553742">
+        <mark key="[" line="69" column="40" />
+        <mark key="]" line="69" column="40" />
+        <mark key="^" line="69" column="37" />
+        <mark key="." line="69" column="40" />
       </file>
       <file name="$USER_HOME$/www/sirius/sirius/Config/app_config.php" timestamp="1464661922832">
         <mark key="'" line="99" column="43" />
@@ -243,11 +243,11 @@
       <jump line="67" column="9" filename="$USER_HOME$/www/yoiko/yoiko/Lib/FortuneLogic/FortuneEnneagram.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>resultId</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>resultId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW1iZXJJZFw+</text>
@@ -255,32 +255,32 @@
       <register name="0" type="2">
         <text encoding="base64">CS8qKgoJICogZ2V0TWVtYmVySW5mb0VubmVhZ3JhbQoJICoKCSAqIEByZXR1cm4gdm9pZAoJICogQGF1dGhvciBrYXdha2FtaV9kIDxrYXdha2FtaV9kQGNhbW9iaWxlLmNvbT4KCSAqLwoJcHVibGljIGZ1bmN0aW9uIGdldE1lbWJlckluZm9Fbm5lYWdyYW0oKSB7CgkJcmV0dXJuIEhhc2g6OmdldCgkdGhpcy0+X21lbWJlckluZm9UYmwsICdlbm5lYWdyYW0nKTsKCX0K</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>resultId</text>
+      </register>
+      <register name="2" type="4">
+        <text>CardId</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkkbWVtYmVySWQgPSAkdGhpcy0+Z2V0TWVtYmVySW5mb01lbWJlcklkKCk7CgkJaWYgKCFlbXB0eSgkbWVtYmVySWQpKSB7CgkJCS8vIOacieWKueacn+mZkAoJCQkkZXhwaXJlVGltZSA9IG5ldyBEYXRlVGltZSgkbm93RGF0ZU9iai0+Zm9ybWF0KCdZLW0tZCAyMzo1OTo1OScpKTsKCQkJJGV4cGlyZVRpbWUtPmFkZChuZXcgRGF0ZUludGVydmFsKCdQJy4gJHRoaXMtPmdldE1lbnVGb3J0dW5lUGFyYW0yKCkuICdEJykpOwoJCQkkdGhpcy0+Rm9ydHVuZVJlc3VsdExvZy0+bWFrZUZvcnR1bmVSZXN1bHRMb2coJHRoaXMtPmdldE1lbnVJZCgpLCAkcmVzdWx0SWQsICR0aGlzLT5nZXRNZW51TG9naWMoKSwgJHRoaXMtPmdldE1lbnVGb3J0dW5lUGFyYW0oKSwgJHRoaXMtPmdldE1lbnVGb3J0dW5lUGFyYW0yKCksICRleHBpcmVUaW1lLCAkdGhpcy0+Z2V0TWVtYmVySW5mb01lbWJlcklkKCksIG51bGwsIG51bGwsICR0aGlzLT5nZXRQYWdlTnVtYmVyKCkpOwoJCX0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>y</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>a</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
-      </register>
-      <register name="7" type="4">
-        <text>r</text>
-      </register>
       <register name="8" type="4">
-        <text>A</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
