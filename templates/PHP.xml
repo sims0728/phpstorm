@@ -1,0 +1,5 @@
+<templateSet group="PHP">
+  <template name="phpdebug" value="echo '&lt;pre&gt;';&#10;print_r($VARS$);&#10;echo '&lt;/pre&gt;';&#10;exit;" shortcut="TAB" toReformat="false" toShortenFQNames="true">
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
