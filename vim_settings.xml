@@ -3,20 +3,104 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1485787696394">
+      <file name="$USER_HOME$/Dropbox/x/memory-common/App/Lottery.php" timestamp="1486436156128">
+        <mark key="[" line="483" column="6" />
+        <mark key="]" line="483" column="5" />
+        <mark key="^" line="483" column="5" />
+        <mark key="." line="496" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1486433317332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1485787979973">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" timestamp="1486434726675">
+        <mark key="'" line="190" column="34" />
+        <mark key="[" line="184" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/x/memory-common/htdocs/lottery/index.php" timestamp="1486434185566">
+        <mark key="[" line="260" column="42" />
+        <mark key="]" line="260" column="42" />
+        <mark key="." line="260" column="42" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="20" column="0" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="198" column="0" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="654" column="17" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="194" column="47" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="192" column="59" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="196" column="63" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="189" column="30" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="190" column="34" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery/Auth/Adapter/UsePoint.php" />
+      <jump line="488" column="15" filename="$USER_HOME$/Dropbox/x/memory-common/App/Lottery.php" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>array_key_exists</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZWNobyAnPHByZT4nOwpwcmludF9yKCk7CmVjaG8gJzwvcHJlPic7CmV4aXQoX19GSUxFX18uJyBsaW5lOicuX19MSU5FX18pOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAnPHByZT4nOwpwcmludF9yKCk7CmVjaG8gJzwvcHJlPic7CmV4aXQoX19GSUxFX18uJyBsaW5lOicuX19MSU5FX18pOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsp</text>
+      </register>
+      <register name="-" type="4">
+        <text>['lottery_boxes'][$boxId];</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwZXJtaXRfY2FzdF9pbmNlbnRpdmVfY291bnRcPg==</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxwZXJtaXRfY2FzdF9pbmNlbnRpdmVfY291bnRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwZXJtaXRfY2FzdF9pbmNlbnRpdmVfY291bnRcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxsaW1pdFw+</entry>
+        <entry encoding="base64">XDxwZXJtaXRfY2FzdF9pbmNlbnRpdmVfY291bnRcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>vsp</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>

@@ -3,7 +3,7 @@
     <property name="created">2017-01-24T18:16:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-01-24T18:17:20</property>
+    <property name="modified">2017-02-07T10:04:02</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
@@ -514,8 +514,8 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="2f632f" />
-        <option name="ERROR_STRIPE_COLOR" value="99ff99" />
+        <option name="BACKGROUND" value="134c13" />
+        <option name="ERROR_STRIPE_COLOR" value="2f901b" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
