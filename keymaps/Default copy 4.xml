@@ -1,0 +1,22 @@
+<keymap version="1" name="Default copy 4" parent="Mac OS X 10.5+">
+  <action id="EditorJoinLines" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="VimMotionNextTab">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="VimMotionPreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="VimWindowNext">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="com.jacksingleton.tabtonextsplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+  </action>
+</keymap>
