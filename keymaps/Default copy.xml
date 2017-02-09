@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
