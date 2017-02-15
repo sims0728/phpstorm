@@ -10,5 +10,6 @@
       </list>
     </option>
     <option name="needMigration" value="false" />
+	<option name="scratchesFolderPath" value="$USER_HOME$/Dropbox/Private/phpstorm/phpstorm_scratch/">
   </component>
 </application>
