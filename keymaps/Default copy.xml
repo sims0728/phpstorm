@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="OpenEditorInOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
@@ -28,7 +31,25 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
 </keymap>
