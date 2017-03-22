@@ -3,7 +3,7 @@
     <property name="created">2017-01-24T18:16:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-22T16:33:57</property>
+    <property name="modified">2017-03-22T16:48:26</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="18" />
@@ -734,7 +734,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="565679" />
+        <option name="BACKGROUND" value="5c3f79" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
