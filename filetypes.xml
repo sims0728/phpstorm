@@ -4,6 +4,7 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping ext="wd" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
