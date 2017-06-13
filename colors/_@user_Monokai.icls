@@ -4,11 +4,13 @@
     <property name="created">2017-06-13T09:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-13T09:50:38</property>
+    <property name="modified">2017-06-13T09:54:09</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Ricty" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -1298,7 +1300,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="b2bf75" />
+        <option name="BACKGROUND" value="4f4f82" />
       </value>
     </option>
     <option name="SLIM_BAD_CHARACTER">
@@ -1443,7 +1445,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="b2bf75" />
+        <option name="BACKGROUND" value="623062" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
