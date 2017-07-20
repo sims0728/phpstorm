@@ -4,12 +4,10 @@
     <property name="created">2017-06-13T09:42:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-13T09:54:09</property>
+    <property name="modified">2017-07-20T15:29:14</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Ricty" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
