@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" timestamp="1503389602863">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="14" column="75" />
+        <mark key="^" line="14" column="75" />
+      </file>
       <file name="$USER_HOME$/seven-env/repos/seven-backend/web/routes/diary.js" timestamp="1503381679752">
         <mark key="[" line="51" column="48" />
         <mark key="]" line="51" column="47" />
@@ -12,14 +18,17 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="4">
+        <text>npm-run-all</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>Information</text>
+        <text>npm-run-all</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Information</text>
+        <text>h</text>
       </register>
     </registers>
     <search>
@@ -29,6 +38,7 @@
     <history>
       <history-cmd>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts />
