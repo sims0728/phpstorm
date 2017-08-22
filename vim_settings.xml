@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" timestamp="1503389602863">
+      <file name="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" timestamp="1503390659907">
+        <mark key="'" line="9" column="26" />
         <mark key="[" line="39" column="5" />
         <mark key="]" line="39" column="15" />
         <mark key="." line="14" column="75" />
@@ -16,7 +17,9 @@
         <mark key="." line="51" column="47" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="9" column="26" filename="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" />
+    </jumps>
     <registers>
       <register name="0" type="4">
         <text>npm-run-all</text>
