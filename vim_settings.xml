@@ -16,6 +16,10 @@
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="47" />
       </file>
+      <file name="/dummy.sql" timestamp="1503541986924">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503542038745" />
     </filemarks>
     <jumps>
       <jump line="9" column="26" filename="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" />
@@ -39,10 +43,13 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
     <editor>
