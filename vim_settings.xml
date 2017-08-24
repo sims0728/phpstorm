@@ -16,10 +16,14 @@
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="47" />
       </file>
-      <file name="/dummy.sql" timestamp="1503541986924">
+      <file name="/dummy.sql" timestamp="1503544579353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503542038745" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503544623078">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="26" filename="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" />
@@ -29,13 +33,13 @@
         <text>npm-run-all</text>
       </register>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>野</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>野</text>
       </register>
     </registers>
     <search>
