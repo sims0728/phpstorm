@@ -16,10 +16,10 @@
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="47" />
       </file>
-      <file name="/dummy.sql" timestamp="1503544579353">
+      <file name="/dummy.sql" timestamp="1503546140859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503544623078">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503546093918">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -33,13 +33,13 @@
         <text>npm-run-all</text>
       </register>
       <register name="&quot;" type="4">
-        <text>野</text>
+        <text>香</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>野</text>
+        <text>香</text>
       </register>
     </registers>
     <search>
