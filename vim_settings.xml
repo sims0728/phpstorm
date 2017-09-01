@@ -16,13 +16,13 @@
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="47" />
       </file>
-      <file name="/dummy.sql" timestamp="1503982740708">
+      <file name="/dummy.sql" timestamp="1504249117434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503981905442">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="39" column="16" />
-        <mark key="." line="39" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504249075579">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -36,7 +36,7 @@
         <text encoding="base64">W+aUvumAgeW+jOiomF0jMyDplbfmnIgg57+gIOWFrOmWi+OBl+OBvuOBl+OBn++8gQoKCjxoMz7mlL7pgIHlvozoqJjjgajjga/vvJ88L2gzPgrnlarntYTlj47pjLLlvozjga7lh7rmvJTogIXjgYzlv4PlooPjgpLlkYrnmb3vvIEK44Oh44Oz44OQ44O844O75Ye65ryU6ICF44Gu6LWk6KO444CF44Gq44Kz44Oh44Oz44OI44KS5YWs6ZaL77yBCgoKPGEgaHJlZj0iL2RpYXJ5Ij7oqbPjgZfjgY/jga/jgZPjgaHjgok8L2E+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CgoKPGgzPuaUvumAgeW+jOiomOOBqOOBr++8nzwvaDM+CgrnlarntYTlj47pjLLlvozjga7lh7rmvJTogIXjgYzlv4PlooPjgpLlkYrnmb3vvIEK44Oh44Oz44OQ44O844O75Ye65ryU6ICF44Gu6LWk6KO444CF44Gq44Kz44Oh44Oz44OI44KS5YWs6ZaL77yBCgoKPGEgaHJlZj0iL2RpYXJ5Ij7oqbPjgZfjgY/jga/jgZPjgaHjgok8L2E+Cg==</text>
@@ -45,7 +45,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
