@@ -28,11 +28,17 @@
         <mark key="." line="19" column="79" />
         <mark key="^" line="14" column="75" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" timestamp="1505147651270">
+        <mark key="'" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/rollup.config.js" timestamp="1505146680463">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="8" column="56" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505147659071">
+        <mark key="'" line="19" column="18" />
       </file>
       <file name="$USER_HOME$/seven-env/repos/seven-backend/web/routes/diary.js" timestamp="1503381679752">
         <mark key="[" line="51" column="48" />
@@ -61,6 +67,9 @@
       <jump line="27" column="0" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" />
       <jump line="44" column="12" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" />
       <jump line="22" column="41" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/package.json" />
+      <jump line="56" column="12" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
+      <jump line="19" column="18" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
