@@ -3,6 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.editorconfig" timestamp="1505143349935">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/package.json" timestamp="1505143757217">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="55" />
+        <mark key="." line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+      </file>
       <file name="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" timestamp="1503392706557">
         <mark key="'" line="9" column="26" />
         <mark key="[" line="19" column="79" />
@@ -16,36 +27,54 @@
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="47" />
       </file>
-      <file name="/dummy.sql" timestamp="1504257358106">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1504251016721">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="/dummy.sql" timestamp="1504257358106">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" timestamp="1505143404090">
+        <mark key="'" line="44" column="12" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="9" column="26" filename="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" />
+      <jump line="27" column="0" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" />
+      <jump line="44" column="12" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>npm-run-all</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW5kZW50X3N0eWxlID0gc3BhY2UKaW5kZW50X3NpemUgPSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W+aUvumAgeW+jOiomF0jMyDplbfmnIgg57+gIOWFrOmWi+OBl+OBvuOBl+OBn++8gQoKCjxoMz7mlL7pgIHlvozoqJjjgajjga/vvJ88L2gzPgrnlarntYTlj47pjLLlvozjga7lh7rmvJTogIXjgYzlv4PlooPjgpLlkYrnmb3vvIEK44Oh44Oz44OQ44O844O75Ye65ryU6ICF44Gu6LWk6KO444CF44Gq44Kz44Oh44Oz44OI44KS5YWs6ZaL77yBCgoKPGEgaHJlZj0iL2RpYXJ5Ij7oqbPjgZfjgY/jga/jgZPjgaHjgok8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">WyoudGFnXQppbmRlbnRfc3R5bGUgPSBzcGFjZQppbmRlbnRfc2l6ZSA9IDIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">W+aUvumAgeW+jOiomF0jMyDplbfmnIgg57+gIOWFrOmWi+OBl+OBvuOBl+OBn++8gQoKCjxoMz7mlL7pgIHlvozoqJjjgajjga/vvJ88L2gzPgrnlarntYTlj47pjLLlvozjga7lh7rmvJTogIXjgYzlv4PlooPjgpLlkYrnmb3vvIEK44Oh44Oz44OQ44O844O75Ye65ryU6ICF44Gu6LWk6KO444CF44Gq44Kz44Oh44Oz44OI44KS5YWs6ZaL77yBCgoKPGEgaHJlZj0iL2RpYXJ5Ij7oqbPjgZfjgY/jga/jgZPjgaHjgok8L2E+Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CgoKPGgzPuaUvumAgeW+jOiomOOBqOOBr++8nzwvaDM+CgrnlarntYTlj47pjLLlvozjga7lh7rmvJTogIXjgYzlv4PlooPjgpLlkYrnmb3vvIEK44Oh44Oz44OQ44O844O75Ye65ryU6ICF44Gu6LWk6KO444CF44Gq44Kz44Oh44Oz44OI44KS5YWs6ZaL77yBCgoKPGEgaHJlZj0iL2RpYXJ5Ij7oqbPjgZfjgY/jga/jgZPjgaHjgok8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
