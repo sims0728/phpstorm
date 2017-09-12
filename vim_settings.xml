@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" timestamp="1505143404090">
-        <mark key="'" line="44" column="12" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="7" />
-        <mark key="^" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-      </file>
       <file name="/Dummy.txt" timestamp="1505184221898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,6 +36,27 @@
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" timestamp="1505186625681">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="1" column="42" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/package.json" timestamp="1505146202638">
+        <mark key="'" line="22" column="41" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="24" column="108" />
+        <mark key="^" line="24" column="108" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" timestamp="1505143404090">
+        <mark key="'" line="44" column="12" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" timestamp="1505184727154">
         <mark key="'" line="6" column="0" />
       </file>
@@ -51,18 +65,14 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505147659071">
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505186591290">
         <mark key="'" line="19" column="18" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1504257358106">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/package.json" timestamp="1505146202638">
-        <mark key="'" line="22" column="41" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="24" column="108" />
-        <mark key="^" line="24" column="108" />
       </file>
     </filemarks>
     <jumps>
@@ -73,43 +83,44 @@
       <jump line="56" column="12" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
       <jump line="6" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
       <jump line="19" column="18" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" />
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJhYmVsIGZyb20gJ3JvbGx1cC1wbHVnaW4tYmFiZWwnCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>// CommonJSモジュールをES6に変換</text>
+        <text>r</text>
       </register>
       <register name="0" type="4">
         <text>bowerResolve</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJhYmVsIGZyb20gJ3JvbGx1cC1wbHVnaW4tYmFiZWwnCg==</text>
+        <text encoding="base64">ICAgICJyb2xsdXAtcGx1Z2luLWJvd2VyLXJlc29sdmUiOiAiXjAuNC4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhYmVsKCkgLy8gRVM144Gr5aSJ5o+bCg==</text>
+        <text encoding="base64">aW1wb3J0IGJhYmVsIGZyb20gJ3JvbGx1cC1wbHVnaW4tYmFiZWwnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc29sdmUgZnJvbSAncm9sbHVwLXBsdWdpbi1ib3dlci1yZXNvbHZlJwo=</text>
+        <text encoding="base64">ICAgIGJhYmVsKCkgLy8gRVM144Gr5aSJ5o+bCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm9sbHVwIH0gZnJvbSAncm9sbHVwJzsK</text>
+        <text encoding="base64">aW1wb3J0IHJlc29sdmUgZnJvbSAncm9sbHVwLXBsdWdpbi1ib3dlci1yZXNvbHZlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicGFyc2VyT3B0aW9ucyI6IHt9LAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcm9sbHVwIH0gZnJvbSAncm9sbHVwJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicGFyc2VyT3B0aW9ucyI6IHt9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">WyoudGFnXQppbmRlbnRfc3R5bGUgPSBzcGFjZQppbmRlbnRfc2l6ZSA9IDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
