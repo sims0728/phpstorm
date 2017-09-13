@@ -92,6 +92,13 @@
         <mark key="." line="2" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/states/page.js" timestamp="1505289098042" />
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" timestamp="1505303610224">
+        <mark key="'" line="63" column="1" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="65" column="4" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" timestamp="1505294924177">
         <mark key="'" line="23" column="14" />
         <mark key="[" line="20" column="0" />
@@ -263,6 +270,8 @@
       <jump line="13" column="6" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
       <jump line="21" column="4" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
       <jump line="24" column="14" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
+      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
+      <jump line="63" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -272,7 +281,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>vam</text>
+        <text encoding="base64">XDxEU19TdG9yZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGl2KGlmPSJ7IGlzTGF1bmNoZWQgfSIgZGF0YS1pcz0id2Fnb24teyBwYWdlTmFtZSB9IiByb3V0ZT0ieyBwYWdlUm91dGUgfSIpCg==</text>
@@ -281,37 +290,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vLnRoZW4oKCkgPT4gc3RvcmUuaW5pdCgpKQo=</text>
+        <text encoding="base64">LmlkZWEKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">LmVkaXRvcmNvbmZpZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIC8vLnRoZW4oKCkgPT4gc3RvcmUuaW5pdCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjcmlwdC5hcHBseSh0aGlzKTsK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>vam</last-search>
+      <last-search encoding="base64">XDxEU19TdG9yZVw+</last-search>
       <last-offset />
-      <last-pattern>vam</last-pattern>
+      <last-pattern encoding="base64">XDxEU19TdG9yZVw+</last-pattern>
       <last-replace />
       <last-substitute>asset\/</last-substitute>
       <last-dir>1</last-dir>
@@ -324,6 +333,7 @@
         <entry>asset</entry>
         <entry encoding="base64">XDxoYW5kbGVNZW51VGFwXD4=</entry>
         <entry>vam</entry>
+        <entry encoding="base64">XDxEU19TdG9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
