@@ -109,8 +109,8 @@
       <file name="/Dummy.txt" timestamp="1505355961158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505358423040">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505360387800">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -240,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEU19TdG9yZVw+</text>
