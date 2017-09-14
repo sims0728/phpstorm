@@ -27,7 +27,7 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505355203649">
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505378878865">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -151,6 +151,12 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.editorconfig" timestamp="1505214246471">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.eslintrc.json" timestamp="1505146462884">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -182,6 +188,12 @@
         <mark key="]" line="47" column="1" />
         <mark key="^" line="47" column="1" />
         <mark key="." line="47" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.local.config.js" timestamp="1505213440976">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/getters/index.js" timestamp="1505290745938">
         <mark key="'" line="58" column="1" />
