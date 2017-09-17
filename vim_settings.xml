@@ -35,11 +35,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505663102323">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="38" />
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505663551408">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/router.js" timestamp="1505294886228">
         <mark key="'" line="37" column="1" />
@@ -87,6 +87,12 @@
         <mark key="]" line="51" column="47" />
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="47" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/index.js" timestamp="1505664639370">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="/dummy.sql" timestamp="1505370680007">
         <mark key="[" line="0" column="0" />
@@ -138,12 +144,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/router.js" timestamp="1505663094166">
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="11" />
-        <mark key="^" line="41" column="11" />
-        <mark key="." line="41" column="11" />
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/router.js" timestamp="1505664165364">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/wagon/index.tag" timestamp="1505663545210" />
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.tag" timestamp="1505662440679">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -281,43 +287,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHAgYWFhYWFhCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>\'2017-09-14 02:30:04\'</text>
       </register>
-      <register name="0" type="4">
-        <text>2017-09-14 02:30:04</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAgYWFhYWFhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYW5kbGVOZXdzUGF0OiB7CiAgIHRoaXMuY2xvc2UoKTsKICAgdGhpcy5nZXRSb3V0ZXIoKS5uYXZpZ2F0ZVRvKCcvc2lnbnVwJyk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24oKSB7CgoJLy8g44Oc44K/44Oz56iu6aGe44CCCgl0aGlzLnR5cGUgPSB0aGlzLm9wdHMudHlwZSB8fCAncHJpbWFyeSc7CgoJdGhpcy5oYW5kbGVUYXAgPSBlID0+IHsKCQlpZiAodGhpcy5vcHRzLmlzZGlzYWJsZWQpIHsKCQkJcmV0dXJuOwoJCX0KCgkJLy8gYG9udGFwYOOBoOOBqOmDveWQiOOBjOaCquOBhOOBruOBp2BvbnBhdGDjgpLkvb/nlKjjgZnjgovjgIIKCQl0aGlzLm9wdHMub25wYXQgJiYgdGhpcy5vcHRzLm9ucGF0KGUpOwoJfTsKfQo=</text>
+        <text encoding="base64">ICAgIHAgYWFhYWFhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2Fnb24tYW5jaG9yLWxpbmsoY2xhc3M9IkJ1dHRvbiBCdXR0b24tLXsgdHlwZSB9IHsgb3B0cy5pc2Rpc2FibGVkID8gJ0J1dHRvbi0tZGlzYWJsZWQnIDogJycgfSB7IG9wdHMuY2xhc3MgfSIgcmVmPSJ0b3VjaCIgb25UYXA9ImhhbmRsZVRhcCIpCiAgeWllbGQuCgogIHNjcmlwdC4KICAgIGltcG9ydCBzY3JpcHQgZnJvbSAnLi9pbmRleCc7CiAgICB0aGlzLmV4dGVybmFsKHNjcmlwdCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuQnV0dG9uX19sYWJlbAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24oKSB7CgoJLy8g44Oc44K/44Oz56iu6aGe44CCCgl0aGlzLnR5cGUgPSB0aGlzLm9wdHMudHlwZSB8fCAncHJpbWFyeSc7CgoJdGhpcy5oYW5kbGVUYXAgPSBlID0+IHsKCQlpZiAodGhpcy5vcHRzLmlzZGlzYWJsZWQpIHsKCQkJcmV0dXJuOwoJCX0KCgkJLy8gYG9udGFwYOOBoOOBqOmDveWQiOOBjOaCquOBhOOBruOBp2BvbnBhdGDjgpLkvb/nlKjjgZnjgovjgIIKCQl0aGlzLm9wdHMub25wYXQgJiYgdGhpcy5vcHRzLm9ucGF0KGUpOwoJfTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRlYnVnZ2VyCg==</text>
+        <text encoding="base64">d2Fnb24tYW5jaG9yLWxpbmsoY2xhc3M9IkJ1dHRvbiBCdXR0b24tLXsgdHlwZSB9IHsgb3B0cy5pc2Rpc2FibGVkID8gJ0J1dHRvbi0tZGlzYWJsZWQnIDogJycgfSB7IG9wdHMuY2xhc3MgfSIgcmVmPSJ0b3VjaCIgb25UYXA9ImhhbmRsZVRhcCIpCiAgeWllbGQuCgogIHNjcmlwdC4KICAgIGltcG9ydCBzY3JpcHQgZnJvbSAnLi9pbmRleCc7CiAgICB0aGlzLmV4dGVybmFsKHNjcmlwdCk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAuQnV0dG9uX19sYWJlbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
