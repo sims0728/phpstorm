@@ -203,12 +203,12 @@
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="2" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505213951834">
-        <mark key="'" line="63" column="13" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="34" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="34" />
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505783707085">
+        <mark key="'" line="65" column="13" />
+        <mark key="[" line="27" column="65" />
+        <mark key="]" line="27" column="65" />
+        <mark key="^" line="27" column="65" />
+        <mark key="." line="27" column="65" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1505290771785">
         <mark key="'" line="29" column="0" />
@@ -265,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>\'2017-09-14 02:30:04\'</text>
