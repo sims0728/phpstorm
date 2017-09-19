@@ -40,10 +40,10 @@
         <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505380322448">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/states/index.js" timestamp="1505290635838">
         <mark key="'" line="19" column="1" />
@@ -97,6 +97,7 @@
         <mark key="^" line="2" column="55" />
         <mark key="." line="2" column="55" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/states/page.js" timestamp="1505289098042" />
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" timestamp="1505303610224">
         <mark key="'" line="63" column="1" />
         <mark key="[" line="66" column="0" />
@@ -141,18 +142,7 @@
         <mark key="]" line="4910" column="0" />
         <mark key="." line="4910" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.js" timestamp="1505790535917">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505790379424">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.js" timestamp="1505790535917" />
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-footer/index.tag" timestamp="1505354989338">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="5" />
