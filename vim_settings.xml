@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.tag" timestamp="1505788134181" />
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/rollup.config.js" timestamp="1505146680463">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -27,7 +28,7 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505786390436">
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505788140748">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -90,6 +91,7 @@
         <mark key="^" line="2" column="55" />
         <mark key="." line="2" column="55" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/states/page.js" timestamp="1505289098042" />
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" timestamp="1505303610224">
         <mark key="'" line="63" column="1" />
         <mark key="[" line="66" column="0" />
@@ -134,7 +136,7 @@
         <mark key="]" line="4910" column="0" />
         <mark key="." line="4910" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505294701550">
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505788727938">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="1" column="3" />
         <mark key="^" line="1" column="3" />
