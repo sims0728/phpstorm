@@ -27,6 +27,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505786390436">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505380322448">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="15" />
@@ -203,12 +208,12 @@
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="2" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505783707085">
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505786369663">
         <mark key="'" line="65" column="13" />
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="27" column="65" />
-        <mark key="^" line="27" column="65" />
-        <mark key="." line="27" column="65" />
+        <mark key="[" line="27" column="82" />
+        <mark key="]" line="27" column="82" />
+        <mark key="^" line="27" column="82" />
+        <mark key="." line="27" column="82" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1505290771785">
         <mark key="'" line="29" column="0" />
@@ -264,11 +269,11 @@
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>\'2017-09-14 02:30:04\'</text>
@@ -280,15 +285,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>INSERT INTO `artist_snapshots` (`artist_id`, `onair_information_id`, `battle_id`, `position_id`, `createdAt`, `updatedAt`, `deletedAt`)
 VALUES
   (1, 6, 6, 1, now(), now(), NULL),
@@ -298,35 +315,6 @@ VALUES
   (3, 6, 6, 5, now(), now(), NULL),
   (7, 6, 6, 6, now(), now(), NULL),
   (9, 6, 6, 7, now(), now(), NULL);</text>
-      </register>
-      <register name="6" type="8">
-        <text>5
-5
-5
-5
-5
-5
-5</text>
-      </register>
-      <register name="7" type="8">
-        <text>5
-5
-5
-5
-5
-5</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIA==</text>
-      </register>
-      <register name="9" type="8">
-        <text>29,
-30,
-31,
-32,
-33,
-34,
-35,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
