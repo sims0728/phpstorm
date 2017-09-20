@@ -143,6 +143,7 @@
         <mark key="." line="4910" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.js" timestamp="1505790535917" />
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505870220021" />
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-footer/index.tag" timestamp="1505354989338">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="5" />
@@ -212,7 +213,7 @@
         <mark key="." line="54" column="2" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505786369663">
-        <mark key="'" line="65" column="13" />
+        <mark key="'" line="66" column="13" />
         <mark key="[" line="27" column="82" />
         <mark key="]" line="27" column="82" />
         <mark key="^" line="27" column="82" />
