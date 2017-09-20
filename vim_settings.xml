@@ -75,6 +75,20 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/package.json" timestamp="1505146202638">
+        <mark key="'" line="22" column="41" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="24" column="108" />
+        <mark key="^" line="24" column="108" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" timestamp="1505143404090">
+        <mark key="'" line="44" column="12" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" timestamp="1505369485607">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="0" column="0" />
@@ -86,6 +100,13 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/getters/page.js" timestamp="1505290348524">
+        <mark key="'" line="33" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="1" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="1" />
       </file>
       <file name="filetypes.xml" timestamp="1505355331252">
         <mark key="[" line="0" column="0" />
@@ -131,6 +152,13 @@
       </file>
       <file name="/Dummy.txt" timestamp="1505355961158">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" timestamp="1503392706557">
+        <mark key="'" line="9" column="26" />
+        <mark key="[" line="19" column="79" />
+        <mark key="]" line="19" column="79" />
+        <mark key="." line="19" column="79" />
+        <mark key="^" line="14" column="75" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505367820280">
         <mark key="[" line="0" column="16" />
@@ -205,12 +233,33 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/api/common.js" timestamp="1505874858600">
+        <mark key="'" line="298" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="301" column="31" />
+        <mark key="^" line="301" column="31" />
+        <mark key="." line="301" column="31" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/getters/index.js" timestamp="1505290745938">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="54" column="2" />
         <mark key="]" line="54" column="2" />
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="2" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/index.js" timestamp="1505210808505">
+        <mark key="'" line="22" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="25" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/postcss.config.js" timestamp="1505200187052">
+        <mark key="'" line="30" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" timestamp="1505786369663">
         <mark key="'" line="66" column="13" />
@@ -271,6 +320,7 @@
       <jump line="90" column="120" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" />
+      <jump line="298" column="6" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/api/common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
