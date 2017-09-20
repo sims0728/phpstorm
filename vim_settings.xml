@@ -73,11 +73,11 @@
         <mark key="^" line="65" column="4" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/public/index.pug" timestamp="1505212508800">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/public/index.pug" timestamp="1505893696526">
+        <mark key="[" line="66" column="50" />
+        <mark key="]" line="66" column="50" />
+        <mark key="^" line="66" column="50" />
+        <mark key="." line="66" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505367820280">
         <mark key="[" line="0" column="16" />
@@ -266,17 +266,17 @@
       <jump line="298" column="6" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/api/common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>V</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>\'2017-09-14 02:30:04\'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAuaGVhZGVyV3JhcHBlcgogICAgd2Fnb24taGVhZGVyCg==</text>
+        <text encoding="base64">LSB2YXIgaXNMb2NhbCA9IChlbnYgPT09ICdsb2NhbCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgfSk7Cg==</text>
