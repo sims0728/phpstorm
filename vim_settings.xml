@@ -58,6 +58,11 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/public/news/index.pug" timestamp="1507011558534">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/core/router.js" timestamp="1505290219313">
         <mark key="'" line="44" column="1" />
         <mark key="[" line="2" column="55" />
@@ -83,6 +88,11 @@
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/dist/js/app.js" timestamp="1505294900357">
+        <mark key="[" line="4910" column="0" />
+        <mark key="]" line="4910" column="0" />
+        <mark key="." line="4910" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-footer/index.tag" timestamp="1505354989338">
         <mark key="[" line="1" column="4" />
@@ -146,6 +156,12 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/css/app.pcss" timestamp="1507011880615">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/states/account.js" timestamp="1505890610646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="1" />
@@ -167,6 +183,11 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.editorconfig" timestamp="1505143349935">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1505370680007">
         <mark key="[" line="0" column="0" />
@@ -271,43 +292,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>aqua</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>aqua</text>
       </register>
       <register name="/" type="4">
         <text>\'2017-09-14 02:30:04\'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSB2YXIgaXNMb2NhbCA9IChlbnYgPT09ICdsb2NhbCcpOwo=</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
