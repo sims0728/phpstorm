@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/seven/repos/seven-backend/shared/services/image.js" timestamp="1508407871980" />
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/rollup.config.js" timestamp="1505146680463">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -76,6 +77,7 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/seven/repos/seven-backend/web/views/history/index.pug" timestamp="1508407804465" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" timestamp="1505369485607">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="0" column="0" />
