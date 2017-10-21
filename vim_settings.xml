@@ -183,11 +183,11 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/index.tag" timestamp="1508478534886">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/index.tag" timestamp="1508495253561">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" timestamp="1505294924177">
         <mark key="'" line="17" column="14" />
@@ -219,6 +219,13 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" timestamp="1508494872531">
+        <mark key="'" line="106" column="8" />
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/core/mixin.js" timestamp="1505804328629">
         <mark key="[" line="33" column="0" />
@@ -303,55 +310,58 @@
       <jump line="30" column="22" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/core/router.js" />
       <jump line="23" column="18" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" />
       <jump line="19" column="20" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" />
+      <jump line="35" column="37" filename="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" />
+      <jump line="109" column="8" filename="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" />
+      <jump line="106" column="8" filename="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBkaXYoZWFjaD0ie2l0ZW0gaW4gbGlzdH0iKQogIHwge2l0ZW0uaWR9CiAgfCB7aXRlbS50aXRsZX0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\'2017-09-14 02:30:04\'</text>
+        <text>href</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkaXYoZWFjaD0ie2l0ZW0gaW4gbGlzdH0iKQogIHwge2l0ZW0uaWR9CiAgfCB7aXRlbS50aXRsZX0K</text>
+        <text encoding="base64">ICAgICAgfCB7aXRlbS5kaXNwbGF5X2RhdGV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAje2l0ZW0uaWR9Cg==</text>
+        <text encoding="base64">ICAgIGxpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlYWNoIGl0ZW0gaW4gbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgfCB7aXRlbS5kaXNwbGF5X2RhdGV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAje2l0ZW0uaWR9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1oZWFkZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1mb290ZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1tZW51L2luZGV4LnRhZyc7CiAgICBpbXBvcnQgJy4uL2NvbXBvbmVudHMvcGFnZXMvaW5kZXgvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9wYWdlcy9uZXdzL2luZGV4LnRhZyc7Cg==</text>
+        <text encoding="base64">ICBlYWNoIGl0ZW0gaW4gbGlzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQuc3RhdGUucGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1oZWFkZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1mb290ZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1tZW51L2luZGV4LnRhZyc7CiAgICBpbXBvcnQgJy4uL2NvbXBvbmVudHMvcGFnZXMvaW5kZXgvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9wYWdlcy9uZXdzL2luZGV4LnRhZyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGl2ICJ3YWdvbi17IHBhZ2VOYW1lIH0iCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQuc3RhdGUucGFnZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQuc3RhdGUucGFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGl2ICJ3YWdvbi17IHBhZ2VOYW1lIH0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\'2017-09-14 02:30:04\'</last-search>
+      <last-search>href</last-search>
       <last-offset />
-      <last-pattern>\'2017-09-14 02:30:04\'</last-pattern>
+      <last-pattern>href</last-pattern>
       <last-replace>now\(\)</last-replace>
       <last-substitute>\'2017-09-14 02:30:04\'</last-substitute>
       <last-dir>1</last-dir>
@@ -366,6 +376,7 @@
         <entry>vam</entry>
         <entry encoding="base64">XDxEU19TdG9yZVw+</entry>
         <entry>\'2017-09-14 02:30:04\'</entry>
+        <entry>href</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
