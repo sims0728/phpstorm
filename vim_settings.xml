@@ -142,6 +142,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1508836400759">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="59" />
+      </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" timestamp="1505803052954">
         <mark key="'" line="19" column="20" />
         <mark key="[" line="22" column="0" />
@@ -232,10 +236,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news-detail/route.js" timestamp="1508827551632">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news-detail/route.js" timestamp="1508836321075">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="50" />
+        <mark key="." line="15" column="50" />
+        <mark key="^" line="15" column="50" />
       </file>
       <file name="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" timestamp="1508494872531">
         <mark key="'" line="106" column="8" />
@@ -347,16 +352,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBbY29uc3RhbnRzLk5FV1NfR0VUTElTVF06IG5ld3MuZ2V0TGlzdCwKICBbY29uc3RhbnRzLkRJU0NPR1JBUEhJRVNfR0VUX0xJU1RdOiBkaXNjb2dyYXBoaWVzLmdldExpc3QsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>LIST</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBQ0NPVU5UXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkaXYgeyBvcHRzLmxhYmVsIH0K</text>
+        <text encoding="base64">ICBbY29uc3RhbnRzLk5FV1NfR0VUTElTVF06IG5ld3MuZ2V0TGlzdCwKICBbY29uc3RhbnRzLkRJU0NPR1JBUEhJRVNfR0VUX0xJU1RdOiBkaXNjb2dyYXBoaWVzLmdldExpc3QsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
