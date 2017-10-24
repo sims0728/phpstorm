@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/seven/repos/seven-backend/shared/services/image.js" timestamp="1508407871980" />
       <file name="$USER_HOME$/seven-env/repos/seven-backend/web/routes/diary.js" timestamp="1503381679752">
         <mark key="[" line="51" column="48" />
         <mark key="]" line="51" column="47" />
@@ -49,13 +48,13 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1508479795201" />
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/router.js" timestamp="1505294886228">
         <mark key="'" line="37" column="1" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" timestamp="1508815253917" />
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505790084968">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="41" />
@@ -158,7 +157,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/seven/repos/seven-backend/web/views/history/index.pug" timestamp="1508407804465" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" timestamp="1505369485607">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="0" column="0" />
