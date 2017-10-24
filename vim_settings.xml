@@ -121,10 +121,6 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1508828859288">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="56" />
-      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/index.html" timestamp="1505198095809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="6" />
@@ -199,6 +195,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.tag" timestamp="1508857516893" />
       <file name="filetypes.xml" timestamp="1505355331252">
         <mark key="[" line="0" column="0" />
       </file>
