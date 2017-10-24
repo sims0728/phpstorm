@@ -67,11 +67,24 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/router.js" timestamp="1508823771821">
+        <mark key="'" line="38" column="18" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="187" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/public/index.pug" timestamp="1505212508800">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news-detail/index.tag" timestamp="1508823221365">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508119057233">
         <mark key="[" line="0" column="0" />
@@ -187,11 +200,11 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/index.tag" timestamp="1508817568251">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/index.tag" timestamp="1508823108758">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" timestamp="1505294924177">
         <mark key="'" line="17" column="14" />
@@ -324,46 +337,47 @@
       <jump line="109" column="8" filename="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" />
       <jump line="106" column="8" filename="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" />
       <jump line="6" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" />
+      <jump line="38" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgLm9uKCcvbmV3cy8qJywgcm91dGUgPT4gTmV3c0RldGFpbFJvdXRlLm9uRW50ZXIoc3RvcmUsIHJvdXRlKSwgKHJvdXRlLCByZXBsYWNlKSA9PiBOZXdzRGV0YWlsUm91dGUub25CZWZvcmUoc3RvcmUsIHJvdXRlLCByZXBsYWNlKSwgcm91dGUgPT4gTmV3c0RldGFpbFJvdXRlLm9uQWZ0ZXIoc3RvcmUsIHJvdXRlKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Detail</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBQ0NPVU5UXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfCB7aXRlbS5kaXNwbGF5X2RhdGV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgLm9uKCcvbmV3cy8qJywgcm91dGUgPT4gTmV3c0RldGFpbFJvdXRlLm9uRW50ZXIoc3RvcmUsIHJvdXRlKSwgKHJvdXRlLCByZXBsYWNlKSA9PiBOZXdzRGV0YWlsUm91dGUub25CZWZvcmUoc3RvcmUsIHJvdXRlLCByZXBsYWNlKSwgcm91dGUgPT4gTmV3c0RldGFpbFJvdXRlLm9uQWZ0ZXIoc3RvcmUsIHJvdXRlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfCB7aXRlbS5pZH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhY2NvdW50LAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfCB7aXRlbS5kaXNwbGF5X2RhdGV9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAje2l0ZW0uaWR9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlYWNoIGl0ZW0gaW4gbGlzdAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhY2NvdW50LAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGxpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfCB7aXRlbS5kaXNwbGF5X2RhdGV9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAje2l0ZW0uaWR9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlYWNoIGl0ZW0gaW4gbGlzdAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1oZWFkZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1mb290ZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1tZW51L2luZGV4LnRhZyc7CiAgICBpbXBvcnQgJy4uL2NvbXBvbmVudHMvcGFnZXMvaW5kZXgvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9wYWdlcy9uZXdzL2luZGV4LnRhZyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1oZWFkZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1mb290ZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1tZW51L2luZGV4LnRhZyc7CiAgICBpbXBvcnQgJy4uL2NvbXBvbmVudHMvcGFnZXMvaW5kZXgvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9wYWdlcy9uZXdzL2luZGV4LnRhZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
