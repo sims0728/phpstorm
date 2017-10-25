@@ -170,11 +170,11 @@
         <mark key="." line="13" column="26" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/route.js" timestamp="1508902750472">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/route.js" timestamp="1508908914861">
         <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="31" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/news.js" timestamp="1508903091150">
         <mark key="[" line="14" column="31" />
