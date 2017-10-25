@@ -9,21 +9,11 @@
         <mark key="^" line="51" column="47" />
         <mark key="." line="51" column="47" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/router.js" timestamp="1505664165364">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505355203649">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.js" timestamp="1505791325275">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" timestamp="1505214064944">
         <mark key="[" line="8" column="36" />
@@ -37,40 +27,29 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/wagon/index.js" timestamp="1505805205289">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/dist/asset/css/app.css" timestamp="1505202648542">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/newsCategory.js" timestamp="1508860660970">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="36" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/newsCategory.js" timestamp="1508935491945">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="2" />
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" timestamp="1508860336576">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
-        <mark key="^" line="20" column="13" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" timestamp="1508935474425">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505790084968">
         <mark key="[" line="2" column="37" />
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/router.js" timestamp="1508899334744">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/public/index.pug" timestamp="1505212508800">
         <mark key="[" line="12" column="8" />
@@ -83,21 +62,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1508119057233">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/dist/js/app.js" timestamp="1505294900357">
-        <mark key="[" line="4910" column="0" />
-        <mark key="]" line="4910" column="0" />
-        <mark key="." line="4910" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/index.js" timestamp="1505791318650">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505791270500">
         <mark key="[" line="6" column="59" />
@@ -117,33 +81,24 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/app.js" timestamp="1505294954971">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/newsCategory.js" timestamp="1508915310212">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/newsCategory.js" timestamp="1508935695904">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="45" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="13" column="2" />
         <mark key="." line="0" column="111" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news-detail/index.js" timestamp="1508842203506">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/news.js" timestamp="1508935818022">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="46" />
+        <mark key="." line="31" column="46" />
+        <mark key="^" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/news.js" timestamp="1508915324878">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="50" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.tag" timestamp="1508923049892">
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="60" />
-        <mark key="^" line="13" column="60" />
-        <mark key="." line="13" column="60" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.tag" timestamp="1508936235403">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="59" />
+        <mark key="^" line="3" column="59" />
+        <mark key="." line="3" column="59" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/index.html" timestamp="1505198095809">
         <mark key="[" line="0" column="0" />
@@ -151,29 +106,19 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1508861016807">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="52" />
-        <mark key="." line="25" column="52" />
-        <mark key="^" line="25" column="52" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1508936169269">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="44" />
+        <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/router.js" timestamp="1505793931100">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1508829622027">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" timestamp="1508911893804">
-        <mark key="'" line="31" column="29" />
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="47" />
-        <mark key="." line="33" column="47" />
-        <mark key="^" line="33" column="47" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" timestamp="1508935684837">
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="34" column="41" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/route.js" timestamp="1508909637846">
         <mark key="[" line="12" column="0" />
@@ -181,31 +126,31 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/news.js" timestamp="1508913455437">
-        <mark key="[" line="8" column="79" />
-        <mark key="]" line="8" column="79" />
-        <mark key="^" line="8" column="102" />
-        <mark key="." line="8" column="79" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/news.js" timestamp="1508935950695">
+        <mark key="'" line="25" column="25" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1508860585644">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="49" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1508935889936">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/news.js" timestamp="1508930087590">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="31" column="49" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/news.js" timestamp="1508936153531">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.js" timestamp="1508923897712">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
-        <mark key="^" line="31" column="30" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.js" timestamp="1508936317137">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" timestamp="1505803052954">
         <mark key="'" line="19" column="20" />
@@ -214,16 +159,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/news.js" timestamp="1508922622084">
-        <mark key="[" line="13" column="51" />
-        <mark key="]" line="13" column="51" />
-        <mark key="^" line="13" column="51" />
-        <mark key="." line="13" column="51" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/newsCategory.js" timestamp="1508860260415">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/news.js" timestamp="1508935526175">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/rollup.config.js" timestamp="1505146680463">
         <mark key="[" line="3" column="0" />
@@ -243,56 +183,27 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/dist/js/app.js" timestamp="1505804383784">
-        <mark key="[" line="4241" column="0" />
-        <mark key="]" line="4241" column="0" />
-        <mark key="." line="4241" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/news.js" timestamp="1508935324196">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/news.js" timestamp="1508922565330">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="11" column="8" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/css/app.pcss" timestamp="1505291885661">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.tag" timestamp="1508922778348">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.tag" timestamp="1508936226197">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="56" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+        <mark key="^" line="6" column="61" />
       </file>
       <file name="filetypes.xml" timestamp="1505355331252">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/wagon/index.tag" timestamp="1505805302337">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505791341066">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.js" timestamp="1508828280991">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="3" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/public/news/index.pug" timestamp="1505804074144">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/index.tag" timestamp="1508835534800">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" timestamp="1508839138707">
         <mark key="[" line="15" column="44" />
@@ -305,11 +216,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="53" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.editorconfig" timestamp="1505143349935">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1508411688751">
         <mark key="[" line="0" column="0" />
@@ -326,20 +232,10 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/index.tag" timestamp="1505793796817">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/newsCategory.js" timestamp="1508863884901">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/newsCategory.js" timestamp="1508935345948">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="2" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news-detail/route.js" timestamp="1508842207973">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" timestamp="1508918544151">
         <mark key="'" line="34" column="41" />
@@ -347,11 +243,6 @@
         <mark key="]" line="51" column="68" />
         <mark key="." line="51" column="68" />
         <mark key="^" line="51" column="68" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/core/mixin.js" timestamp="1505804328629">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-header/index.tag" timestamp="1505354977630">
         <mark key="[" line="1" column="5" />
@@ -383,15 +274,15 @@
         <mark key="." line="47" column="53" />
         <mark key="^" line="47" column="52" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.js" timestamp="1508923767036">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.js" timestamp="1508936658789">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/newsCategory.js" timestamp="1508915196774">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/newsCategory.js" timestamp="1508935925754">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="12" column="2" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/mutations/page.js" timestamp="1505804527150">
@@ -406,11 +297,11 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/route.js" timestamp="1508916266795">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/route.js" timestamp="1508936443217">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -479,46 +370,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.tag" />
       <jump line="34" column="41" filename="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" />
       <jump line="25" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/news.js" />
+      <jump line="25" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/news.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0aGlzLmhhbmRsZUFydGlzdENsaWNrID0gZSA9PiB7CiAgICB0aGlzLmdldFJvdXRlcigpLm5hdmlnYXRlVG8oYC9tZW1iZXJzLyR7ZS5pdGVtLml0ZW0uaWR9YCk7CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RvcmUuYWN0aW9uKGFjdGlvbnMuTkVXU19HRVRfQ0FURUdPUlkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2Fnb24tYW5jaG9yLWxpbmsobGFiZWw9IntpdGVtLnRpdGxlfSIgb25DbGljaz0ieyBoYW5kbGVOZXdzRGV0YWlsQ2xpY2sgfSIpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlCiAgICAgIC5hbGwoWwogICAgICAgIHN0b3JlLmFjdGlvbihhY3Rpb25zLk5FV1NfR0VUX0xJU1QsIHBhZ2UsIHNpemUpLAogICAgICAgIHN0b3JlLmFjdGlvbihhY3Rpb25zLk5FV1NfQ0FURUdPUllfR0VUX0xJU1QpCiAgICAgIF0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGl2KGVhY2g9IntkYXRhLCBpIGluIGNhdGVnb3J5fSIgaWY9IntpdGVtLmNhdGVnb3J5X2lkID09IGRhdGEuaWR9Iikge2RhdGEubmFtZX0K</text>
+        <text encoding="base64">ICAgICAgLnJlc29sdmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVsCiAgICAgIGxpKGsK</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIHJldHVybiBzdG9yZS5hY3Rpb24oYWN0aW9ucy5ORVdTX0dFVF9DQVRFR09SWSk7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpdiB7ZGF0YS5kaXNwbGF5X2RhdGV9Cg==</text>
+        <text encoding="base64">ICAgICAgLnJlc29sdmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpdiB7ZGF0YS5jYXRlZ29yeV9pZH0K</text>
+        <text encoding="base64">ICB0aGlzLnByZXZfYnRuID0gc3RvcmUuZ2V0dGVyKGdldHRlcnMuTkVXU19QUkVWX0JUTik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aGlzLm5leHRfYnRuID0gc3RvcmUuZ2V0dGVyKGdldHRlcnMuTkVXU19ORVhUX0JUTik7CiAgdGhpcy5wcmV2X2J0biA9IHN0b3JlLmdldHRlcihnZXR0ZXJzLk5FV1NfUFJFVl9CVE4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgREFURV9GT1JNQVQgPSAnWVlZWS1NTS1ERCcK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgREFURV9GT1JNQVQgPSAnWVlZWS1NTS1ERCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ld3NDYXRlZ29yeSBmcm9tICcuL25ld3NDYXRlZ29yeSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5ld3NDYXRlZ29yeSBmcm9tICcuL25ld3NDYXRlZ29yeSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
