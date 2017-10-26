@@ -268,11 +268,11 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/public/news/index.pug" timestamp="1508818044644">
-        <mark key="[" line="47" column="53" />
-        <mark key="]" line="47" column="53" />
-        <mark key="." line="47" column="53" />
-        <mark key="^" line="47" column="52" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/public/news/index.pug" timestamp="1508986853180">
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+        <mark key="^" line="45" column="21" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.js" timestamp="1508944646316">
         <mark key="[" line="10" column="17" />
@@ -374,10 +374,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>E</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
