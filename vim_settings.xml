@@ -274,11 +274,11 @@
         <mark key="." line="47" column="53" />
         <mark key="^" line="47" column="52" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.js" timestamp="1508938197687">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.js" timestamp="1508944646316">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
-        <mark key="^" line="17" column="28" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/newsCategory.js" timestamp="1508935925754">
         <mark key="[" line="3" column="0" />
