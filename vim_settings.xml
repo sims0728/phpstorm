@@ -94,12 +94,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.tag" timestamp="1509042140250">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.tag" timestamp="1509068808954">
         <mark key="'" line="10" column="14" />
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/index.html" timestamp="1505198095809">
         <mark key="[" line="0" column="0" />
@@ -127,12 +127,12 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/news.js" timestamp="1509041084652">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/news.js" timestamp="1509069215996">
         <mark key="'" line="44" column="25" />
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="42" />
-        <mark key="^" line="40" column="14" />
-        <mark key="." line="48" column="42" />
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="48" column="63" />
+        <mark key="^" line="48" column="63" />
+        <mark key="." line="48" column="63" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1508935889936">
         <mark key="'" line="23" column="0" />
@@ -378,43 +378,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnRpc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2F0ZWdvcnlJZDogY29udGV4dC5zdGF0ZS5uZXdzLmNhdGVnb3J5SWQsCg==</text>
+        <text encoding="base64">ICAgICAgdmlydHVhbChpZj0ie2FydGlzdC50b0xpbmsgPT09IHRydWV9IikKICAgICAgICBkaXYgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3YWdvbi1hbmNob3ItbGluayhsYWJlbD0ie2FydGlzdC5uYW1lfSIgb25DbGljaz0ieyBoYW5kbGVBcnRpc3RDbGljayB9IikK</text>
+        <text encoding="base64">ICAgICAgZGl2KGlmPSJ7YXJ0aXN0LnRvTGluayA9PT0gZmFsc2V9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgZGl2KGlmPSJ7YXJ0aXN0LnRvTGluayA9PT0gdHJ1ZX0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICB3YWdvbi1hbmNob3ItbGluayhsYWJlbD0ie2FydGlzdC5uYW1lfSIgb25DbGljaz0ieyBoYW5kbGVBcnRpc3RDbGljayB9IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
