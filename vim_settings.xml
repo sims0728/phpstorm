@@ -27,6 +27,12 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1509094782080">
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="29" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/dist/asset/css/app.css" timestamp="1505202648542">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="15" />
@@ -38,12 +44,6 @@
         <mark key="]" line="3" column="2" />
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" timestamp="1508935474425">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505790084968">
         <mark key="[" line="2" column="37" />
@@ -378,10 +378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>local-store-main.in.lastidol.net</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>local-store-main.in.lastidol.net</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnRpc3RcPg==</text>
