@@ -15,18 +15,18 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" timestamp="1509181329226">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="25" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" timestamp="1509183999548">
+        <mark key="[" line="7" column="114" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" timestamp="1509181712539">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" timestamp="1509183598309">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" timestamp="1505214064944">
         <mark key="[" line="8" column="36" />
@@ -119,11 +119,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/schedules.js" timestamp="1509174172864">
-        <mark key="[" line="40" column="35" />
-        <mark key="]" line="40" column="38" />
-        <mark key="^" line="40" column="38" />
-        <mark key="." line="40" column="38" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/schedules.js" timestamp="1509183564376">
+        <mark key="[" line="48" column="35" />
+        <mark key="]" line="48" column="45" />
+        <mark key="^" line="48" column="45" />
+        <mark key="." line="48" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-footer/index.tag" timestamp="1505354989338">
         <mark key="[" line="1" column="4" />
@@ -288,7 +288,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509181473753">
+      <file name="/Dummy.txt" timestamp="1509183594275">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505294701550">
@@ -462,44 +462,44 @@
       <jump line="31" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LIST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>LIST</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicm93c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTQ0hFRFVMRVNfTElTVDogJ1NDSEVEVUxFU19MSVNUJywK</text>
+        <text encoding="base64">ICBsaXN0OiBjb250ZXh0ID0+IHsKICAgIHJldHVybiBjb250ZXh0LnN0YXRlLnNjaGVkdWxlcy5saXN0OwogIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FhYWFhYWFhYWFhYWFhYWEnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ3YXRjaDpicm93c2VyIjogImJyb3dzZXItc3luYyBzdGFydCAtLXNlcnZlciBkaXN0IC0tcG9ydCA4MDAwIC0tcmVsb2FkLWRlbGF5IDEwMDAgLS1maWxlcyAnc3JjLyoqLyonIiwK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1bAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICJ3YXRjaDpicm93c2VyIjogImJyb3dzZXItc3luYyBzdGFydCAtLXNlcnZlciBkaXN0IC0tcG9ydCA4MDAwIC0tcmVsb2FkLWRlbGF5IDEwMDAgLS1maWxlcyAnc3JjLyoqLyonIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICB1bAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
