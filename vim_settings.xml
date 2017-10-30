@@ -127,7 +127,6 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/mixin.js" timestamp="1509243722514" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/artists.js" timestamp="1509225217736">
         <mark key="'" line="15" column="39" />
         <mark key="[" line="20" column="3" />
@@ -152,6 +151,13 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" timestamp="1509361733454">
+        <mark key="'" line="40" column="43" />
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="14" column="59" />
+        <mark key="." line="14" column="59" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/core/mixin.js" timestamp="1505293832126">
         <mark key="[" line="0" column="18" />
@@ -271,6 +277,12 @@
         <mark key="." line="17" column="26" />
         <mark key="^" line="17" column="26" />
       </file>
+      <file name="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Makefile" timestamp="1509361742669">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/page.js" timestamp="1505288828292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="16" column="1" />
@@ -298,7 +310,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/public/schedule/index.pug" timestamp="1509176998386" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.tag" timestamp="1509085709419">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="80" />
@@ -312,7 +323,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/tmp/vam-me-frontend/src/components/pages/vam-howto/index.js" timestamp="1509242255076" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.js" timestamp="1508828280991">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="3" />
@@ -366,6 +376,12 @@
         <mark key="." line="51" column="68" />
         <mark key="^" line="51" column="68" />
       </file>
+      <file name="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/README.md" timestamp="1509361804736">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-header/index.tag" timestamp="1505354977630">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="10" />
@@ -383,6 +399,12 @@
         <mark key="]" line="3" column="43" />
         <mark key="^" line="3" column="43" />
         <mark key="." line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/Dockerfile/build.sh" timestamp="1509361775610">
+        <mark key="[" line="51" column="7" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="^" line="51" column="7" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/actions/page.js" timestamp="1505796003437">
         <mark key="[" line="13" column="19" />
@@ -424,12 +446,8 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/wagon-anchor-link/index.tag" timestamp="1509079747356" />
     </filemarks>
     <jumps>
-      <jump line="68" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/router.js" />
-      <jump line="26" column="36" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
-      <jump line="27" column="38" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
       <jump line="3" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
       <jump line="25" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
       <jump line="12" column="23" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
@@ -527,55 +545,58 @@
       <jump line="19" column="87" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
       <jump line="6" column="32" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
       <jump line="75" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="89" column="44" filename="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" />
+      <jump line="91" column="40" filename="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" />
+      <jump line="92" column="43" filename="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>selected</text>
+        <text encoding="base64">XDxBUkNIXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>selectedCategory</text>
+      <register name="0" type="2">
+        <text encoding="base64">bm9kZS84LjYvYW16bi4yMDE3LjA5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDpgbjmip7muIjjgb/jgqvjg4bjgrTjg6oKICAgKiBAcGFyYW0gY29udGV4dAogICAqIEByZXR1cm5zIHtzZWxlY3RlZENhdGVnb3J5fChmdW5jdGlvbigqKSl8c3RyaW5nfCp9CiAgICovCiAgc2VsZWN0ZWRDYXRlZ29yeTogY29udGV4dCA9PiB7CiAgICByZXR1cm4gY29udGV4dC5zdGF0ZS5zY2hlZHVsZXMuc2VsZWN0ZWRDYXRlZ29yeTsKICB9LAoKICAvKioKICAgKiDpgbjmip7muIjjgb/jgqLjg7zjg4bjgqPjgrnjg4hJRAogICAqIEBwYXJhbSBjb250ZXh0CiAgICogQHJldHVybnMge3NlbGVjdGVkQXJ0aXN0fChmdW5jdGlvbigqKSl8c3RyaW5nfCp9CiAgICovCiAgc2VsZWN0ZWRBcnRpc3Q6IGNvbnRleHQgPT4gewogICAgcmV0dXJuIGNvbnRleHQuc3RhdGUuc2NoZWR1bGVzLnNlbGVjdGVkQXJ0aXN0OwogIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">UlVOIGdyb3VwYWRkIC0tZ2lkIDEwMDAgbm9kZSBcCiAgJiYgdXNlcmFkZCAtLXVpZCAxMDAwIC0tZ2lkIG5vZGUgLS1zaGVsbCAvYmluL2Jhc2ggLS1jcmVhdGUtaG9tZSBub2RlCgojIGdwZyBrZXlzIGxpc3RlZCBhdCBodHRwczovL2dpdGh1Yi5jb20vbm9kZWpzL25vZGUjcmVsZWFzZS10ZWFtClJVTiBzZXQgLWV4IFwKICAmJiBmb3Iga2V5IGluIFwKICAgIDk1NTRGMDRENzI1OUYwNDEyNERFNkI0NzZENUE4MkFDN0UzNzA5M0IgXAogICAgOTRBRTM2Njc1QzQ2NEQ2NEJBRkE2OERENzQzNDM5MEJEQkU5QjlDNSBcCiAgICBGRDNBNTI4OEYwNDJCNjg1MEM2NkIzMUYwOUZFNDQ3MzRFQjc5OTBFIFwKICAgIDcxRENGRDI4NEE3OUMzQjM4NjY4Mjg2QkM5N0VDN0EwN0VERTNGQzEgXAogICAgREQ4RjIzMzhCQUU3NTAxRTNERDVBQzc4QzI3Mzc5MkY3RDgzNTQ1RCBcCiAgICBCOUFFOTkwNUZGRDc4MDNGMjU3MTQ2NjFCNjNCNTM1QTRDMjA2Q0E5IFwKICAgIEM0RjBERkZGNEU4QzFBODIzNjQwOUQwOEU3M0JDNjQxQ0MxMUY0QzggXAogICAgNTY3MzBENTQwMTAyODY4MzI3NUJEMjNDMjNFRkVGRTkzQzRDRkZGRSBcCiAgOyBkbyBcCiAgICBncGcgLS1rZXlzZXJ2ZXIgcGdwLm1pdC5lZHUgLS1yZWN2LWtleXMgIiRrZXkiIHx8IFwKICAgIGdwZyAtLWtleXNlcnZlciBrZXlzZXJ2ZXIucGdwLmNvbSAtLXJlY3Yta2V5cyAiJGtleSIgfHwgXAogICAgZ3BnIC0ta2V5c2VydmVyIGhhLnBvb2wuc2tzLWtleXNlcnZlcnMubmV0IC0tcmVjdi1rZXlzICIka2V5IiA7IFwKICBkb25lCgpFTlYgTlBNX0NPTkZJR19MT0dMRVZFTCBpbmZvCkVOViBOT0RFX1ZFUlNJT04gOC42LjAKClJVTiBjdXJsIC1TTE8gImh0dHBzOi8vbm9kZWpzLm9yZy9kaXN0L3YkTk9ERV9WRVJTSU9OL25vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5neiIgXAogICYmIGN1cmwgLVNMTyAiaHR0cHM6Ly9ub2RlanMub3JnL2Rpc3QvdiROT0RFX1ZFUlNJT04vU0hBU1VNUzI1Ni50eHQuYXNjIiBcCiAgJiYgZ3BnIC0tYmF0Y2ggLS1kZWNyeXB0IC0tb3V0cHV0IFNIQVNVTVMyNTYudHh0IFNIQVNVTVMyNTYudHh0LmFzYyBcCiAgJiYgZ3JlcCAiIG5vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5nelwkIiBTSEFTVU1TMjU2LnR4dCB8IHNoYTI1NnN1bSAtYyAtIFwKICAmJiB0YXIgLXh2emYgIm5vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5neiIgLUMgL3Vzci9sb2NhbCAtLXN0cmlwLWNvbXBvbmVudHM9MSBcCiAgJiYgcm0gIm5vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5neiIgU0hBU1VNUzI1Ni50eHQuYXNjIFNIQVNVTVMyNTYudHh0IFwKICAmJiBsbiAtcyAvdXNyL2xvY2FsL2Jpbi9ub2RlIC91c3IvbG9jYWwvYmluL25vZGVqcwoKRU5WIFlBUk5fVkVSU0lPTiAxLjEuMAoKUlVOIHNldCAtZXggXAogICYmIGZvciBrZXkgaW4gXAogICAgNkEwMTBDNTE2NjAwNjU5OUFBMTdGMDgxNDZDMjEzMERGRDI0OTdGNSBcCiAgOyBkbyBcCiAgICBncGcgLS1rZXlzZXJ2ZXIgcGdwLm1pdC5lZHUgLS1yZWN2LWtleXMgIiRrZXkiIHx8IFwKICAgIGdwZyAtLWtleXNlcnZlciBrZXlzZXJ2ZXIucGdwLmNvbSAtLXJlY3Yta2V5cyAiJGtleSIgfHwgXAogICAgZ3BnIC0ta2V5c2VydmVyIGhhLnBvb2wuc2tzLWtleXNlcnZlcnMubmV0IC0tcmVjdi1rZXlzICIka2V5IiA7IFwKICBkb25lIFwKICAmJiBjdXJsIC1mU0xPIC0tY29tcHJlc3NlZCAiaHR0cHM6Ly95YXJucGtnLmNvbS9kb3dubG9hZHMvJFlBUk5fVkVSU0lPTi95YXJuLXYkWUFSTl9WRVJTSU9OLnRhci5neiIgXAogICYmIGN1cmwgLWZTTE8gLS1jb21wcmVzc2VkICJodHRwczovL3lhcm5wa2cuY29tL2Rvd25sb2Fkcy8kWUFSTl9WRVJTSU9OL3lhcm4tdiRZQVJOX1ZFUlNJT04udGFyLmd6LmFzYyIgXAogICYmIGdwZyAtLWJhdGNoIC0tdmVyaWZ5IHlhcm4tdiRZQVJOX1ZFUlNJT04udGFyLmd6LmFzYyB5YXJuLXYkWUFSTl9WRVJTSU9OLnRhci5neiBcCiAgJiYgbWtkaXIgLXAgL29wdC95YXJuIFwKICAmJiB0YXIgLXh6ZiB5YXJuLXYkWUFSTl9WRVJTSU9OLnRhci5neiAtQyAvb3B0L3lhcm4gLS1zdHJpcC1jb21wb25lbnRzPTEgXAogICYmIGxuIC1zIC9vcHQveWFybi9iaW4veWFybiAvdXNyL2xvY2FsL2Jpbi95YXJuIFwKICAmJiBsbiAtcyAvb3B0L3lhcm4vYmluL3lhcm4gL3Vzci9sb2NhbC9iaW4veWFybnBrZyBcCiAgJiYgcm0geWFybi12JFlBUk5fVkVSU0lPTi50YXIuZ3ouYXNjIHlhcm4tdiRZQVJOX1ZFUlNJT04udGFyLmd6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBbY29uc3RhbnRzLlNDSEVEVUxFU19TRUxFQ1RFRF9BUlRJU1RdOiBzY2hlZHVsZXMuc2VsZWN0ZWRBcnRpc3QK</text>
+        <text encoding="base64">Q01EIFsgIm5vZGUiIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbY29uc3RhbnRzLlNDSEVEVUxFU19TRUxFQ1RFRF9DQVRFR09SWV06IHNjaGVkdWxlcy5zZWxlY3RlZENhdGVnb3J5LAo=</text>
+        <text encoding="base64">UlVOIEFSQ0g9ICYmIGRwa2dBcmNoPSIkKGRwa2cgLS1wcmludC1hcmNoaXRlY3R1cmUpIiBcCiAgJiYgY2FzZSAiJHtkcGtnQXJjaCMjKi19IiBpbiBcCiAgICBhbWQ2NCkgQVJDSD0neDY0Jzs7IFwKICAgIHBwYzY0ZWwpIEFSQ0g9J3BwYzY0bGUnOzsgXAogICAgczM5MHgpIEFSQ0g9J3MzOTB4Jzs7IFwKICAgIGFybTY0KSBBUkNIPSdhcm02NCc7OyBcCiAgICBhcm1oZikgQVJDSD0nYXJtdjdsJzs7IFwKICAgICopIGVjaG8gInVuc3VwcG9ydGVkIGFyY2hpdGVjdHVyZSI7IGV4aXQgMSA7OyBcCiAgZXNhYyBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTQ0hFRFVMRVNfU0VMRUNURURfQVJUSVNUOiAnU0NIRURVTEVTX1NFTEVDVEVEX0FSVElTVCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTQ0hFRFVMRVNfU0VMRUNURURfQ0FURUdPUlk6ICdTQ0hFRFVMRVNfU0VMRUNURURfQ0FURUdPUlknLAo=</text>
+        <text encoding="base64">ICAvKioKICAgKiDpgbjmip7muIjjgb/jgqvjg4bjgrTjg6oKICAgKiBAcGFyYW0gY29udGV4dAogICAqIEByZXR1cm5zIHtzZWxlY3RlZENhdGVnb3J5fChmdW5jdGlvbigqKSl8c3RyaW5nfCp9CiAgICovCiAgc2VsZWN0ZWRDYXRlZ29yeTogY29udGV4dCA9PiB7CiAgICByZXR1cm4gY29udGV4dC5zdGF0ZS5zY2hlZHVsZXMuc2VsZWN0ZWRDYXRlZ29yeTsKICB9LAoKICAvKioKICAgKiDpgbjmip7muIjjgb/jgqLjg7zjg4bjgqPjgrnjg4hJRAogICAqIEBwYXJhbSBjb250ZXh0CiAgICogQHJldHVybnMge3NlbGVjdGVkQXJ0aXN0fChmdW5jdGlvbigqKSl8c3RyaW5nfCp9CiAgICovCiAgc2VsZWN0ZWRBcnRpc3Q6IGNvbnRleHQgPT4gewogICAgcmV0dXJuIGNvbnRleHQuc3RhdGUuc2NoZWR1bGVzLnNlbGVjdGVkQXJ0aXN0OwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VsZWN0ZWRBcnRpc3QgPSBzdG9yZS5nZXR0ZXIoZ2V0dGVycy5TQ0hFRFVMRVNfU0VMRUNURURfQVJUSVNUKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>selected</last-search>
+      <last-search encoding="base64">XDxBUkNIXD4=</last-search>
       <last-offset />
-      <last-pattern>selected</last-pattern>
+      <last-pattern encoding="base64">XDxBUkNIXD4=</last-pattern>
       <last-replace>now\(\)</last-replace>
       <last-substitute>\'2017-09-14 02:30:04\'</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
         <entry encoding="base64">XDxicm93c2VyXD4=</entry>
         <entry encoding="base64">XDxTQ0hFRFVMRVNfTUVOVVw+</entry>
         <entry>current</entry>
@@ -603,6 +623,7 @@
         <entry>href</entry>
         <entry encoding="base64">XDx1cGRhdGVTZWxlY3RlZENhdGVnb3J5XD4=</entry>
         <entry>selected</entry>
+        <entry encoding="base64">XDxBUkNIXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -612,9 +633,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>exit</entry>
         <entry>W</entry>
-        <entry>sp</entry>
         <entry>noh</entry>
         <entry>vsp</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
