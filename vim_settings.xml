@@ -3,10 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.js" timestamp="1505791325275">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/seven-env/repos/seven-backend/web/routes/diary.js" timestamp="1508918594308">
+        <mark key="[" line="51" column="48" />
+        <mark key="]" line="51" column="47" />
+        <mark key="^" line="51" column="47" />
+        <mark key="." line="51" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505355203649">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" timestamp="1509357391150">
+        <mark key="'" line="19" column="87" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="24" column="104" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" timestamp="1509358299359">
+        <mark key="'" line="6" column="32" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="41" column="12" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" timestamp="1505214064944">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.pug" timestamp="1505210695990">
         <mark key="[" line="0" column="0" />
@@ -14,121 +41,17 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/seven/repos/seven-backend/web/routes/judge.js" timestamp="1507391392504" />
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/rollup.config.js" timestamp="1505146680463">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="8" column="56" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1509164701260">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="20" />
+        <mark key="^" line="71" column="26" />
+        <mark key="." line="72" column="20" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/router.js" timestamp="1505793931100">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/seven/repos/seven-backend/web/views/includes/_Header.pug" timestamp="1507391851832" />
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/page.js" timestamp="1505288828292">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="1" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505791341066">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/router.js" timestamp="1505294886228">
-        <mark key="'" line="37" column="1" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/core/router.js" timestamp="1505805318760">
-        <mark key="'" line="37" column="22" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/core/mixin.js" timestamp="1505804328629">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="filetypes.xml" timestamp="1505355331252">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505790084968">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/wagon/index.js" timestamp="1505805205289">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.js" timestamp="1505294895107">
-        <mark key="'" line="41" column="7" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/index.html" timestamp="1505198095809">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-      </file>
-      <file name="$USER_HOME$/seven-env/repos/seven-backend/web/routes/diary.js" timestamp="1503381679752">
-        <mark key="[" line="51" column="48" />
-        <mark key="]" line="51" column="47" />
-        <mark key="^" line="51" column="47" />
-        <mark key="." line="51" column="47" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/index.js" timestamp="1505791318650">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505791270500">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/seven/repos/seven-backend/web/views/judge/index.pug" timestamp="1507391510195" />
-      <file name="/dummy.sql" timestamp="1505370680007">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/index.tag" timestamp="1505793796817">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505294701550">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/core/mixin.js" timestamp="1505293832126">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/dist/js/app.js" timestamp="1505804383784">
-        <mark key="[" line="4241" column="0" />
-        <mark key="]" line="4241" column="0" />
-        <mark key="." line="4241" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1507391889955">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/route.js" timestamp="1509351851146">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/dist/asset/css/app.css" timestamp="1505202648542">
         <mark key="[" line="1" column="15" />
@@ -136,10 +59,92 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.editorconfig" timestamp="1505143349935">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/artists.js" timestamp="1509219905017">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1509181037610">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/newsCategory.js" timestamp="1508935491945">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" timestamp="1509348692697">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.js" timestamp="1505790084968">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/schedules.js" timestamp="1509356904727">
+        <mark key="'" line="16" column="18" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/schedules.js" timestamp="1509352156971">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/router.js" timestamp="1509211484550">
+        <mark key="'" line="71" column="28" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/public/index.pug" timestamp="1505212508800">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/artists.js" timestamp="1509358031616">
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="58" />
+        <mark key="." line="31" column="58" />
+        <mark key="^" line="31" column="74" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news-detail/index.tag" timestamp="1508842065858">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/artists.js" timestamp="1509225217736">
+        <mark key="'" line="15" column="39" />
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505791270500">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/schedules.js" timestamp="1509358935018">
+        <mark key="'" line="79" column="6" />
+        <mark key="[" line="94" column="3" />
+        <mark key="]" line="94" column="3" />
+        <mark key="^" line="104" column="0" />
+        <mark key="." line="94" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-footer/index.tag" timestamp="1505354989338">
         <mark key="[" line="1" column="4" />
@@ -147,10 +152,98 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/index/router.js" timestamp="1505664165364">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" timestamp="1509361733454">
+        <mark key="'" line="40" column="43" />
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="14" column="59" />
+        <mark key="." line="14" column="59" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/core/mixin.js" timestamp="1505293832126">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/newsCategory.js" timestamp="1508935695904">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="0" column="111" />
+        <mark key="^" line="11" column="45" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-detail-page/index.tag" timestamp="1509211222922">
+        <mark key="[" line="17" column="81" />
+        <mark key="]" line="17" column="81" />
+        <mark key="." line="17" column="81" />
+        <mark key="^" line="17" column="81" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/news.js" timestamp="1509041353344">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/index.html" timestamp="1505198095809">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/wagon-anchor-link/index.js" timestamp="1509085957273">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1509356789593">
+        <mark key="'" line="40" column="58" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="38" column="67" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" timestamp="1509358223671">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="57" column="40" />
+        <mark key="^" line="58" column="54" />
+        <mark key="." line="57" column="40" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/route.js" timestamp="1509210980448">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/news.js" timestamp="1509069215996">
+        <mark key="'" line="44" column="25" />
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="48" column="63" />
+        <mark key="^" line="48" column="63" />
+        <mark key="." line="48" column="63" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/discographies.js" timestamp="1509335212000">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1509356755558">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/news.js" timestamp="1509042209822">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="41" column="50" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="41" column="53" />
+        <mark key="^" line="41" column="53" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.js" timestamp="1509220741848">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" timestamp="1505803052954">
         <mark key="'" line="19" column="20" />
@@ -159,60 +252,135 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/wagon/index.tag" timestamp="1505805302337">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/news.js" timestamp="1509042225561">
+        <mark key="'" line="59" column="26" />
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/public/news/index.pug" timestamp="1505804074144">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="36" />
-        <mark key="." line="9" column="36" />
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/rollup.config.js" timestamp="1505146680463">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.tag" timestamp="1505789901112">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="39" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/wagon-menu/index.js" timestamp="1508898791442">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/actions/page.js" timestamp="1505796003437">
-        <mark key="[" line="13" column="19" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-detail-page/index.js" timestamp="1509219748582">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="53" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Makefile" timestamp="1509361742669">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/page.js" timestamp="1505288828292">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" timestamp="1509358050708">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/news.js" timestamp="1509166758400">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/page.js" timestamp="1509348539282">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" timestamp="1509358304960">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.tag" timestamp="1509085709419">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="80" />
         <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" timestamp="1505294924177">
-        <mark key="'" line="17" column="14" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/artists.js" timestamp="1509216550395">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.js" timestamp="1508828280991">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/artists.js" timestamp="1509224761011">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" timestamp="1508839138707">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/pages/news/index.js" timestamp="1508839348541">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+        <mark key="^" line="15" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505367820280">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="/dummy.sql" timestamp="1508411688751">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/public/index.pug" timestamp="1505212508800">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+      <file name="/Dummy.txt" timestamp="1509358850322">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/dist/js/app.js" timestamp="1505294900357">
-        <mark key="[" line="4910" column="0" />
-        <mark key="]" line="4910" column="0" />
-        <mark key="." line="4910" column="0" />
+      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/index.tag" timestamp="1505294701550">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.eslintrc.json" timestamp="1505146462884">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="3" column="43" />
-        <mark key="^" line="3" column="43" />
-        <mark key="." line="3" column="43" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/newsCategory.js" timestamp="1508935345948">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/app.js" timestamp="1505294954971">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/seven-env/repos/seven-backend/web/views/diary/index.pug" timestamp="1508918544151">
+        <mark key="'" line="34" column="41" />
+        <mark key="[" line="51" column="44" />
+        <mark key="]" line="51" column="68" />
+        <mark key="." line="51" column="68" />
+        <mark key="^" line="51" column="68" />
+      </file>
+      <file name="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/README.md" timestamp="1509361804736">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-header/index.tag" timestamp="1505354977630">
         <mark key="[" line="1" column="5" />
@@ -220,17 +388,45 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/elements/wagon-menu/index.tag" timestamp="1505355203649">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.tag" timestamp="1505789901112">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" timestamp="1505369485607">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.eslintrc.json" timestamp="1505146462884">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/Dockerfile/build.sh" timestamp="1509361775610">
+        <mark key="[" line="51" column="7" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="^" line="51" column="7" />
+      </file>
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/actions/page.js" timestamp="1505796003437">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/public/news/index.pug" timestamp="1509093475222">
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-detail-page/index.js" timestamp="1509211001632">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/newsCategory.js" timestamp="1508935925754">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/mutations/page.js" timestamp="1505804527150">
         <mark key="[" line="12" column="0" />
@@ -238,114 +434,169 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" timestamp="1505214064944">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="8" column="43" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/parts/wagon-anchor-link/index.tag" timestamp="1508834894570">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/css/app.pcss" timestamp="1505291885661">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/route.js" timestamp="1508936443217">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="26" filename="$USER_HOME$/Dropbox/seven/repos/seven-contents/package.json" />
-      <jump line="27" column="0" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" />
-      <jump line="44" column="12" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/.gitignore" />
-      <jump line="22" column="41" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/package.json" />
-      <jump line="56" column="12" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
-      <jump line="6" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
-      <jump line="19" column="18" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" />
-      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/rollup.config.js" />
-      <jump line="31" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/postcss.config.js" />
-      <jump line="86" column="2" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/app.js" />
-      <jump line="23" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/index.js" />
-      <jump line="82" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/core/router.js" />
-      <jump line="34" column="25" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
-      <jump line="13" column="65" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" />
-      <jump line="10" column="35" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" />
-      <jump line="63" column="13" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/package.json" />
-      <jump line="105" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/index.js" />
-      <jump line="64" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/components/pages/index/router.js" />
-      <jump line="88" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/index.js" />
-      <jump line="73" column="28" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/index.js" />
-      <jump line="62" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/mutations/index.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/mutations/index.js" />
-      <jump line="44" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/mutations/page.js" />
-      <jump line="25" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/states/index.js" />
-      <jump line="64" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/getters/index.js" />
-      <jump line="33" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/getters/page.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/mutations/index.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.js" />
-      <jump line="41" column="7" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.js" />
-      <jump line="2" column="8" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
-      <jump line="9" column="6" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
-      <jump line="11" column="6" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
-      <jump line="13" column="6" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
-      <jump line="21" column="4" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
-      <jump line="24" column="14" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/wagon/index.tag" />
-      <jump line="9" column="0" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
-      <jump line="63" column="1" filename="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/.gitignore" />
-      <jump line="90" column="120" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" />
-      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0208e444-b3d4-4d14-9e45-8325b0835e35/console.sql" />
-      <jump line="30" column="22" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/core/router.js" />
-      <jump line="23" column="18" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" />
-      <jump line="19" column="20" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/pages/news/route.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="25" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="29" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="39" column="38" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="28" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="15" column="23" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="28" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
+      <jump line="52" column="5" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
+      <jump line="96" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
+      <jump line="31" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
+      <jump line="15" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="0" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="1" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="10" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="2" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="5" column="42" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="16" column="28" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="24" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="27" column="1" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="64" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/schedules.js" />
+      <jump line="43" column="44" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="60" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/schedules.js" />
+      <jump line="26" column="1" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="69" column="28" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/router.js" />
+      <jump line="46" column="29" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="15" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/artists.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="31" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
+      <jump line="55" column="33" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="60" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="20" column="44" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="13" column="23" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="59" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="38" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="23" column="37" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="39" column="30" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="3" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="36" column="37" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="37" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="38" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="70" column="29" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="35" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="22" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="41" column="60" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="40" column="49" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="32" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="69" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="42" column="58" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
+      <jump line="24" column="41" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="34" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="18" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="20" column="1" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="35" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="19" column="37" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
+      <jump line="57" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="63" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="2" column="50" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="6" column="23" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="61" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="31" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="19" column="21" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="10" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" />
+      <jump line="64" column="20" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="89" column="44" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="69" column="36" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="73" column="44" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="82" column="69" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="85" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="12" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/schedules.js" />
+      <jump line="66" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="46" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="67" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="72" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="76" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="1" column="40" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/index.js" />
+      <jump line="30" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="20" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/schedules.js" />
+      <jump line="77" column="20" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="23" column="5" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="100" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="25" column="94" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="11" column="71" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="13" column="71" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="19" column="87" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.tag" />
+      <jump line="6" column="32" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-page/index.js" />
+      <jump line="75" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/schedules.js" />
+      <jump line="89" column="44" filename="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" />
+      <jump line="91" column="40" filename="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" />
+      <jump line="92" column="43" filename="$USER_HOME$/Dockerfile/node/8.8/amzn.2017.09/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>\'2017-09-14 02:30:04\'</text>
+        <text encoding="base64">XDxBUkNIXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9wYWdlcy9pbmRleC9pbmRleC50YWcnOwo=</text>
+        <text encoding="base64">bm9kZS84LjYvYW16bi4yMDE3LjA5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1oZWFkZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1mb290ZXIvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9lbGVtZW50cy93YWdvbi1tZW51L2luZGV4LnRhZyc7CiAgICBpbXBvcnQgJy4uL2NvbXBvbmVudHMvcGFnZXMvaW5kZXgvaW5kZXgudGFnJzsKICAgIGltcG9ydCAnLi4vY29tcG9uZW50cy9wYWdlcy9uZXdzL2luZGV4LnRhZyc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQuc3RhdGUucGFnZSk7Cg==</text>
+        <text encoding="base64">UlVOIGdyb3VwYWRkIC0tZ2lkIDEwMDAgbm9kZSBcCiAgJiYgdXNlcmFkZCAtLXVpZCAxMDAwIC0tZ2lkIG5vZGUgLS1zaGVsbCAvYmluL2Jhc2ggLS1jcmVhdGUtaG9tZSBub2RlCgojIGdwZyBrZXlzIGxpc3RlZCBhdCBodHRwczovL2dpdGh1Yi5jb20vbm9kZWpzL25vZGUjcmVsZWFzZS10ZWFtClJVTiBzZXQgLWV4IFwKICAmJiBmb3Iga2V5IGluIFwKICAgIDk1NTRGMDRENzI1OUYwNDEyNERFNkI0NzZENUE4MkFDN0UzNzA5M0IgXAogICAgOTRBRTM2Njc1QzQ2NEQ2NEJBRkE2OERENzQzNDM5MEJEQkU5QjlDNSBcCiAgICBGRDNBNTI4OEYwNDJCNjg1MEM2NkIzMUYwOUZFNDQ3MzRFQjc5OTBFIFwKICAgIDcxRENGRDI4NEE3OUMzQjM4NjY4Mjg2QkM5N0VDN0EwN0VERTNGQzEgXAogICAgREQ4RjIzMzhCQUU3NTAxRTNERDVBQzc4QzI3Mzc5MkY3RDgzNTQ1RCBcCiAgICBCOUFFOTkwNUZGRDc4MDNGMjU3MTQ2NjFCNjNCNTM1QTRDMjA2Q0E5IFwKICAgIEM0RjBERkZGNEU4QzFBODIzNjQwOUQwOEU3M0JDNjQxQ0MxMUY0QzggXAogICAgNTY3MzBENTQwMTAyODY4MzI3NUJEMjNDMjNFRkVGRTkzQzRDRkZGRSBcCiAgOyBkbyBcCiAgICBncGcgLS1rZXlzZXJ2ZXIgcGdwLm1pdC5lZHUgLS1yZWN2LWtleXMgIiRrZXkiIHx8IFwKICAgIGdwZyAtLWtleXNlcnZlciBrZXlzZXJ2ZXIucGdwLmNvbSAtLXJlY3Yta2V5cyAiJGtleSIgfHwgXAogICAgZ3BnIC0ta2V5c2VydmVyIGhhLnBvb2wuc2tzLWtleXNlcnZlcnMubmV0IC0tcmVjdi1rZXlzICIka2V5IiA7IFwKICBkb25lCgpFTlYgTlBNX0NPTkZJR19MT0dMRVZFTCBpbmZvCkVOViBOT0RFX1ZFUlNJT04gOC42LjAKClJVTiBjdXJsIC1TTE8gImh0dHBzOi8vbm9kZWpzLm9yZy9kaXN0L3YkTk9ERV9WRVJTSU9OL25vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5neiIgXAogICYmIGN1cmwgLVNMTyAiaHR0cHM6Ly9ub2RlanMub3JnL2Rpc3QvdiROT0RFX1ZFUlNJT04vU0hBU1VNUzI1Ni50eHQuYXNjIiBcCiAgJiYgZ3BnIC0tYmF0Y2ggLS1kZWNyeXB0IC0tb3V0cHV0IFNIQVNVTVMyNTYudHh0IFNIQVNVTVMyNTYudHh0LmFzYyBcCiAgJiYgZ3JlcCAiIG5vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5nelwkIiBTSEFTVU1TMjU2LnR4dCB8IHNoYTI1NnN1bSAtYyAtIFwKICAmJiB0YXIgLXh2emYgIm5vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5neiIgLUMgL3Vzci9sb2NhbCAtLXN0cmlwLWNvbXBvbmVudHM9MSBcCiAgJiYgcm0gIm5vZGUtdiROT0RFX1ZFUlNJT04tbGludXgteDY0LnRhci5neiIgU0hBU1VNUzI1Ni50eHQuYXNjIFNIQVNVTVMyNTYudHh0IFwKICAmJiBsbiAtcyAvdXNyL2xvY2FsL2Jpbi9ub2RlIC91c3IvbG9jYWwvYmluL25vZGVqcwoKRU5WIFlBUk5fVkVSU0lPTiAxLjEuMAoKUlVOIHNldCAtZXggXAogICYmIGZvciBrZXkgaW4gXAogICAgNkEwMTBDNTE2NjAwNjU5OUFBMTdGMDgxNDZDMjEzMERGRDI0OTdGNSBcCiAgOyBkbyBcCiAgICBncGcgLS1rZXlzZXJ2ZXIgcGdwLm1pdC5lZHUgLS1yZWN2LWtleXMgIiRrZXkiIHx8IFwKICAgIGdwZyAtLWtleXNlcnZlciBrZXlzZXJ2ZXIucGdwLmNvbSAtLXJlY3Yta2V5cyAiJGtleSIgfHwgXAogICAgZ3BnIC0ta2V5c2VydmVyIGhhLnBvb2wuc2tzLWtleXNlcnZlcnMubmV0IC0tcmVjdi1rZXlzICIka2V5IiA7IFwKICBkb25lIFwKICAmJiBjdXJsIC1mU0xPIC0tY29tcHJlc3NlZCAiaHR0cHM6Ly95YXJucGtnLmNvbS9kb3dubG9hZHMvJFlBUk5fVkVSU0lPTi95YXJuLXYkWUFSTl9WRVJTSU9OLnRhci5neiIgXAogICYmIGN1cmwgLWZTTE8gLS1jb21wcmVzc2VkICJodHRwczovL3lhcm5wa2cuY29tL2Rvd25sb2Fkcy8kWUFSTl9WRVJTSU9OL3lhcm4tdiRZQVJOX1ZFUlNJT04udGFyLmd6LmFzYyIgXAogICYmIGdwZyAtLWJhdGNoIC0tdmVyaWZ5IHlhcm4tdiRZQVJOX1ZFUlNJT04udGFyLmd6LmFzYyB5YXJuLXYkWUFSTl9WRVJTSU9OLnRhci5neiBcCiAgJiYgbWtkaXIgLXAgL29wdC95YXJuIFwKICAmJiB0YXIgLXh6ZiB5YXJuLXYkWUFSTl9WRVJTSU9OLnRhci5neiAtQyAvb3B0L3lhcm4gLS1zdHJpcC1jb21wb25lbnRzPTEgXAogICYmIGxuIC1zIC9vcHQveWFybi9iaW4veWFybiAvdXNyL2xvY2FsL2Jpbi95YXJuIFwKICAmJiBsbiAtcyAvb3B0L3lhcm4vYmluL3lhcm4gL3Vzci9sb2NhbC9iaW4veWFybnBrZyBcCiAgJiYgcm0geWFybi12JFlBUk5fVkVSU0lPTi50YXIuZ3ouYXNjIHlhcm4tdiRZQVJOX1ZFUlNJT04udGFyLmd6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGl2ICJ3YWdvbi17IHBhZ2VOYW1lIH0iCg==</text>
+        <text encoding="base64">Q01EIFsgIm5vZGUiIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQuc3RhdGUucGFnZSk7Cg==</text>
+        <text encoding="base64">UlVOIEFSQ0g9ICYmIGRwa2dBcmNoPSIkKGRwa2cgLS1wcmludC1hcmNoaXRlY3R1cmUpIiBcCiAgJiYgY2FzZSAiJHtkcGtnQXJjaCMjKi19IiBpbiBcCiAgICBhbWQ2NCkgQVJDSD0neDY0Jzs7IFwKICAgIHBwYzY0ZWwpIEFSQ0g9J3BwYzY0bGUnOzsgXAogICAgczM5MHgpIEFSQ0g9J3MzOTB4Jzs7IFwKICAgIGFybTY0KSBBUkNIPSdhcm02NCc7OyBcCiAgICBhcm1oZikgQVJDSD0nYXJtdjdsJzs7IFwKICAgICopIGVjaG8gInVuc3VwcG9ydGVkIGFyY2hpdGVjdHVyZSI7IGV4aXQgMSA7OyBcCiAgZXNhYyBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRleHQuc3RhdGUucGFnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocm91dGVyLmdldEluc3RhbmNlKCkpOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiDpgbjmip7muIjjgb/jgqvjg4bjgrTjg6oKICAgKiBAcGFyYW0gY29udGV4dAogICAqIEByZXR1cm5zIHtzZWxlY3RlZENhdGVnb3J5fChmdW5jdGlvbigqKSl8c3RyaW5nfCp9CiAgICovCiAgc2VsZWN0ZWRDYXRlZ29yeTogY29udGV4dCA9PiB7CiAgICByZXR1cm4gY29udGV4dC5zdGF0ZS5zY2hlZHVsZXMuc2VsZWN0ZWRDYXRlZ29yeTsKICB9LAoKICAvKioKICAgKiDpgbjmip7muIjjgb/jgqLjg7zjg4bjgqPjgrnjg4hJRAogICAqIEBwYXJhbSBjb250ZXh0CiAgICogQHJldHVybnMge3NlbGVjdGVkQXJ0aXN0fChmdW5jdGlvbigqKSl8c3RyaW5nfCp9CiAgICovCiAgc2VsZWN0ZWRBcnRpc3Q6IGNvbnRleHQgPT4gewogICAgcmV0dXJuIGNvbnRleHQuc3RhdGUuc2NoZWR1bGVzLnNlbGVjdGVkQXJ0aXN0OwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\'2017-09-14 02:30:04\'</last-search>
+      <last-search encoding="base64">XDxBUkNIXD4=</last-search>
       <last-offset />
-      <last-pattern>\'2017-09-14 02:30:04\'</last-pattern>
+      <last-pattern encoding="base64">XDxBUkNIXD4=</last-pattern>
       <last-replace>now\(\)</last-replace>
       <last-substitute>\'2017-09-14 02:30:04\'</last-substitute>
       <last-dir>1</last-dir>
@@ -353,19 +604,38 @@
     </search>
     <history>
       <history-search>
-        <entry>app.css</entry>
-        <entry>asset\/</entry>
-        <entry>asset</entry>
-        <entry encoding="base64">XDxoYW5kbGVNZW51VGFwXD4=</entry>
-        <entry>vam</entry>
-        <entry encoding="base64">XDxEU19TdG9yZVw+</entry>
-        <entry>\'2017-09-14 02:30:04\'</entry>
+        <entry encoding="base64">XDxicm93c2VyXD4=</entry>
+        <entry encoding="base64">XDxTQ0hFRFVMRVNfTUVOVVw+</entry>
+        <entry>current</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZENhdGVnb3J5XD4=</entry>
+        <entry encoding="base64">XDxTQ0hFRFVMRVNfR0VUX0xJU1RcPg==</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZXNcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVTZWxlY3RlZEFydGlzdFw+</entry>
+        <entry encoding="base64">XDxTQ0hFRFVMRVNfVVBEQVRFX1NFTEVDVEVEX0NBVEVHT1JZXD4=</entry>
+        <entry encoding="base64">XDxTQ0hFRFVMRVNfVVBEQVRFX1NFTEVDVEVEX0FSVElTVFw+</entry>
+        <entry encoding="base64">XDxhY3Rpb25zXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVBcnRpc3RDaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxjYXRlb2d5cklkXD4=</entry>
+        <entry encoding="base64">XDxjYXRlZ29yeUlkXD4=</entry>
+        <entry encoding="base64">XDxzdGF0ZXNcPg==</entry>
+        <entry encoding="base64">XDxTQ0hFRFVMRVNcPg==</entry>
+        <entry>Next</entry>
+        <entry>href</entry>
+        <entry encoding="base64">XDx1cGRhdGVTZWxlY3RlZENhdGVnb3J5XD4=</entry>
+        <entry>selected</entry>
+        <entry encoding="base64">XDxBUkNIXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>%s/asset\///g</entry>
         <entry>%s/\'2017-09-14 02:30:04\'/now\(\)/g</entry>
+        <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>exit</entry>
+        <entry>W</entry>
+        <entry>noh</entry>
+        <entry>vsp</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -374,6 +644,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
