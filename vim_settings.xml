@@ -27,10 +27,10 @@
         <mark key="." line="2" column="40" />
         <mark key="^" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/wagon-anchor-link/index.tag" timestamp="1509457604124">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/components/wagon-anchor-link/index.tag" timestamp="1509528584689">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/store/actions/page.js" timestamp="1505288828292">
@@ -780,8 +780,8 @@
       <jump line="6" column="7" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/states/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>img</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB5aWVsZC4KCg==</text>
       </register>
       <register name="-" type="4">
         <text>img</text>
@@ -793,22 +793,22 @@
         <text>{item.name}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICB5aWVsZC4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQuc3RhdGVzLm1lbWJlcnMubGlzdAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQuc3RhdGVzLm1lbWJlcnMubGlzdAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
