@@ -213,10 +213,10 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/pages/wagon-members-detail-page/index.tag" timestamp="1509606042464">
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/pages/wagon-members-detail-page/index.tag" timestamp="1509607873597">
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="24" />
-        <mark key="^" line="21" column="85" />
+        <mark key="^" line="20" column="36" />
         <mark key="." line="21" column="24" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/components/elements/wagon-menu/index.js" timestamp="1508828280991">
@@ -905,16 +905,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW1iZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHttZW1iZXJEYXRhLmZyZWVDb250ZW50fQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGl2IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZGl2KGVhY2g9IntpdGVtIGluIHRlYW1zLmxpc3R9IikK</text>
