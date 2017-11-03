@@ -126,12 +126,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1509600724686">
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1509627495976">
         <mark key="'" line="21" column="19" />
-        <mark key="[" line="40" column="52" />
-        <mark key="]" line="40" column="63" />
-        <mark key="." line="40" column="63" />
-        <mark key="^" line="40" column="63" />
+        <mark key="[" line="29" column="36" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-schedule-detail-page/index.js" timestamp="1509219748582">
         <mark key="[" line="5" column="0" />
@@ -357,12 +357,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1509604873135">
-        <mark key="'" line="53" column="2" />
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="40" />
-        <mark key="." line="48" column="40" />
-        <mark key="^" line="48" column="40" />
+      <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1509627534472">
+        <mark key="'" line="51" column="2" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="47" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/wagon/repos/wagon-frontend/src/css/app.pcss" timestamp="1505291885661">
         <mark key="[" line="1" column="0" />
@@ -845,8 +845,8 @@
       <jump line="34" column="119" filename="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/pages/wagon-members-detail-page/index.tag" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBbY29uc3RhbnRzLkFSVElTVFNfVVBEQVRFX0xJU1RdOiBhcnRpc3RzLnVwZGF0ZUxpc3QK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -858,31 +858,31 @@
         <text>scheduleItems</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGl2KGVhY2g9IntzY2hlZHVsZUl0ZW0gaW4gc2NoZWR1bGVJdGVtcy5saXN0fSIpCg==</text>
+        <text encoding="base64">ICBbY29uc3RhbnRzLkFSVElTVFNfVVBEQVRFX0xJU1RdOiBhcnRpc3RzLnVwZGF0ZUxpc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfCB7aXRlbXMuZGlzcGxheURhdGV9Cg==</text>
+        <text encoding="base64">ICBBUlRJU1RTX1VQREFURV9MSVNUOiAnQVJUSVNUU19VUERBVEVfTElTVCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGl2KGlmPSJ7c2NoZWR1bGVJdGVtcy5kYXRlID09PSBjdXJyZW50RGF0ZX0iKSBUb2RheQo=</text>
+        <text encoding="base64">ICAgICAgZGl2KGVhY2g9IntzY2hlZHVsZUl0ZW0gaW4gc2NoZWR1bGVJdGVtcy5saXN0fSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVsCg==</text>
+        <text encoding="base64">ICAgICAgfCB7aXRlbXMuZGlzcGxheURhdGV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuTmV3c1BhZ2VfX2xpc3RJdGVtTWV0YQo=</text>
+        <text encoding="base64">ICAgICAgZGl2KGlmPSJ7c2NoZWR1bGVJdGVtcy5kYXRlID09PSBjdXJyZW50RGF0ZX0iKSBUb2RheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIHVsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAuTmV3c1BhZ2VfX2xpc3RJdGVtTWV0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGl2KGVhY2g9IntpdGVtIGluIHRlYW1zLmxpc3R9IikK</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfCB7dGVhbXMudGVhbU5hbWV9Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
