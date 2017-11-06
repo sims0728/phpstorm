@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/members.js" timestamp="1509954529866">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="14" column="47" />
+        <mark key="." line="18" column="33" />
+      </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/states/index.js" timestamp="1509456197089">
         <mark key="'" line="6" column="7" />
         <mark key="[" line="15" column="2" />
@@ -277,6 +283,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="35" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-members-page/index.js" timestamp="1509954622656">
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="63" />
+      </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/pages/wagon-news-page/index.tag" timestamp="1509612404435">
         <mark key="'" line="4" column="67" />
         <mark key="[" line="3" column="0" />
@@ -289,6 +301,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/teams.js" timestamp="1509953440723" />
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/getters/artists.js" timestamp="1509605214675">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -574,9 +587,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="47" column="40" />
       </file>
-      <file name="vim_settings.xml" timestamp="1509930869299">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/news.js" timestamp="1509042225561">
         <mark key="'" line="59" column="26" />
         <mark key="[" line="20" column="47" />
@@ -642,11 +652,10 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/artists.js" timestamp="1509945487685">
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="40" column="3" />
-        <mark key="." line="40" column="3" />
-        <mark key="^" line="8" column="41" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/artists.js" timestamp="1509953354657">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/cam_docker/wagon-env/repos/wagon-frontend/src/store/getters/news.js" timestamp="1509435327787">
         <mark key="'" line="67" column="4" />
@@ -695,7 +704,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509952139026">
+      <file name="/Dummy.txt" timestamp="1509953671114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -864,44 +873,44 @@
       <jump line="20" column="30" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQ0hFRFVMRVNfR0VUX0xBVEVTVF9MSVNUXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3QgaSBvZiBvYmoubGlzdC5rZXlzKCkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnZXRTY2hlZHVsZUxpc3Q6IChjb250ZXh0LCBvcHRzKSA9PiB7CiAgICBjb25zdCBxdWVyeSA9IGVuY29kZShvcHRzKTsKCiAgICByZXR1cm4gUHJvbWlzZQogICAgICAucmVzb2x2ZSgpCiAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICByZXR1cm4gZmV0Y2goY29udGV4dCwgJy93YWdvbi1hcnRpc3QvMS4wLjAvYXJ0aXN0LXNjaGVkdWxlcycgKyBxdWVyeSk7CiAgICAgIH0pCiAgICAgIC50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICByZXR1cm4gcmVzcG9uc2UuanNvbigpOwogICAgICB9KTsKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaXN0W2ldLmxpc3Rbel0ubmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBbY29uc3RhbnRzLkFSVElTVFNfR0VUX1NDSEVEVUxFX0xJU1RdOiBhcnRpc3RzLmdldFNjaGVkdWxlTGlzdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBUlRJU1RTX0dFVF9TQ0hFRFVMRV9MSVNUOiAnQVJUSVNUU19HRVRfU0NIRURVTEVfTElTVCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDjgrnjgrHjgrjjg6Xjg7zjg6vkuIDopqcKICAgKiBAcGFyYW0gY29udGV4dAogICAqIEBwYXJhbSBvcHRzCiAgICogQHJldHVybnMge1Byb21pc2UuPFRSZXN1bHQ+fQogICAqLwogIGdldFNjaGVkdWxlTGlzdDogKGNvbnRleHQsIG9wdHMpID0+IHsKICAgIHJldHVybiBQcm9taXNlCiAgICAgIC5yZXNvbHZlKCkKICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIHJldHVybiBhcnRpc3RBcGkuZ2V0U2NoZWR1bGVMaXN0KGNvbnRleHQsIG9wdHMpOwogICAgICB9KQogICAgICAudGhlbihsaXN0ID0+IHsKICAgICAgICBjb250ZXh0LmNvbW1pdChtdXRhdGlvbnMuQVJUSVNUU19VUERBVEVfU0NIRURVTEVfTElTVCwgbGlzdCk7CiAgICAgIH0pOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbY29uc3RhbnRzLkFSVElTVFNfU0NIRURVTEVfTElTVF06IGFydGlzdHMuc2NoZWR1bGVMaXN0LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBBUlRJU1RTX1NDSEVEVUxFX0xJU1Q6ICdBUlRJU1RTX1NDSEVEVUxFX0xJU1QnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDjgrnjgrHjgrjjg6Xjg7zjg6vkuIDopqcKICAgKiBAcGFyYW0gY29udGV4dAogICAqIEByZXR1cm5zIHtzY2hlZHVsZUxpc3R8KGZ1bmN0aW9uKCopKXwqfEFycmF5fQogICAqLwogIHNjaGVkdWxlTGlzdDogY29udGV4dCA9PiB7CiAgICByZXR1cm4gY29udGV4dC5zdGF0ZS5hcnRpc3RzLnNjaGVkdWxlTGlzdDsKICB9LAogIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbY29uc3RhbnRzLkFSVElTVFNfVVBEQVRFX1NDSEVEVUxFX0xJU1RdOiBhcnRpc3RzLnVwZGF0ZVNjaGVkdWxlTGlzdCwK</text>
+        <text encoding="base64">ICAgIG9iai5saXN0LmZvckVhY2goKHRlYW1MaXN0LCB0ZWFtSW5kZXgpID0+IHsKICAgICAgbGV0IHRlYW1JZCA9IHRlYW1MaXN0LnRlYW1JZDsKCiAgICAgIHRlYW1MaXN0Lmxpc3QuZm9yRWFjaChpdGVtID0+IHsKCiAgICAgIH0pCiAgICB9KQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
