@@ -6,9 +6,6 @@
       <file name="/Dummy.txt" timestamp="1525843729179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/onair_information [localhost]" timestamp="1525835455867">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1525835357101">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="36" />
@@ -18,14 +15,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1525835476548">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/battles [localhost]" timestamp="1525833800770">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/payment_logs [localhost]" timestamp="1525833882970">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" timestamp="1525654245541">
-        <mark key="'" line="190" column="21" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1525831419243">
         <mark key="'" line="43" column="0" />
@@ -33,6 +24,18 @@
         <mark key="]" line="376" column="35" />
         <mark key="." line="376" column="35" />
         <mark key="^" line="376" column="35" />
+      </file>
+      <file name="/onair_information [localhost]" timestamp="1525835455867">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-setting-page/index.js" timestamp="1525844331103">
+        <mark key="'" line="33" column="9" />
+      </file>
+      <file name="/battles [localhost]" timestamp="1525833800770">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" timestamp="1525654245541">
+        <mark key="'" line="190" column="21" />
       </file>
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
@@ -45,6 +48,8 @@
       <jump line="190" column="21" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" />
       <jump line="43" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
       <jump line="53" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/6076f87d-a718-40ff-9d6d-6ef452cc3638/console.sql" />
+      <jump line="26" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-setting-page/index.js" />
+      <jump line="33" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-setting-page/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -54,7 +59,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>dev-cf</text>
+        <text encoding="base64">XDxpc05vTWVtYmVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkOiAxNDgsCiAgICAgICAgICAgICAgZXBpc29kZUlkOiAzNiwKICAgICAgICAgICAgICB0aXRsZTogJycsCiAgICAgICAgICAgICAgeW91dHViZUlkOiAnJwogICAgICAgICAgICB9Cg==</text>
@@ -91,15 +96,16 @@
       </register>
     </registers>
     <search>
-      <last-search>dev-cf</last-search>
+      <last-search encoding="base64">XDxpc05vTWVtYmVyXD4=</last-search>
       <last-offset />
-      <last-pattern>dev-cf</last-pattern>
+      <last-pattern encoding="base64">XDxpc05vTWVtYmVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>dev-cf</entry>
+        <entry encoding="base64">XDxpc05vTWVtYmVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
