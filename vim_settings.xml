@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1525843729179">
+      <file name="/Dummy.txt" timestamp="1525845835966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1525835357101">
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="36" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1525845784856">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="25" />
+        <mark key="." line="46" column="25" />
+        <mark key="^" line="46" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1525835476548">
         <mark key="[" line="0" column="0" />
@@ -53,10 +53,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc05vTWVtYmVyXD4=</text>
