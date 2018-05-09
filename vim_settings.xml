@@ -6,18 +6,49 @@
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" timestamp="1525654245541">
         <mark key="'" line="190" column="21" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1525831419243">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="376" column="20" />
+        <mark key="]" line="376" column="35" />
+        <mark key="." line="376" column="35" />
+        <mark key="^" line="376" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="190" column="21" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="0" type="4">
+        <text>//localhost:8080</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>t</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
+      </register>
+      <register name="/" type="4">
+        <text>dev-cf</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>dev-cf</last-search>
+      <last-offset />
+      <last-pattern>dev-cf</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>dev-cf</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
