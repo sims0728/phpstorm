@@ -1,0 +1,8 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="VimInsertExitMode" />
+      <action id="VimResetMode" />
+    </abbreviations>
+  </component>
+</application>
