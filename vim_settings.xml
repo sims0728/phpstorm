@@ -20,6 +20,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" timestamp="1526285668299">
+        <mark key="'" line="7395" column="8" />
+      </file>
       <file name="/users [localhost]" timestamp="1526264621095">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,6 +159,36 @@
       <jump line="14" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="50" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="45" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/package.json" />
+      <jump line="58" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="1895" column="11" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="2088" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="2134" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="2185" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="2352" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="2375" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7035" column="3" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7037" column="35" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7039" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7058" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7068" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7108" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7110" column="8" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7112" column="40" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7114" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7163" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7165" column="3" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7167" column="35" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7169" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7186" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7239" column="8" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7241" column="3" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7243" column="35" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7245" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7261" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7290" column="8" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7292" column="35" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7294" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
+      <jump line="7395" column="8" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -165,7 +198,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>orb</text>
+        <text>lascolle</text>
       </register>
       <register name="0" type="4">
         <text>getSectionTitle</text>
@@ -203,9 +236,9 @@ VALUES</text>
       </register>
     </registers>
     <search>
-      <last-search>orb</last-search>
+      <last-search>lascolle</last-search>
       <last-offset />
-      <last-pattern>orb</last-pattern>
+      <last-pattern>lascolle</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -224,6 +257,7 @@ VALUES</text>
         <entry encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</entry>
         <entry encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</entry>
         <entry>orb</entry>
+        <entry>lascolle</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
