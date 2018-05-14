@@ -3,40 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/package.json" timestamp="1526280458238">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/package.json" timestamp="1526281121955">
         <mark key="'" line="45" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526272790793">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526264413483">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
+        <mark key="[" line="70" column="32" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526264633395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onair.js" timestamp="1525928137256">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526280434696">
-        <mark key="'" line="50" column="34" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="48" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-signup-page/index.tag" timestamp="1526263003847">
-        <mark key="'" line="6" column="35" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="71" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6076f87d-a718-40ff-9d6d-6ef452cc3638/console.sql" timestamp="1526264580997">
         <mark key="[" line="0" column="0" />
@@ -62,9 +39,6 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-setting-page/index.js" timestamp="1525844331103">
-        <mark key="'" line="33" column="9" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" timestamp="1526263019339">
         <mark key="'" line="699" column="44" />
       </file>
@@ -82,19 +56,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="36" column="31" />
       </file>
-      <file name="/battles [localhost]" timestamp="1525833800770">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1525935337888">
         <mark key="'" line="21" column="15" />
         <mark key="^" line="23" column="9" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" timestamp="1526272706329">
-        <mark key="'" line="4" column="31" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" timestamp="1525654245541">
         <mark key="'" line="190" column="21" />
@@ -106,6 +70,46 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-onair-page/index.js" timestamp="1526277172060" />
+      <file name="/Dummy.txt" timestamp="1526281156988">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526264413483">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onair.js" timestamp="1525928137256">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526280434696">
+        <mark key="'" line="50" column="34" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="48" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-signup-page/index.tag" timestamp="1526263003847">
+        <mark key="'" line="6" column="35" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="71" column="34" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-setting-page/index.js" timestamp="1525844331103">
+        <mark key="'" line="33" column="9" />
+      </file>
+      <file name="/battles [localhost]" timestamp="1525833800770">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" timestamp="1526272706329">
+        <mark key="'" line="4" column="31" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="190" column="21" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" />
@@ -155,10 +159,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getSectionTitle</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>videoType</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>orb</text>
