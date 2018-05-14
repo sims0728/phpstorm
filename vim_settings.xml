@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/package.json" timestamp="1526280458238">
+        <mark key="'" line="45" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1526272790793">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,6 +151,7 @@
       <jump line="13" column="55" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="14" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="50" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
+      <jump line="45" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -157,7 +161,7 @@
         <text>videoType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</text>
+        <text>orb</text>
       </register>
       <register name="0" type="4">
         <text>getSectionTitle</text>
@@ -195,9 +199,9 @@ VALUES</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</last-search>
+      <last-search>orb</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</last-pattern>
+      <last-pattern>orb</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -215,6 +219,7 @@ VALUES</text>
         <entry encoding="base64">XDxzZWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</entry>
         <entry encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</entry>
+        <entry>orb</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
