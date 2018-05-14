@@ -23,8 +23,10 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526277757745">
-        <mark key="'" line="14" column="34" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526280434696">
+        <mark key="'" line="50" column="34" />
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="48" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-signup-page/index.tag" timestamp="1526263003847">
         <mark key="'" line="6" column="35" />
@@ -145,19 +147,20 @@
       <jump line="12" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="13" column="55" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="14" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
+      <jump line="50" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>videoType</text>
+        <text>getSectionTitle</text>
       </register>
       <register name="-" type="4">
         <text>videoType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</text>
+        <text encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcGF5bG9hZC52aWRlb190eXBlID0gdmlkZW9UeXBlOwo=</text>
+      <register name="0" type="4">
+        <text>getSectionTitle</text>
       </register>
       <register name="1" type="4">
         <text>air_information` (`id`, `onair_number`, `onair_date`, `season_id`, `youtube_id`, `open_date`, `close_date`, `createdAt`, `updatedAt`, `deletedAt`)
@@ -192,9 +195,9 @@ VALUES</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -211,6 +214,7 @@ VALUES</text>
         <entry>section</entry>
         <entry encoding="base64">XDxzZWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</entry>
+        <entry encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
