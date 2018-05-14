@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1526272790793">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526264413483">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="36" />
@@ -57,8 +60,12 @@
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" timestamp="1526263019339">
         <mark key="'" line="699" column="44" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" timestamp="1526264119190">
-        <mark key="'" line="14" column="6" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" timestamp="1526272762653">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="328" column="69" />
+        <mark key="]" line="328" column="88" />
+        <mark key="." line="328" column="88" />
+        <mark key="^" line="328" column="88" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" timestamp="1525928849638">
         <mark key="'" line="9" column="171" />
@@ -74,10 +81,12 @@
         <mark key="'" line="21" column="15" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" timestamp="1526264081342">
-        <mark key="'" line="33" column="12" />
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="16" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" timestamp="1526272706329">
+        <mark key="'" line="4" column="31" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/event.js" timestamp="1525654245541">
         <mark key="'" line="190" column="21" />
@@ -117,24 +126,30 @@
       <jump line="699" column="44" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
       <jump line="7" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" />
       <jump line="8" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" />
-      <jump line="9" column="33" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" />
       <jump line="33" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" />
       <jump line="327" column="50" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
+      <jump line="255" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
+      <jump line="62" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
+      <jump line="682" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
       <jump line="14" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
+      <jump line="328" column="88" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
+      <jump line="9" column="26" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" />
+      <jump line="4" column="31" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/orb.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>air_information` (`id`, `onair_number`, `onair_date`, `season_id`, `youtube_id`, `open_date`, `close_date`, `createdAt`, `updatedAt`, `deletedAt`)
-VALUES</text>
+        <text>videoType</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>videoType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMQVNDT0xMRV9WT0lDRV9UWVBFXD4=</text>
+        <text encoding="base64">XDx0cmFuc2NvZGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBlcGlzb2RlSWQ6IDM2LAogICAgICAgICAgaXNWaXNpYmxlOiB0cnVlLAogICAgICAgICAgb25haXJOdW1iZXI6IDM2LAogICAgICAgICAgc2Vhc29uSWQ6IDMsCiAgICAgICAgICBjbGlwczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE0NiwKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM2LAogICAgICAgICAgICAgIHRpdGxlOiAn55S655SwIOepguiKse+9nCMzNiDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJ2JnSmxNUlhTZmkwJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE0NywKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM2LAogICAgICAgICAgICAgIHRpdGxlOiAn5rC45LqVIOepguiKse+9nCMzNiDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJ0dXUFlyd29ZWjBJJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE0OCwKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM2LAogICAgICAgICAgICAgIHRpdGxlOiAn5rKz55SwIOaiqOW4hu+9nCMzNiDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJ3dvbmRwd2JJcGh3JwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE0OSwKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM2LAogICAgICAgICAgICAgIHRpdGxlOiAn5qCX55SwIOm6u+Wkru+9nCMzNiDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJ2twS1l3Q2F3MU5NJwogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgcGF5bG9hZC52aWRlb190eXBlID0gdmlkZW9UeXBlOwo=</text>
       </register>
       <register name="1" type="4">
         <text>air_information` (`id`, `onair_number`, `onair_date`, `season_id`, `youtube_id`, `open_date`, `close_date`, `createdAt`, `updatedAt`, `deletedAt`)
@@ -169,9 +184,9 @@ VALUES</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMQVNDT0xMRV9WT0lDRV9UWVBFXD4=</last-search>
+      <last-search encoding="base64">XDx0cmFuc2NvZGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMQVNDT0xMRV9WT0lDRV9UWVBFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc2NvZGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -183,6 +198,8 @@ VALUES</text>
         <entry>signup</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry encoding="base64">XDxMQVNDT0xMRV9WT0lDRV9UWVBFXD4=</entry>
+        <entry encoding="base64">XDxMQVNDT0xMRV9UUkFOU0NPREVcPg==</entry>
+        <entry encoding="base64">XDx0cmFuc2NvZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
