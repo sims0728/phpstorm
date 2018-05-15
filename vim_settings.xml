@@ -35,6 +35,12 @@
       <file name="/payment_logs [localhost]" timestamp="1525833882970">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515073406-lascolles.js" timestamp="1526373999150">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
       <file name="/onair_information [localhost]" timestamp="1526264465174">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,17 +68,13 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="36" column="31" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1525935337888">
-        <mark key="'" line="21" column="15" />
-        <mark key="^" line="23" column="9" />
-      </file>
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1526264621299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526281156988">
+      <file name="/Dummy.txt" timestamp="1526374464669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526264413483">
@@ -114,6 +116,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="25" />
+        <mark key="^" line="87" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -200,16 +208,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sequelize.BIGINT.UNSIGNED,</text>
+        <text>像</text>
       </register>
       <register name="-" type="4">
-        <text>Sequelize.BIGINT.UNSIGNED,</text>
+        <text>像</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZURhdGFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>getSectionTitle</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaW1nX3VybF9rdjogewogICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcoNTEyKSwKICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgIGNvbW1lbnQ6ICdLVueUu+WDj+OBrlVSTCcsCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcXVlcnlJbnRlcmZhY2UucmVtb3ZlSW5kZXgoJ2V4cF9sb2dzJywgJ2V4cF9sb2dzX3VzZXJfaWRfZXhwX2NvbnRlbnRfaWRfZGVzdF9pZCcpCg==</text>
