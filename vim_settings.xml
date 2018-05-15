@@ -35,8 +35,8 @@
       <file name="/payment_logs [localhost]" timestamp="1525833882970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1526375419419">
-        <mark key="'" line="341" column="63" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1526377497413">
+        <mark key="'" line="136" column="25" />
         <mark key="[" line="150" column="11" />
         <mark key="]" line="150" column="14" />
         <mark key="." line="150" column="14" />
@@ -213,6 +213,7 @@
       <jump line="357" column="20" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
       <jump line="364" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" />
       <jump line="341" column="63" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
+      <jump line="136" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -222,7 +223,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>ssl</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW1nX3VybF9rdjogewogICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcoNTEyKSwKICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgIGNvbW1lbnQ6ICdLVueUu+WDj+OBrlVSTCcsCiAgICAgIH0sCg==</text>
@@ -260,15 +261,14 @@ VALUES</text>
       </register>
     </registers>
     <search>
-      <last-search>ssl</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>ssl</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dev-cf</entry>
         <entry encoding="base64">XDxpc05vTWVtYmVyXD4=</entry>
         <entry encoding="base64">XDxwYXlfbWV0aG9kX2Rlc2NcPg==</entry>
         <entry>signup</entry>
@@ -288,6 +288,7 @@ VALUES</text>
         <entry encoding="base64">XDxpbWFnZUZpbGVcPg==</entry>
         <entry encoding="base64">XDxpbWFnZURhdGFcPg==</entry>
         <entry>ssl</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
