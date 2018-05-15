@@ -15,6 +15,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6076f87d-a718-40ff-9d6d-6ef452cc3638/console.sql" timestamp="1526264580997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -66,7 +72,6 @@
       <file name="/dummy.sql" timestamp="1526264621299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-onair-page/index.js" timestamp="1526277172060" />
       <file name="/Dummy.txt" timestamp="1526281156988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,6 +108,12 @@
         <mark key="]" line="9" column="34" />
         <mark key="^" line="9" column="34" />
         <mark key="." line="9" column="34" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515000000-lascolle.js" timestamp="1526369223444">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -189,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>Sequelize.BIGINT.UNSIGNED,</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Sequelize.BIGINT.UNSIGNED,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZURhdGFcPg==</text>
@@ -200,33 +211,33 @@
       <register name="0" type="4">
         <text>getSectionTitle</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcXVlcnlJbnRlcmZhY2UucmVtb3ZlSW5kZXgoJ2V4cF9sb2dzJywgJ2V4cF9sb2dzX3VzZXJfaWRfZXhwX2NvbnRlbnRfaWRfZGVzdF9pZCcpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcXVlcnlJbnRlcmZhY2UuYWRkSW5kZXgoCiAgICAgICAgJ2V4cF9sb2dzJywKICAgICAgICBbJ3VzZXJfaWQnLCAnZXhwX2NvbnRlbnRfaWQnLCAnZGVzdF9pZCddLAogICAgICAgIHsKICAgICAgICAgIGluZGV4TmFtZTogJ2V4cF9sb2dzX3VzZXJfaWRfZXhwX2NvbnRlbnRfaWRfZGVzdF9pZCcsCiAgICAgICAgICBpbmRpY2VzVHlwZTogJ1VOSVFVRScgLy8g44Om44OL44O844Kv44Kk44Oz44OH44OD44Kv44K544Gr44Gq44KK44G+44GZCiAgICAgICAgfQogICAgICApLAo=</text>
+      </register>
+      <register name="3" type="4">
         <text>air_information` (`id`, `onair_number`, `onair_date`, `season_id`, `youtube_id`, `open_date`, `close_date`, `createdAt`, `updatedAt`, `deletedAt`)
 VALUES</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYG9uYWlyX2luZm9ybWF0aW9uYCAoYGlkYCwgYG9uYWlyX251bWJlcmAsIGBvbmFpcl9kYXRlYCwgYHNlYXNvbl9pZGAsIGB5b3V0dWJlX2lkYCwgYG9wZW5fZGF0ZWAsIGBjbG9zZV9kYXRlYCwgYGNyZWF0ZWRBdGAsIGB1cGRhdGVkQXRgLCBgZGVsZXRlZEF0YCkKVkFMVUVTCiAgKDM4LCAzOCwgJzIwMTgtMDUtMjAgMDA6MTA6MDAnLCAzLCAnJywgJzIwMTgtMDUtMTMgMDA6MzU6MDAnLCAnMjAxOC0wNS0yMCAwMDozNTowMCcsICcwMDAwLTAwLTAwIDAwOjAwOjAwJywgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLCBOVUxMKTsKCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAoMzYsIDM2LCAnMjAxOC0wNS0wNiAwMDoxMDowMCcsIDMsICczQTJoc1FRME9EVScsICcyMDE4LTA0LTI5IDAwOjM1OjAwJywgJzIwMTgtMDUtMDYgMDA6MzU6MDAnLCAnMDAwMC0wMC0wMCAwMDowMDowMCcsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">VkFMVUVTCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYG9uYWlyX2luZm9ybWF0aW9uYCAoYGlkYCwgYG9uYWlyX251bWJlcmAsIGBvbmFpcl9kYXRlYCwgYHNlYXNvbl9pZGAsIGB5b3V0dWJlX2lkYCwgYG9wZW5fZGF0ZWAsIGBjbG9zZV9kYXRlYCwgYGNyZWF0ZWRBdGAsIGB1cGRhdGVkQXRgLCBgZGVsZXRlZEF0YCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLCBOVUxMKSwKICAoMzcsIDM3LCAnMjAxOC0wNS0xMyAwMDoxMDowMCcsIDMsICcnLCAnMjAxOC0wNS0wNiAwMDozNTowMCcsICcyMDE4LTA1LTEzIDAwOjM1OjAwJywgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLCBOVUxMKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkOiAxNDgsCiAgICAgICAgICAgICAgZXBpc29kZUlkOiAzNiwKICAgICAgICAgICAgICB0aXRsZTogJ+ays+eUsCDmoqjluIbvvZwjMzYg5Y+O6Yyy5b6MJywKICAgICAgICAgICAgICB5b3V0dWJlSWQ6ICd3b25kcHdiSXBodycKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgIGlkOiAxNDksCiAgICAgICAgICAgICAgZXBpc29kZUlkOiAzNiwKICAgICAgICAgICAgICB0aXRsZTogJ+agl+eUsCDpurvlpK7vvZwjMzYg5Y+O6Yyy5b6MJywKICAgICAgICAgICAgICB5b3V0dWJlSWQ6ICdrcEtZd0NhdzFOTScKICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLCBOVUxMKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
