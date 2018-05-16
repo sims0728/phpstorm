@@ -15,6 +15,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/dist/js/app.js" timestamp="1526450846468" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="43" />
@@ -58,8 +59,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" timestamp="1526263019339">
-        <mark key="'" line="699" column="44" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" timestamp="1526451146570">
+        <mark key="'" line="1761" column="19" />
+        <mark key="[" line="673" column="17" />
+        <mark key="]" line="673" column="17" />
+        <mark key="^" line="673" column="17" />
+        <mark key="." line="673" column="17" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/routes/lascolle_cards.js" timestamp="1526285761216">
         <mark key="'" line="364" column="22" />
@@ -74,6 +79,12 @@
         <mark key="]" line="5" column="535" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="36" column="31" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" timestamp="1526450320024">
+        <mark key="[" line="28" column="65" />
+        <mark key="]" line="28" column="65" />
+        <mark key="^" line="28" column="65" />
+        <mark key="." line="28" column="65" />
       </file>
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
@@ -217,64 +228,70 @@
       <jump line="419" column="27" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
       <jump line="441" column="10" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
       <jump line="375" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
+      <jump line="1685" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="1686" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="1761" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="2286" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="2296" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="271" column="26" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="336" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="1690" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="1755" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDw4MDAwXD4=</text>
+        <text>支払い方法を教えてくださ</text>
       </register>
-      <register name="0" type="4">
-        <text>//localhost:8080</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAncXVlc3Rpb24xJzogewogICAgICAgICAgJ3RpdGxlJzogJ+aUr+aJleOBhOaWueazleOCkuWkieabtOOBmeOCi+OBk+OBqOOBr+OBp+OBjeOBvuOBmeOBiycsCiAgICAgICAgICAnYW5zd2VyJzogYAogICAgICAgICAg5pSv5omV44GE5pa55rOV44KS5aSJ5pu044GZ44KL44GT44Go44Gv44Gn44GN44G+44Gb44KT44CCPGJyPgogICAgICAgICAg5aSJ5pu044KS44GU5biM5pyb44GV44KM44KL5aC05ZCI44Gv44CB6YCA5Lya5b6M44CB5paw6KaP44Gn5Lya5ZOh55m76Yyy44KS44GX44Gm44GE44Gf44Gg44GP5b+F6KaB44GM44GU44GW44GE44G+44GZ44CCPGJyPgogICAgICAgICAg5Lul5YmN44Gu5Lya5ZOh5oOF5aCx44KS44CB5paw6KaP44Gu44GU55m76Yyy44G45byV44GN57aZ44GQ44GT44Go44Gv44Gn44GN44G+44Gb44KT44Gu44Gn5LqI44KB44GU5LqG5om/44GP44Gg44GV44GE44CCYAogICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnlJbnRlcmZhY2UucmVtb3ZlSW5kZXgoJ2V4cF9sb2dzJywgJ2V4cF9sb2dzX3VzZXJfaWRfZXhwX2NvbnRlbnRfaWRfZGVzdF9pZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIOS7peWJjeOBruS8muWToeaDheWgseOCkuOAgeaWsOimj+OBruOBlOeZu+mMsuOBuOW8leOBjee2meOBkOOBk+OBqOOBr+OBp+OBjeOBvuOBm+OCk+OBruOBp+S6iOOCgeOBlOS6huaJv+OBj+OBoOOBleOBhOOAgmAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIOaUr+aJleOBhOaWueazleOCkuWkieabtOOBmeOCi+OBk+OBqOOBr+OBp+OBjeOBvuOBm+OCk+OAgjxicj4KICAgICAgICAgIOWkieabtOOCkuOBlOW4jOacm+OBleOCjOOCi+WgtOWQiOOBr+OAgemAgOS8muW+jOOAgeaWsOimj+OBp+S8muWToeeZu+mMsuOCkuOBl+OBpuOBhOOBn+OBoOOBj+W/heimgeOBjOOBlOOBluOBhOOBvuOBmeOAgjxicj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcXVlcnlJbnRlcmZhY2UucmVtb3ZlSW5kZXgoJ2V4cF9sb2dzJywgJ2V4cF9sb2dzX3VzZXJfaWRfZXhwX2NvbnRlbnRfaWRfZGVzdF9pZCcpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgcXVlcnlJbnRlcmZhY2UuYWRkSW5kZXgoCiAgICAgICAgJ2V4cF9sb2dzJywKICAgICAgICBbJ3VzZXJfaWQnLCAnZXhwX2NvbnRlbnRfaWQnLCAnZGVzdF9pZCddLAogICAgICAgIHsKICAgICAgICAgIGluZGV4TmFtZTogJ2V4cF9sb2dzX3VzZXJfaWRfZXhwX2NvbnRlbnRfaWRfZGVzdF9pZCcsCiAgICAgICAgICBpbmRpY2VzVHlwZTogJ1VOSVFVRScgLy8g44Om44OL44O844Kv44Kk44Oz44OH44OD44Kv44K544Gr44Gq44KK44G+44GZCiAgICAgICAgfQogICAgICApLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>air_information` (`id`, `onair_number`, `onair_date`, `season_id`, `youtube_id`, `open_date`, `close_date`, `createdAt`, `updatedAt`, `deletedAt`)
 VALUES</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">SU5TRVJUIElOVE8gYG9uYWlyX2luZm9ybWF0aW9uYCAoYGlkYCwgYG9uYWlyX251bWJlcmAsIGBvbmFpcl9kYXRlYCwgYHNlYXNvbl9pZGAsIGB5b3V0dWJlX2lkYCwgYG9wZW5fZGF0ZWAsIGBjbG9zZV9kYXRlYCwgYGNyZWF0ZWRBdGAsIGB1cGRhdGVkQXRgLCBgZGVsZXRlZEF0YCkKVkFMVUVTCiAgKDM4LCAzOCwgJzIwMTgtMDUtMjAgMDA6MTA6MDAnLCAzLCAnJywgJzIwMTgtMDUtMTMgMDA6MzU6MDAnLCAnMjAxOC0wNS0yMCAwMDozNTowMCcsICcwMDAwLTAwLTAwIDAwOjAwOjAwJywgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLCBOVUxMKTsKCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAoMzYsIDM2LCAnMjAxOC0wNS0wNiAwMDoxMDowMCcsIDMsICczQTJoc1FRME9EVScsICcyMDE4LTA0LTI5IDAwOjM1OjAwJywgJzIwMTgtMDUtMDYgMDA6MzU6MDAnLCAnMDAwMC0wMC0wMCAwMDowMDowMCcsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">VkFMVUVTCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gYG9uYWlyX2luZm9ybWF0aW9uYCAoYGlkYCwgYG9uYWlyX251bWJlcmAsIGBvbmFpcl9kYXRlYCwgYHNlYXNvbl9pZGAsIGB5b3V0dWJlX2lkYCwgYG9wZW5fZGF0ZWAsIGBjbG9zZV9kYXRlYCwgYGNyZWF0ZWRBdGAsIGB1cGRhdGVkQXRgLCBgZGVsZXRlZEF0YCkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLCBOVUxMKSwKICAoMzcsIDM3LCAnMjAxOC0wNS0xMyAwMDoxMDowMCcsIDMsICcnLCAnMjAxOC0wNS0wNiAwMDozNTowMCcsICcyMDE4LTA1LTEzIDAwOjM1OjAwJywgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLCBOVUxMKTsK</text>
+        <text encoding="base64">ICAoMzYsIDM2LCAnMjAxOC0wNS0wNiAwMDoxMDowMCcsIDMsICczQTJoc1FRME9EVScsICcyMDE4LTA0LTI5IDAwOjM1OjAwJywgJzIwMTgtMDUtMDYgMDA6MzU6MDAnLCAnMDAwMC0wMC0wMCAwMDowMDowMCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDw4MDAwXD4=</last-search>
+      <last-search>支払い方法を教えてくださ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDw4MDAwXD4=</last-pattern>
+      <last-pattern>支払い方法を教えてくださ</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>signup</entry>
-        <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
-        <entry encoding="base64">XDxMQVNDT0xMRV9WT0lDRV9UWVBFXD4=</entry>
         <entry encoding="base64">XDxMQVNDT0xMRV9UUkFOU0NPREVcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2NvZGVcPg==</entry>
         <entry>section</entry>
@@ -292,6 +309,9 @@ VALUES</text>
         <entry>api</entry>
         <entry>8000</entry>
         <entry encoding="base64">XDw4MDAwXD4=</entry>
+        <entry>支払い方法について</entry>
+        <entry>よくある質問</entry>
+        <entry>支払い方法を教えてくださ</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
