@@ -16,6 +16,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/dist/js/app.js" timestamp="1526450846468" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" timestamp="1526451846873">
+        <mark key="'" line="23" column="18" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="43" />
@@ -107,10 +110,12 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526280434696">
-        <mark key="'" line="50" column="34" />
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="48" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526451541274">
+        <mark key="'" line="66" column="19" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-signup-page/index.tag" timestamp="1526263003847">
         <mark key="'" line="6" column="35" />
@@ -184,7 +189,6 @@
       <jump line="8" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="12" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="13" column="55" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
-      <jump line="14" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="50" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="45" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/package.json" />
       <jump line="58" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
@@ -237,16 +241,21 @@
       <jump line="336" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
       <jump line="1690" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
       <jump line="1755" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
+      <jump line="14" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
+      <jump line="1" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
+      <jump line="66" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
+      <jump line="26" column="96" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
+      <jump line="23" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>支払い方法を教えてくださ</text>
+        <text>category</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAncXVlc3Rpb24xJzogewogICAgICAgICAgJ3RpdGxlJzogJ+aUr+aJleOBhOaWueazleOCkuWkieabtOOBmeOCi+OBk+OBqOOBr+OBp+OBjeOBvuOBmeOBiycsCiAgICAgICAgICAnYW5zd2VyJzogYAogICAgICAgICAg5pSv5omV44GE5pa55rOV44KS5aSJ5pu044GZ44KL44GT44Go44Gv44Gn44GN44G+44Gb44KT44CCPGJyPgogICAgICAgICAg5aSJ5pu044KS44GU5biM5pyb44GV44KM44KL5aC05ZCI44Gv44CB6YCA5Lya5b6M44CB5paw6KaP44Gn5Lya5ZOh55m76Yyy44KS44GX44Gm44GE44Gf44Gg44GP5b+F6KaB44GM44GU44GW44GE44G+44GZ44CCPGJyPgogICAgICAgICAg5Lul5YmN44Gu5Lya5ZOh5oOF5aCx44KS44CB5paw6KaP44Gu44GU55m76Yyy44G45byV44GN57aZ44GQ44GT44Go44Gv44Gn44GN44G+44Gb44KT44Gu44Gn5LqI44KB44GU5LqG5om/44GP44Gg44GV44GE44CCYAogICAgICAgIH0sCg==</text>
@@ -284,19 +293,14 @@ VALUES</text>
       </register>
     </registers>
     <search>
-      <last-search>支払い方法を教えてくださ</last-search>
+      <last-search>category</last-search>
       <last-offset />
-      <last-pattern>支払い方法を教えてくださ</last-pattern>
+      <last-pattern>category</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMQVNDT0xMRV9UUkFOU0NPREVcPg==</entry>
-        <entry encoding="base64">XDx0cmFuc2NvZGVcPg==</entry>
-        <entry>section</entry>
-        <entry encoding="base64">XDxzZWN0aW9uc1w+</entry>
-        <entry encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</entry>
         <entry encoding="base64">XDxnZXRNYWlsU2VjdGlvblRpdGxlXD4=</entry>
         <entry>orb</entry>
         <entry>lascolle</entry>
@@ -312,6 +316,11 @@ VALUES</text>
         <entry>支払い方法について</entry>
         <entry>よくある質問</entry>
         <entry>支払い方法を教えてくださ</entry>
+        <entry>answer</entry>
+        <entry encoding="base64">XDxnZXRTZWN0aW9uVGl0bGVcPg==</entry>
+        <entry>onToggle</entry>
+        <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
+        <entry>category</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
