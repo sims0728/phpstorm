@@ -16,9 +16,6 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-compleated-page/index.js" timestamp="1526550827505">
-        <mark key="'" line="312" column="13" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
         <mark key="[" line="13" column="43" />
         <mark key="]" line="13" column="43" />
@@ -88,12 +85,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1526551001896">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-compleated-page/index.tag" timestamp="1526550972431">
-        <mark key="[" line="55" column="52" />
-        <mark key="]" line="55" column="56" />
-        <mark key="^" line="55" column="56" />
-        <mark key="." line="55" column="56" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526264413483">
         <mark key="[" line="28" column="26" />
@@ -169,12 +160,6 @@
         <mark key="]" line="187" column="6" />
         <mark key="." line="187" column="6" />
         <mark key="^" line="187" column="6" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-canceled-page/index.tag" timestamp="1526550096879">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="61" />
-        <mark key="." line="16" column="61" />
-        <mark key="^" line="16" column="61" />
       </file>
     </filemarks>
     <jumps>
