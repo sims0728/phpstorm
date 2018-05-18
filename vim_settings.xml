@@ -119,6 +119,8 @@
         <mark key="." line="370" column="55" />
         <mark key="^" line="370" column="55" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/stg.js" timestamp="1526611634111" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" timestamp="1526611677984" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
