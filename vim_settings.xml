@@ -165,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7110" column="8" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
       <jump line="7112" column="40" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
       <jump line="7114" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
       <jump line="7163" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
@@ -265,6 +264,7 @@
       <jump line="14" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-compleated-page/index.js" />
       <jump line="31" column="11" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-compleated-page/index.js" />
       <jump line="312" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-compleated-page/index.js" />
+      <jump line="36" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/associations/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
