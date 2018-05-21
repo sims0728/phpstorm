@@ -44,7 +44,7 @@
       <file name="/onair_information [localhost]" timestamp="1526870261690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1526866425872">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1526871692237">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -89,7 +89,7 @@
         <mark key="." line="255" column="44" />
         <mark key="^" line="255" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526866437673">
+      <file name="/Dummy.txt" timestamp="1526871708551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526870070722">
@@ -272,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
