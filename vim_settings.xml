@@ -44,6 +44,12 @@
       <file name="/onair_information [localhost]" timestamp="1526264465174">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1526866425872">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/account.js" timestamp="1526462608824">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="85" column="23" />
@@ -83,7 +89,7 @@
         <mark key="." line="255" column="44" />
         <mark key="^" line="255" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526551001896">
+      <file name="/Dummy.txt" timestamp="1526866437673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526264413483">
@@ -119,8 +125,6 @@
         <mark key="." line="370" column="55" />
         <mark key="^" line="370" column="55" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/stg.js" timestamp="1526611634111" />
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" timestamp="1526611677984" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -267,11 +271,11 @@
       <jump line="36" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/associations/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB844GU6LO85YWl44GC44KK44GM44Go44GG44GU44GW44GE44G+44GX44Gf44CCCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>了</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
