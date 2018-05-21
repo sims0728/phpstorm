@@ -41,7 +41,7 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="/onair_information [localhost]" timestamp="1526264465174">
+      <file name="/onair_information [localhost]" timestamp="1526870261690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1526866425872">
@@ -79,7 +79,7 @@
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1526463846753">
+      <file name="/dummy.sql" timestamp="1526870331101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/account.js" timestamp="1526462675976">
@@ -92,7 +92,7 @@
       <file name="/Dummy.txt" timestamp="1526866437673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526264413483">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526870070722">
         <mark key="[" line="28" column="26" />
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="36" />
@@ -272,16 +272,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>register</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2aXJ0dWFsKGlmPSJ7IGFjdGlvblR5cGUgPT09ICdjaGFyZ2UnfSIpCiAgICAuUGF5bWVudENvbXBsZXRlZFBhZ2VfX2NvbnRhaW5lcgogICAgICAuUGF5bWVudENvbXBsZXRlZFBhZ2VfX3RpdGxlIOODgOOCpOODpOizvOWFpeWujOS6hgogICAgICAuUGF5bWVudENvbXBsZXRlZFBhZ2VfX2Rlc2MKICAgICAgICB844GU6LO85YWl44GC44KK44GM44Go44GG44GU44GW44GE44G+44GX44Gf44CCCiAgICAgICAgYnIKICAgICAgICB844Op44K544OI44Ki44Kk44OJ44OrIOODleOCoeODn+ODquODvCBNb2JpbGXjgpLjgYrmpb3jgZfjgb/kuIvjgZXjgYTjgIIK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBlcGlzb2RlSWQ6IDM3LAogICAgICAgICAgaXNWaXNpYmxlOiB0cnVlLAogICAgICAgICAgb25haXJOdW1iZXI6IDM3LAogICAgICAgICAgc2Vhc29uSWQ6IDMsCiAgICAgICAgICBjbGlwczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE1MCwKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM3LAogICAgICAgICAgICAgIHRpdGxlOiAn6auY5qmLIOe+jua1t++9nCMzNyDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJzhIaDlZQm1vamk0JwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE1MSwKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM3LAogICAgICAgICAgICAgIHRpdGxlOiAn55Sw5LitIOS9keWliO+9nCMzNyDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJ204RHp2RERKMGg4JwogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB844GU6LO85YWl44GC44KK44GM44Go44GG44GU44GW44GE44G+44GX44Gf44CCCg==</text>
