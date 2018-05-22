@@ -70,24 +70,12 @@
         <mark key="^" line="1751" column="36" />
         <mark key="." line="1751" column="36" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" timestamp="1526464994659">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" timestamp="1526968563814">
         <mark key="'" line="30" column="9" />
         <mark key="[" line="82" column="54" />
         <mark key="]" line="83" column="25" />
         <mark key="." line="83" column="25" />
         <mark key="^" line="83" column="25" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/account.js" timestamp="1526463795189">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
       </file>
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
@@ -158,6 +146,9 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="68" column="29" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
+        <mark key="'" line="30" column="9" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -215,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
-      <jump line="2051" column="54" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
       <jump line="2055" column="31" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
       <jump line="2060" column="31" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
       <jump line="424" column="34" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" />
@@ -315,6 +304,8 @@
       <jump line="156" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="208" column="11" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="30" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
+      <jump line="141" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" />
+      <jump line="30" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -324,7 +315,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnRpc3RzXD4=</text>
+        <text encoding="base64">XDxSRVNJWkVfV0lEVEhfREVGQVVMVF9MQVNDT0xMRV9DQVJEXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0SWQgPSA2OwogICAgdGhpcy5hcnRpc3RzID0gc3RvcmUuZ2V0dGVyKGdldHRlcnMuTElHUkFNX0FSVElTVFMpOwogICAgY29uc29sZS5sb2codGhpcy5hcnRpc3RzKTsKICAgIC8vY29uc3QgYXJ0aXN0cyA9IHN0b3JlLmdldHRlcihnZXR0ZXJzLkxJR1JBTV9BUlRJU1RTKTsKICAgIC8qCiAgICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICAgIGlmIChhcnRpc3RBLmlkID09PSBhcnRpc3RJZCkgewogICAgICAgIHJldHVybiAtMTsKICAgICAgfQogICAgICBpZiAoYXJ0aXN0Qi5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgICByZXR1cm4gMTsKICAgICAgfQogICAgICByZXR1cm4gMDsKICAgIH0pOwogICAgKi8K</text>
@@ -361,15 +352,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcnRpc3RzXD4=</last-search>
+      <last-search encoding="base64">XDxSRVNJWkVfV0lEVEhfREVGQVVMVF9MQVNDT0xMRV9DQVJEXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnRpc3RzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSRVNJWkVfV0lEVEhfREVGQVVMVF9MQVNDT0xMRV9DQVJEXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWN0aW9uSWRcPg==</entry>
         <entry encoding="base64">XDxwYXJlbnRcPg==</entry>
         <entry encoding="base64">XDxxdWVzdGlvbklkXD4=</entry>
         <entry encoding="base64">XDxxdWVzdGlvbmlkXD4=</entry>
@@ -389,6 +379,7 @@
         <entry>artistId</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxhcnRpc3RzXD4=</entry>
+        <entry encoding="base64">XDxSRVNJWkVfV0lEVEhfREVGQVVMVF9MQVNDT0xMRV9DQVJEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
