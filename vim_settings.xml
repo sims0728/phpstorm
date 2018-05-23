@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.tag" timestamp="1527039200639">
+        <mark key="[" line="8" column="92" />
+        <mark key="]" line="8" column="105" />
+        <mark key="." line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526975496077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -56,7 +62,8 @@
       <file name="/onair_information [localhost]" timestamp="1526870261690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1526969567385">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1527038640285">
+        <mark key="'" line="19" column="40" />
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
@@ -108,7 +115,7 @@
         <mark key="." line="123" column="53" />
         <mark key="^" line="123" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526970625997">
+      <file name="/Dummy.txt" timestamp="1527039347425">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1526870070722">
@@ -144,7 +151,6 @@
         <mark key="." line="370" column="55" />
         <mark key="^" line="370" column="55" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/ligram.js" timestamp="1526966195645" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
         <mark key="'" line="18" column="0" />
       </file>
@@ -192,6 +198,9 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" timestamp="1527039221337">
+        <mark key="'" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
         <mark key="[" line="87" column="21" />
         <mark key="]" line="87" column="25" />
@@ -207,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="32" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.tag" />
-      <jump line="7" column="47" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.tag" />
       <jump line="12" column="55" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.tag" />
       <jump line="18" column="32" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="21" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
@@ -307,19 +314,21 @@
       <jump line="307" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
       <jump line="314" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
       <jump line="19" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
+      <jump line="19" column="40" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
+      <jump line="30" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>handleKvButton</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>lascolle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZSgpOwo=</text>
+      <register name="0" type="4">
+        <text>handleKvButton</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
@@ -353,16 +362,14 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>lascolle</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>lascolle</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVzdGlvbmlkXD4=</entry>
-        <entry>getter</entry>
         <entry encoding="base64">XDxnZXRSZWdpc3RlckNyZWRpdExpbmtcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VMaW5rXD4=</entry>
         <entry encoding="base64">XDxBQ0NPVU5UX1JFR0lTVEVSX0NSRURJVF9MSU5LXD4=</entry>
@@ -381,6 +388,8 @@
         <entry encoding="base64">XDxSRVNJWkVfV0lEVEhfREVGQVVMVF9MQVNDT0xMRV9DQVJEXD4=</entry>
         <entry>catch</entry>
         <entry>list</entry>
+        <entry>btn-badge-2</entry>
+        <entry>lascolle</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
