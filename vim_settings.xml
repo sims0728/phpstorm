@@ -37,6 +37,9 @@
       <file name="/users [localhost]" timestamp="1526975482555">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" timestamp="1527472127253">
+        <mark key="'" line="568" column="47" />
+      </file>
       <file name="/payment_logs [localhost]" timestamp="1525833882970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,13 +119,6 @@
         <mark key="." line="255" column="44" />
         <mark key="^" line="255" column="44" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/ligram.js" timestamp="1526967691305">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="123" column="48" />
-        <mark key="]" line="123" column="53" />
-        <mark key="." line="123" column="53" />
-        <mark key="^" line="123" column="53" />
-      </file>
       <file name="/Dummy.txt" timestamp="1527042374110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,11 +151,11 @@
         <mark key="^" line="370" column="55" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/ligram.js" timestamp="1526966195645" />
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
-        <mark key="'" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
         <mark key="'" line="30" column="9" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" timestamp="1527472100934">
+        <mark key="'" line="8" column="2" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
         <mark key="[" line="24" column="0" />
@@ -167,24 +163,14 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" timestamp="1526966390335">
-        <mark key="'" line="113" column="13" />
-        <mark key="[" line="113" column="34" />
-        <mark key="]" line="113" column="34" />
-        <mark key="^" line="113" column="34" />
-        <mark key="." line="113" column="34" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1526988372914">
-        <mark key="'" line="19" column="6" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1527472056733">
+        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/ligram.js" timestamp="1526966128831">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="12" />
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/ligram.js" timestamp="1526966853998">
-        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" timestamp="1527470141761">
         <mark key="'" line="85" column="2" />
@@ -223,12 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="85" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
-      <jump line="59" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/account.js" />
-      <jump line="26" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" />
-      <jump line="47" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/account.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" />
       <jump line="35" column="21" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
       <jump line="16" column="10" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/account.js" />
       <jump line="47" column="20" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/account.js" />
@@ -323,6 +303,12 @@
       <jump line="43" column="4" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
       <jump line="135" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
       <jump line="85" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
+      <jump line="34" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" />
+      <jump line="35" column="58" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" />
+      <jump line="8" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" />
+      <jump line="600" column="53" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
+      <jump line="568" column="47" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,7 +318,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>lascolle</text>
+        <text encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBlcGlzb2RlSWQ6IDM4LAogICAgICAgICAgaXNWaXNpYmxlOiB0cnVlLAogICAgICAgICAgb25haXJOdW1iZXI6IDM4LAogICAgICAgICAgc2Vhc29uSWQ6IDMsCiAgICAgICAgICBjbGlwczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE1MiwKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM4LAogICAgICAgICAgICAgIHRpdGxlOiAn5bCP55Sw5LitIOepgu+9nCMzOCDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJ1BfbjlldUVYd3QwJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE1MywKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM4LAogICAgICAgICAgICAgIHRpdGxlOiAn5LiL6ZaTIOiKseaiqO+9nCMzOCDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJy03WTI1VTVtQXc0JwogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfSwK</text>
@@ -369,16 +355,14 @@
       </register>
     </registers>
     <search>
-      <last-search>lascolle</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</last-search>
       <last-offset />
-      <last-pattern>lascolle</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSZWdpc3RlckNyZWRpdExpbmtcPg==</entry>
-        <entry encoding="base64">XDxjaGFuZ2VMaW5rXD4=</entry>
         <entry encoding="base64">XDxBQ0NPVU5UX1JFR0lTVEVSX0NSRURJVF9MSU5LXD4=</entry>
         <entry encoding="base64">XDxzZWN0aW9uaWRcPg==</entry>
         <entry>charge_cancel</entry>
@@ -397,6 +381,8 @@
         <entry>list</entry>
         <entry>btn-badge-2</entry>
         <entry>lascolle</entry>
+        <entry encoding="base64">XDxTVEFUVVNfQ0hFQ0tcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
