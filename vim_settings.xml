@@ -22,6 +22,13 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1527492718062">
+        <mark key="'" line="98" column="22" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="129" column="49" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515073406-lascolles.js" timestamp="1526373999150">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="16" column="1" />
@@ -189,6 +196,11 @@
         <mark key="[" line="34" column="2" />
         <mark key="]" line="34" column="18" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" timestamp="1527492713117">
+        <mark key="'" line="446" column="9" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="77" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1527472056733">
         <mark key="'" line="25" column="0" />
       </file>
@@ -221,10 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="33" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/account.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/account.js" />
-      <jump line="326" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/account.js" />
       <jump line="356" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/account.js" />
       <jump line="3" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/account.js" />
       <jump line="232" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
@@ -321,63 +329,64 @@
       <jump line="555" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
       <jump line="566" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
       <jump line="116" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/mobilemail.js" />
+      <jump line="466" column="26" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
+      <jump line="97" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
+      <jump line="98" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
+      <jump line="446" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>createStatusCheck</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzM19pbWdfYnVja2V0X3ByZV9zaWduOiAnZGV2LXByZS1zaWduLXN0Lmxhc3RpZG9sLm5ldCcsIC8vIHByZS1zaWdu55So44OQ44Kx44OD44OI5ZCNCg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>net</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</text>
+        <text>scf.last</text>
       </register>
-      <register name="0" type="4">
-        <text>createStatusCheck</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzM19pbWdfYnVja2V0X3ByZV9zaWduOiAncHJlLXNpZ24tc3QubGFzdGlkb2wuY29tJywgLy8gcHJlLXNpZ27nlKjjg5DjgrHjg4Pjg4jlkI0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBzM19pbWdfYnVja2V0X3ByZV9zaWduOiAnZGV2LXByZS1zaWduLXN0Lmxhc3RpZG9sLm5ldCcsIC8vIHByZS1zaWdu55So44OQ44Kx44OD44OI5ZCNCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTQK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLmFydGlzdHMpCg==</text>
+        <text encoding="base64">MTQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNvcnQgZnJvbSAnbW91dC9hcnJheS9zb3J0JzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLmFydGlzdHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdHMgPSBzdG9yZS5nZXR0ZXIoZ2V0dGVycy5MSUdSQU1fQVJUSVNUUyk7CiAgLyoKICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICBpZiAoYXJ0aXN0QS5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgcmV0dXJuIC0xOwogICAgfQogICAgaWYgKGFydGlzdEIuaWQgPT09IGFydGlzdElkKSB7CiAgICAgIHJldHVybiAxOwogICAgfQogICAgcmV0dXJuIDA7CiAgfSk7CiAgKi8K</text>
+        <text encoding="base64">aW1wb3J0IHNvcnQgZnJvbSAnbW91dC9hcnJheS9zb3J0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdElkID0gNjsK</text>
+        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdHMgPSBzdG9yZS5nZXR0ZXIoZ2V0dGVycy5MSUdSQU1fQVJUSVNUUyk7CiAgLyoKICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICBpZiAoYXJ0aXN0QS5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgcmV0dXJuIC0xOwogICAgfQogICAgaWYgKGFydGlzdEIuaWQgPT09IGFydGlzdElkKSB7CiAgICAgIHJldHVybiAxOwogICAgfQogICAgcmV0dXJuIDA7CiAgfSk7CiAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0cyA9IHN0b3JlLmdldHRlcihnZXR0ZXJzLkxJR1JBTV9BUlRJU1RTKTsKICAgIC8qCiAgICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICAgIGlmIChhcnRpc3RBLmlkID09PSBhcnRpc3RJZCkgewogICAgICAgIHJldHVybiAtMTsKICAgICAgfQogICAgICBpZiAoYXJ0aXN0Qi5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgICByZXR1cm4gMTsKICAgICAgfQogICAgICByZXR1cm4gMDsKICAgIH0pOwogICAgKi8K</text>
+        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdElkID0gNjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0SWQgPSA2Owo=</text>
+        <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0cyA9IHN0b3JlLmdldHRlcihnZXR0ZXJzLkxJR1JBTV9BUlRJU1RTKTsKICAgIC8qCiAgICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICAgIGlmIChhcnRpc3RBLmlkID09PSBhcnRpc3RJZCkgewogICAgICAgIHJldHVybiAtMTsKICAgICAgfQogICAgICBpZiAoYXJ0aXN0Qi5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgICByZXR1cm4gMTsKICAgICAgfQogICAgICByZXR1cm4gMDsKICAgIH0pOwogICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYXJ0aXN0cyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0SWQgPSA2Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</last-search>
+      <last-search>scf.last</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</last-pattern>
+      <last-pattern>scf.last</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>charge_cancel</entry>
-        <entry encoding="base64">XDxpc0NvbXBsZWF0ZWRQYWdlXD4=</entry>
-        <entry>register</entry>
         <entry>LIGRAM</entry>
         <entry>ligram</entry>
         <entry>artist</entry>
@@ -395,6 +404,9 @@
         <entry encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</entry>
         <entry encoding="base64">XDxzdGF0dXNEYXRhXD4=</entry>
         <entry encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</entry>
+        <entry>dev-st</entry>
+        <entry>scf</entry>
+        <entry>scf.last</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
