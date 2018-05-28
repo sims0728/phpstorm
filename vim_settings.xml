@@ -186,6 +186,9 @@
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/ligram.js" timestamp="1526966853998">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" timestamp="1527470141761">
+        <mark key="'" line="85" column="2" />
+      </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,10 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
-      <jump line="26" column="55" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
-      <jump line="22" column="37" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
-      <jump line="19" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" />
       <jump line="17" column="85" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
       <jump line="59" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/account.js" />
       <jump line="26" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" />
@@ -320,6 +319,10 @@
       <jump line="30" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" />
       <jump line="20" column="28" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
       <jump line="6" column="331" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" />
+      <jump line="87" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
+      <jump line="43" column="4" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
+      <jump line="85" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
