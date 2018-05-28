@@ -37,8 +37,8 @@
       <file name="/users [localhost]" timestamp="1526975482555">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" timestamp="1527472127253">
-        <mark key="'" line="568" column="47" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" timestamp="1527472790953">
+        <mark key="'" line="566" column="39" />
       </file>
       <file name="/payment_logs [localhost]" timestamp="1525833882970">
         <mark key="[" line="0" column="0" />
@@ -154,8 +154,10 @@
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
         <mark key="'" line="30" column="9" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" timestamp="1527472100934">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" timestamp="1527472647225">
         <mark key="'" line="8" column="2" />
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
         <mark key="[" line="24" column="0" />
@@ -209,9 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="21" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
-      <jump line="16" column="10" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/account.js" />
-      <jump line="47" column="20" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/account.js" />
       <jump line="175" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
       <jump line="50" column="33" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/account.js" />
@@ -309,19 +308,22 @@
       <jump line="8" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" />
       <jump line="600" column="53" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
       <jump line="568" column="47" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
+      <jump line="546" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
+      <jump line="555" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
+      <jump line="566" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>createStatusCheck</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</text>
+        <text encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBlcGlzb2RlSWQ6IDM4LAogICAgICAgICAgaXNWaXNpYmxlOiB0cnVlLAogICAgICAgICAgb25haXJOdW1iZXI6IDM4LAogICAgICAgICAgc2Vhc29uSWQ6IDMsCiAgICAgICAgICBjbGlwczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE1MiwKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM4LAogICAgICAgICAgICAgIHRpdGxlOiAn5bCP55Sw5LitIOepgu+9nCMzOCDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJ1BfbjlldUVYd3QwJwogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgaWQ6IDE1MywKICAgICAgICAgICAgICBlcGlzb2RlSWQ6IDM4LAogICAgICAgICAgICAgIHRpdGxlOiAn5LiL6ZaTIOiKseaiqO+9nCMzOCDlj47pjLLlvownLAogICAgICAgICAgICAgIHlvdXR1YmVJZDogJy03WTI1VTVtQXc0JwogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfSwK</text>
+      <register name="0" type="4">
+        <text>createStatusCheck</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
@@ -355,16 +357,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</last-search>
+      <last-search encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBQ0NPVU5UX1JFR0lTVEVSX0NSRURJVF9MSU5LXD4=</entry>
-        <entry encoding="base64">XDxzZWN0aW9uaWRcPg==</entry>
         <entry>charge_cancel</entry>
         <entry encoding="base64">XDxpc0NvbXBsZWF0ZWRQYWdlXD4=</entry>
         <entry>register</entry>
@@ -383,6 +383,8 @@
         <entry>lascolle</entry>
         <entry encoding="base64">XDxTVEFUVVNfQ0hFQ0tcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVTdGF0dXNDaGVja1w+</entry>
+        <entry encoding="base64">XDxzdGF0dXNEYXRhXD4=</entry>
+        <entry encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
