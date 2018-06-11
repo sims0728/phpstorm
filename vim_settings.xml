@@ -34,6 +34,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" timestamp="1528715681332">
+        <mark key="[" line="5850" column="19" />
+        <mark key="]" line="5850" column="19" />
+        <mark key="." line="5850" column="19" />
+        <mark key="^" line="5850" column="19" />
+      </file>
       <file name="/users [localhost]" timestamp="1526975482555">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,7 +188,6 @@
         <mark key="]" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" timestamp="1527492713117">
-        <mark key="'" line="442" column="9" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="77" />
       </file>
@@ -350,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>scf.last</text>
@@ -389,7 +394,7 @@
         <text encoding="base64">ICAvL2NvbnN0IGFydGlzdHMgPSBzdG9yZS5nZXR0ZXIoZ2V0dGVycy5MSUdSQU1fQVJUSVNUUyk7CiAgLyoKICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICBpZiAoYXJ0aXN0QS5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgcmV0dXJuIC0xOwogICAgfQogICAgaWYgKGFydGlzdEIuaWQgPT09IGFydGlzdElkKSB7CiAgICAgIHJldHVybiAxOwogICAgfQogICAgcmV0dXJuIDA7CiAgfSk7CiAgKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -423,8 +428,8 @@
         <entry>scf.last</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
