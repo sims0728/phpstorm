@@ -155,6 +155,12 @@
         <mark key="." line="370" column="55" />
         <mark key="^" line="370" column="55" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.tag" timestamp="1528709504340">
+        <mark key="[" line="8" column="87" />
+        <mark key="]" line="8" column="87" />
+        <mark key="." line="8" column="87" />
+        <mark key="^" line="8" column="87" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
         <mark key="'" line="18" column="0" />
       </file>
@@ -170,6 +176,12 @@
         <mark key="'" line="442" column="9" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="77" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.js" timestamp="1528709918827">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
         <mark key="[" line="24" column="0" />
@@ -328,44 +340,44 @@
       <jump line="446" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzM19pbWdfYnVja2V0X3ByZV9zaWduOiAnZGV2LXByZS1zaWduLXN0Lmxhc3RpZG9sLm5ldCcsIC8vIHByZS1zaWdu55So44OQ44Kx44OD44OI5ZCNCg==</text>
+      <register name="&quot;" type="4">
+        <text>seasonList</text>
       </register>
       <register name="-" type="4">
-        <text>net</text>
+        <text>seasonList</text>
       </register>
       <register name="/" type="4">
         <text>scf.last</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzM19pbWdfYnVja2V0X3ByZV9zaWduOiAncHJlLXNpZ24tc3QubGFzdGlkb2wuY29tJywgLy8gcHJlLXNpZ27nlKjjg5DjgrHjg4Pjg4jlkI0K</text>
+      <register name="0" type="4">
+        <text>seasonList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzM19pbWdfYnVja2V0X3ByZV9zaWduOiAnZGV2LXByZS1zaWduLXN0Lmxhc3RpZG9sLm5ldCcsIC8vIHByZS1zaWdu55So44OQ44Kx44OD44OI5ZCNCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFzb25MaXN0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBzM19pbWdfYnVja2V0X3ByZV9zaWduOiAnZGV2LXByZS1zaWduLXN0Lmxhc3RpZG9sLm5ldCcsIC8vIHByZS1zaWdu55So44OQ44Kx44OD44OI5ZCNCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTQK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLmFydGlzdHMpCg==</text>
+        <text encoding="base64">MTQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNvcnQgZnJvbSAnbW91dC9hcnJheS9zb3J0JzsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLmFydGlzdHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdHMgPSBzdG9yZS5nZXR0ZXIoZ2V0dGVycy5MSUdSQU1fQVJUSVNUUyk7CiAgLyoKICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICBpZiAoYXJ0aXN0QS5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgcmV0dXJuIC0xOwogICAgfQogICAgaWYgKGFydGlzdEIuaWQgPT09IGFydGlzdElkKSB7CiAgICAgIHJldHVybiAxOwogICAgfQogICAgcmV0dXJuIDA7CiAgfSk7CiAgKi8K</text>
+        <text encoding="base64">aW1wb3J0IHNvcnQgZnJvbSAnbW91dC9hcnJheS9zb3J0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdElkID0gNjsK</text>
+        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdHMgPSBzdG9yZS5nZXR0ZXIoZ2V0dGVycy5MSUdSQU1fQVJUSVNUUyk7CiAgLyoKICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICBpZiAoYXJ0aXN0QS5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgcmV0dXJuIC0xOwogICAgfQogICAgaWYgKGFydGlzdEIuaWQgPT09IGFydGlzdElkKSB7CiAgICAgIHJldHVybiAxOwogICAgfQogICAgcmV0dXJuIDA7CiAgfSk7CiAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0cyA9IHN0b3JlLmdldHRlcihnZXR0ZXJzLkxJR1JBTV9BUlRJU1RTKTsKICAgIC8qCiAgICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICAgIGlmIChhcnRpc3RBLmlkID09PSBhcnRpc3RJZCkgewogICAgICAgIHJldHVybiAtMTsKICAgICAgfQogICAgICBpZiAoYXJ0aXN0Qi5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgICByZXR1cm4gMTsKICAgICAgfQogICAgICByZXR1cm4gMDsKICAgIH0pOwogICAgKi8K</text>
+        <text encoding="base64">ICAvL2NvbnN0IGFydGlzdElkID0gNjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0SWQgPSA2Owo=</text>
+        <text encoding="base64">ICAgIC8vY29uc3QgYXJ0aXN0cyA9IHN0b3JlLmdldHRlcihnZXR0ZXJzLkxJR1JBTV9BUlRJU1RTKTsKICAgIC8qCiAgICB0aGlzLmFydGlzdHMgPSBzb3J0KGFydGlzdHMsIChhcnRpc3RBLCBhcnRpc3RCKSA9PiB7CiAgICAgIGlmIChhcnRpc3RBLmlkID09PSBhcnRpc3RJZCkgewogICAgICAgIHJldHVybiAtMTsKICAgICAgfQogICAgICBpZiAoYXJ0aXN0Qi5pZCA9PT0gYXJ0aXN0SWQpIHsKICAgICAgICByZXR1cm4gMTsKICAgICAgfQogICAgICByZXR1cm4gMDsKICAgIH0pOwogICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
