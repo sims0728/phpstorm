@@ -75,7 +75,7 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1528711823297">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1528947602991">
         <mark key="'" line="34" column="3" />
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
@@ -99,18 +99,24 @@
         <mark key="^" line="1751" column="36" />
         <mark key="." line="1751" column="36" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" timestamp="1527041938885">
-        <mark key="'" line="6" column="331" />
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="36" column="31" />
-        <mark key="^" line="36" column="31" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" timestamp="1528947563315">
+        <mark key="'" line="7" column="228" />
+        <mark key="[" line="33" column="222" />
+        <mark key="]" line="33" column="222" />
+        <mark key="." line="33" column="222" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" timestamp="1526464994659">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1528946189119">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/account.js" timestamp="1526463795189">
         <mark key="'" line="231" column="0" />
@@ -131,14 +137,14 @@
         <mark key="." line="255" column="44" />
         <mark key="^" line="255" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528711872577">
+      <file name="/Dummy.txt" timestamp="1528947722823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onair.js" timestamp="1527041965372">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onair.js" timestamp="1528946562636">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/account.js" timestamp="1526463128913">
         <mark key="'" line="3" column="0" />
@@ -252,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/account.js" />
       <jump line="232" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
       <jump line="231" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
       <jump line="231" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/account.js" />
@@ -352,19 +357,20 @@
       <jump line="98" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
       <jump line="446" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" />
       <jump line="34" column="3" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
+      <jump line="7" column="228" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>scf.last</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2aXJ0dWFsKGlmPSJ7c2Vhc29uLmlkID09IDR9IikK</text>
+      <register name="0" type="4">
+        <text>img_large</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
