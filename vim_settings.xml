@@ -63,6 +63,13 @@
         <mark key="^" line="39" column="35" />
         <mark key="." line="39" column="43" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" timestamp="1529580640098">
+        <mark key="'" line="207" column="23" />
+        <mark key="[" line="226" column="10" />
+        <mark key="]" line="226" column="16" />
+        <mark key="." line="226" column="16" />
+        <mark key="^" line="226" column="16" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515073406-lascolles.js" timestamp="1526373999150">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="16" column="1" />
@@ -251,17 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
-      <jump line="231" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/account.js" />
-      <jump line="365" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/account.js" />
-      <jump line="368" column="29" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/account.js" />
-      <jump line="188" column="52" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.js" />
-      <jump line="5" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-events-page/index.js" />
-      <jump line="62" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
-      <jump line="11" column="27" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
-      <jump line="28" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
-      <jump line="29" column="121" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
       <jump line="27" column="46" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" />
       <jump line="67" column="33" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
       <jump line="233" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
@@ -351,16 +347,27 @@
       <jump line="34" column="3" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
       <jump line="7" column="228" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" />
       <jump line="18" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/diamond_charge.js" />
+      <jump line="291" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="302" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="318" column="66" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="298" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="64" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="172" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="181" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="226" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="317" column="63" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="335" column="28" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
+      <jump line="207" column="23" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>scf.last</text>
+        <text>post_date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHJldHVybiBnZXREaWFtb25kU3VtbWFyeUZyb21UYWJsZShkYXRlLCB1c2VySWQpCiAgICAgICAgICAgIC50aGVuKGRpYW1vbmQgPT4gewogICAgICAgICAgICAgIHJldHVybiBzZXREaWFtb25kU3VtbWFyeUZyb21DYWNoZSh1c2VySWQsIGRpYW1vbmQpOwogICAgICAgICAgICB9KTsK</text>
@@ -397,16 +404,14 @@
       </register>
     </registers>
     <search>
-      <last-search>scf.last</last-search>
+      <last-search>post_date</last-search>
       <last-offset />
-      <last-pattern>scf.last</last-pattern>
+      <last-pattern>post_date</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LIGRAM</entry>
-        <entry>ligram</entry>
         <entry>artist</entry>
         <entry encoding="base64">XDxhcnRpc3RJZFw+</entry>
         <entry>console</entry>
@@ -425,6 +430,8 @@
         <entry>dev-st</entry>
         <entry>scf</entry>
         <entry>scf.last</entry>
+        <entry>display_date</entry>
+        <entry>post_date</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
