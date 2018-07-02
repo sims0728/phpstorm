@@ -68,11 +68,11 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" timestamp="1530501918631">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" timestamp="1530507332254">
         <mark key="'" line="104" column="15" />
-        <mark key="[" line="108" column="4" />
-        <mark key="]" line="108" column="5" />
-        <mark key="." line="108" column="5" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
         <mark key="^" line="108" column="5" />
       </file>
       <file name="/ng_words [localhost]" timestamp="1525833805705">
@@ -368,8 +368,8 @@
       <jump line="104" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gachaInfo.userCardCostList[teamId]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0cnRpc3RJZF0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -381,31 +381,31 @@
         <text>gachaInfo.userCardCostList[teamId]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0cnRpc3RJZF0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghYXJ0aXN0SWQgaW4gZ2FjaGFJbmZvLnVzZXJDYXJkQ29zdExpc3RbdGVhbUlkXSkgewogICAgICBjb25zb2xlLmRpcihnYWNoYUluZm8udXNlckNhcmRDb3N0TGlzdCk7CiAgICB9Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICghYXJ0aXN0SWQgaW4gZ2FjaGFJbmZvLnVzZXJDYXJkQ29zdExpc3RbdGVhbUlkXSkgewogICAgICBjb25zb2xlLmRpcihnYWNoYUluZm8udXNlckNhcmRDb3N0TGlzdCk7CiAgICB9Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
