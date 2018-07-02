@@ -91,6 +91,12 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526464741625">
         <mark key="'" line="19" column="12" />
         <mark key="[" line="20" column="23" />
@@ -369,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0cnRpc3RJZF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -381,31 +387,31 @@
         <text>gachaInfo.userCardCostList[teamId]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0cnRpc3RJZF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0cnRpc3RJZF0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghYXJ0aXN0SWQgaW4gZ2FjaGFJbmZvLnVzZXJDYXJkQ29zdExpc3RbdGVhbUlkXSkgewogICAgICBjb25zb2xlLmRpcihnYWNoYUluZm8udXNlckNhcmRDb3N0TGlzdCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghYXJ0aXN0SWQgaW4gZ2FjaGFJbmZvLnVzZXJDYXJkQ29zdExpc3RbdGVhbUlkXSkgewogICAgICBjb25zb2xlLmRpcihnYWNoYUluZm8udXNlckNhcmRDb3N0TGlzdCk7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0W3RlYW1JZF1bYXJ0aXN0SWRdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
