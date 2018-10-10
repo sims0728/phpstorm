@@ -9,7 +9,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" timestamp="1528715681332">
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" timestamp="1539148589033">
+        <mark key="'" line="3866" column="15" />
         <mark key="[" line="5850" column="19" />
         <mark key="]" line="5850" column="19" />
         <mark key="." line="5850" column="19" />
@@ -67,13 +68,6 @@
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" timestamp="1530507332254">
-        <mark key="'" line="104" column="15" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="108" column="5" />
       </file>
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
@@ -163,9 +157,6 @@
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" timestamp="1530499402198">
-        <mark key="'" line="438" column="25" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
         <mark key="[" line="13" column="43" />
@@ -272,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="33" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
       <jump line="298" column="43" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="72" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
@@ -372,6 +362,7 @@
       <jump line="223" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="254" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="104" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
+      <jump line="3866" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
