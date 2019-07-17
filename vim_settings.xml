@@ -17,18 +17,12 @@
         <mark key="." line="33" column="222" />
         <mark key="^" line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.js" timestamp="1528709918827">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.env" timestamp="1563337528628">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.env" timestamp="1563340858745">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="46" column="45" />
-        <mark key="." line="46" column="45" />
-        <mark key="^" line="46" column="45" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="/users [localhost]" timestamp="1526975482555">
         <mark key="[" line="0" column="0" />
@@ -40,31 +34,6 @@
         <mark key="." line="130" column="0" />
         <mark key="^" line="129" column="49" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/route.js" timestamp="1526967652253">
-        <mark key="[" line="39" column="43" />
-        <mark key="]" line="39" column="43" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="39" column="43" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515073406-lascolles.js" timestamp="1526373999150">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="16" column="1" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/HomeController.php" timestamp="1563335485585" />
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.tag" timestamp="1527039200639">
-        <mark key="[" line="4" column="92" />
-        <mark key="]" line="4" column="105" />
-        <mark key="." line="4" column="76" />
-        <mark key="^" line="4" column="76" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/account.js" timestamp="1526463128913">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="387" column="0" />
@@ -75,14 +44,11 @@
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" timestamp="1527470141761">
-        <mark key="'" line="85" column="2" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515000000-lascolle.js" timestamp="1526369223444">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/OAuthLoginController.php" timestamp="1563341431658">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/account.js" timestamp="1526462675976">
         <mark key="'" line="47" column="20" />
@@ -90,9 +56,6 @@
         <mark key="]" line="255" column="44" />
         <mark key="." line="255" column="44" />
         <mark key="^" line="255" column="44" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
-        <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.php_cs" timestamp="1563337560006">
         <mark key="[" line="0" column="0" />
@@ -106,12 +69,6 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526975496077">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="5" />
-      </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,24 +80,12 @@
         <mark key="^" line="370" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/composer.json" timestamp="1563337194069" />
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1529578045076">
-        <mark key="'" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/Controller.php" timestamp="1563333939113">
-        <mark key="[" line="10" column="1" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" timestamp="1526465129686">
         <mark key="'" line="13" column="61" />
         <mark key="[" line="25" column="5" />
         <mark key="]" line="26" column="30" />
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="30" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/diamond_charge.js" timestamp="1529371307834">
-        <mark key="[" line="217" column="4" />
-        <mark key="]" line="217" column="4" />
-        <mark key="." line="217" column="4" />
-        <mark key="^" line="217" column="7" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526464741625">
         <mark key="'" line="19" column="12" />
@@ -149,51 +94,12 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.tag" timestamp="1528711367509">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="20" column="31" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolles.js" timestamp="1530499667556">
-        <mark key="'" line="252" column="33" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/ligram.js" timestamp="1526966128831">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1528946189119">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onair.js" timestamp="1528946562636">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
-        <mark key="'" line="30" column="9" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/info.js" timestamp="1529028860431">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/episodes.js" timestamp="1528711261323">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="13" column="43" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/app.php" timestamp="1563340124972">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="229" column="18" />
+        <mark key="]" line="229" column="18" />
+        <mark key="^" line="229" column="18" />
+        <mark key="." line="229" column="18" />
       </file>
       <file name="/payment_logs [localhost]" timestamp="1525833882970">
         <mark key="[" line="0" column="0" />
@@ -208,6 +114,11 @@
         <mark key="^" line="85" column="15" />
         <mark key="." line="85" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/routes/web.php" timestamp="1563342009200">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1526966757874">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="108" column="26" />
@@ -217,18 +128,6 @@
       </file>
       <file name="/PHP Console" timestamp="1563335499946">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="87" column="25" />
-        <mark key="." line="87" column="25" />
-        <mark key="^" line="87" column="25" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" timestamp="1526550041592">
         <mark key="'" line="676" column="31" />
@@ -240,15 +139,11 @@
       <file name="/dummy.sql" timestamp="1526975484887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/Auth/LoginController.php" timestamp="1563331023405" />
       <file name="/Dummy.txt" timestamp="1563328509925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1563330907205" />
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Middleware/Authenticate.php" timestamp="1563335287338" />
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" timestamp="1527472790953">
-        <mark key="'" line="566" column="39" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.tag" timestamp="1526459723802">
         <mark key="'" line="11" column="55" />
         <mark key="[" line="11" column="5" />
@@ -263,14 +158,20 @@
         <mark key="." line="226" column="16" />
         <mark key="^" line="226" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/auth/login.blade.php" timestamp="1563341657449">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/fragment.php" timestamp="1563333948739">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/ligram.js" timestamp="1526966853998">
-        <mark key="'" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" timestamp="1527039221337">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/services.php" timestamp="1563340192587">
+        <mark key="[" line="48" column="40" />
+        <mark key="]" line="48" column="40" />
+        <mark key="^" line="48" column="40" />
+        <mark key="." line="48" column="40" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1528947602991">
         <mark key="'" line="34" column="3" />
@@ -288,7 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="61" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="171" column="79" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="198" column="59" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="231" column="30" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
@@ -388,46 +288,47 @@
       <jump line="44" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.env" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.editorconfig" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.editorconfig" />
+      <jump line="180" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm9vdCA9IHRydWUKClsqXQpjaGFyc2V0ID0gdXRmLTgKZW5kX29mX2xpbmUgPSBsZgppbnNlcnRfZmluYWxfbmV3bGluZSA9IHRydWUKaW5kZW50X3N0eWxlID0gc3BhY2UKaW5kZW50X3NpemUgPSA0CnRyaW1fdHJhaWxpbmdfd2hpdGVzcGFjZSA9IHRydWUKClsqLm1kXQp0cmltX3RyYWlsaW5nX3doaXRlc3BhY2UgPSBmYWxzZQoKWyoueW1sXQppbmRlbnRfc2l6ZSA9IDIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text>gachaInfo.userCardCostList[teamId]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2dvb2dsZV9pZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9vdCA9IHRydWUKClsqXQpjaGFyc2V0ID0gdXRmLTgKZW5kX29mX2xpbmUgPSBsZgppbnNlcnRfZmluYWxfbmV3bGluZSA9IHRydWUKaW5kZW50X3N0eWxlID0gc3BhY2UKaW5kZW50X3NpemUgPSA0CnRyaW1fdHJhaWxpbmdfd2hpdGVzcGFjZSA9IHRydWUKClsqLm1kXQp0cmltX3RyYWlsaW5nX3doaXRlc3BhY2UgPSBmYWxzZQoKWyoueW1sXQppbmRlbnRfc2l6ZSA9IDIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QVBQX05BTUU9TGFyYXZlbApBUFBfRU5WPWxvY2FsCkFQUF9LRVk9YmFzZTY0Ojk3djNwOG9uTWNPK2p6TXNWNFlJZE9Yc20vU2dmdGNTYkpQSG1vVzFjN3c9CkFQUF9ERUJVRz10cnVlCkFQUF9VUkw9aHR0cDovL2xvY2FsLWF6dXJlLm1lZGlhbGluay1ncm91cC5jb20KCkxPR19DSEFOTkVMPXN0YWNrCgpEQl9DT05ORUNUSU9OPW15c3FsCkRCX0hPU1Q9MTI3LjAuMC4xCkRCX1BPUlQ9MzMwNgpEQl9EQVRBQkFTRT1sb2NhbF9tYWluCkRCX1VTRVJOQU1FPXZhZ3JhbnQKREJfUEFTU1dPUkQ9cGFzc3dvcmQKCkJST0FEQ0FTVF9EUklWRVI9bG9nCkNBQ0hFX0RSSVZFUj1maWxlClFVRVVFX0NPTk5FQ1RJT049c3luYwpTRVNTSU9OX0RSSVZFUj1maWxlClNFU1NJT05fTElGRVRJTUU9MTIwCgpSRURJU19IT1NUPTEyNy4wLjAuMQpSRURJU19QQVNTV09SRD1udWxsClJFRElTX1BPUlQ9NjM3OQoKTUFJTF9EUklWRVI9c210cApNQUlMX0hPU1Q9c210cC5tYWlsdHJhcC5pbwpNQUlMX1BPUlQ9MjUyNQpNQUlMX1VTRVJOQU1FPW51bGwKTUFJTF9QQVNTV09SRD1udWxsCk1BSUxfRU5DUllQVElPTj1udWxsCgpBV1NfQUNDRVNTX0tFWV9JRD0KQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPQpBV1NfREVGQVVMVF9SRUdJT049dXMtZWFzdC0xCkFXU19CVUNLRVQ9CgpQVVNIRVJfQVBQX0lEPQpQVVNIRVJfQVBQX0tFWT0KUFVTSEVSX0FQUF9TRUNSRVQ9ClBVU0hFUl9BUFBfQ0xVU1RFUj1tdDEKCk1JWF9QVVNIRVJfQVBQX0tFWT0iJHtQVVNIRVJfQVBQX0tFWX0iCk1JWF9QVVNIRVJfQVBQX0NMVVNURVI9IiR7UFVTSEVSX0FQUF9DTFVTVEVSfSIKCkdPT0dMRV9DTElFTlRfSUQ9MTA3MTc0NDg3MTQyMS02cmlyc3FxYXVtN3UzbjN0NXFjNmk4c3RxMnMycnRlYy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbQpHT09HTEVfQ0xJRU5UX1NFQ1JFVD00bnpleWtyV090Q1VNSUh4NVQ3REgyZTEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QVBQX05BTUU9TGFyYXZlbApBUFBfRU5WPWxvY2FsCkFQUF9LRVk9YmFzZTY0OkUyc2ZNWGM5ZDRJblpMSTlISW5Nc0ZxMmpzSThQVkJoQTNleWxVZjdrNDA9CkFQUF9ERUJVRz10cnVlCkFQUF9VUkw9aHR0cDovL2xvY2FsaG9zdAoKTE9HX0NIQU5ORUw9c3RhY2sKCkRCX0NPTk5FQ1RJT049bXlzcWwKREJfSE9TVD0xMjcuMC4wLjEKREJfUE9SVD0zMzA2CkRCX0RBVEFCQVNFPWhvbWVzdGVhZApEQl9VU0VSTkFNRT1ob21lc3RlYWQKREJfUEFTU1dPUkQ9c2VjcmV0CgpCUk9BRENBU1RfRFJJVkVSPWxvZwpDQUNIRV9EUklWRVI9ZmlsZQpRVUVVRV9DT05ORUNUSU9OPXN5bmMKU0VTU0lPTl9EUklWRVI9ZmlsZQpTRVNTSU9OX0xJRkVUSU1FPTEyMAoKUkVESVNfSE9TVD0xMjcuMC4wLjEKUkVESVNfUEFTU1dPUkQ9bnVsbApSRURJU19QT1JUPTYzNzkKCk1BSUxfRFJJVkVSPXNtdHAKTUFJTF9IT1NUPXNtdHAubWFpbHRyYXAuaW8KTUFJTF9QT1JUPTI1MjUKTUFJTF9VU0VSTkFNRT1udWxsCk1BSUxfUEFTU1dPUkQ9bnVsbApNQUlMX0VOQ1JZUFRJT049bnVsbAoKQVdTX0FDQ0VTU19LRVlfSUQ9CkFXU19TRUNSRVRfQUNDRVNTX0tFWT0KQVdTX0RFRkFVTFRfUkVHSU9OPXVzLWVhc3QtMQpBV1NfQlVDS0VUPQoKUFVTSEVSX0FQUF9JRD0KUFVTSEVSX0FQUF9LRVk9ClBVU0hFUl9BUFBfU0VDUkVUPQpQVVNIRVJfQVBQX0NMVVNURVI9bXQxCgpNSVhfUFVTSEVSX0FQUF9LRVk9IiR7UFVTSEVSX0FQUF9LRVl9IgpNSVhfUFVTSEVSX0FQUF9DTFVTVEVSPSIke1BVU0hFUl9BUFBfQ0xVU1RFUn0iCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">QXV0aDo6cm91dGVzKCk7CgpSb3V0ZTo6Z2V0KCcvaG9tZScsICdIb21lQ29udHJvbGxlckBpbmRleCcpLT5uYW1lKCdob21lJyk7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9ImVtYWlsIiBjbGFzcz0iY29sLW1kLTQgY29sLWZvcm0tbGFiZWwgdGV4dC1tZC1yaWdodCI+e3sgX18oJ0UtTWFpbCBBZGRyZXNzJykgfX08L2xhYmVsPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9ImVtYWlsIiB0eXBlPSJlbWFpbCIgY2xhc3M9ImZvcm0tY29udHJvbCBAZXJyb3IoJ2VtYWlsJykgaXMtaW52YWxpZCBAZW5kZXJyb3IiIG5hbWU9ImVtYWlsIiB2YWx1ZT0ie3sgb2xkKCdlbWFpbCcpIH19IiByZXF1aXJlZCBhdXRvY29tcGxldGU9ImVtYWlsIiBhdXRvZm9jdXM+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBlcnJvcignZW1haWwnKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW52YWxpZC1mZWVkYmFjayIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz57eyAkbWVzc2FnZSB9fTwvc3Ryb25nPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGVycm9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwYXNzd29yZCIgY2xhc3M9ImNvbC1tZC00IGNvbC1mb3JtLWxhYmVsIHRleHQtbWQtcmlnaHQiPnt7IF9fKCdQYXNzd29yZCcpIH19PC9sYWJlbD4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJwYXNzd29yZCIgdHlwZT0icGFzc3dvcmQiIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdwYXNzd29yZCcpIGlzLWludmFsaWQgQGVuZGVycm9yIiBuYW1lPSJwYXNzd29yZCIgcmVxdWlyZWQgYXV0b2NvbXBsZXRlPSJjdXJyZW50LXBhc3N3b3JkIj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVycm9yKCdwYXNzd29yZCcpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnZhbGlkLWZlZWRiYWNrIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPnt7ICRtZXNzYWdlIH19PC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZXJyb3IKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02IG9mZnNldC1tZC00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IiB0eXBlPSJjaGVja2JveCIgbmFtZT0icmVtZW1iZXIiIGlkPSJyZW1lbWJlciIge3sgb2xkKCdyZW1lbWJlcicpID8gJ2NoZWNrZWQnIDogJycgfX0+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tY2hlY2stbGFiZWwiIGZvcj0icmVtZW1iZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgX18oJ1JlbWVtYmVyIE1lJykgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93IG1iLTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTggb2Zmc2V0LW1kLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgX18oJ0xvZ2luJykgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmIChSb3V0ZTo6aGFzKCdwYXNzd29yZC5yZXF1ZXN0JykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsiIGhyZWY9Int7IHJvdXRlKCdwYXNzd29yZC5yZXF1ZXN0JykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgX18oJ0ZvcmdvdCBZb3VyIFBhc3N3b3JkPycpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3Bhc3N3b3JkJyk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0cnRpc3RJZF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ2VtYWlsX3ZlcmlmaWVkX2F0JyktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGlyKGdhY2hhSW5mby51c2VyQ2FyZENvc3RMaXN0KTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghYXJ0aXN0SWQgaW4gZ2FjaGFJbmZvLnVzZXJDYXJkQ29zdExpc3RbdGVhbUlkXSkgewogICAgICBjb25zb2xlLmRpcihnYWNoYUluZm8udXNlckNhcmRDb3N0TGlzdCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Y2xhc3MgT0F1dGhMb2dpbkNvbnRyb2xsZXIgZXh0ZW5kcyBDb250cm9sbGVyCnsKICAgIC8vCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
