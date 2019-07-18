@@ -4,20 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Libra/Event/Handler/UnlistedProductHandler.php" timestamp="1563409334307" />
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/index.js" timestamp="1526966909777">
-        <mark key="'" line="131" column="43" />
-        <mark key="[" line="131" column="26" />
-        <mark key="]" line="131" column="32" />
-        <mark key="." line="131" column="32" />
-        <mark key="^" line="131" column="32" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" timestamp="1528947563315">
-        <mark key="'" line="7" column="228" />
-        <mark key="[" line="33" column="222" />
-        <mark key="]" line="33" column="222" />
-        <mark key="." line="33" column="222" />
-        <mark key="^" line="38" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.env" timestamp="1563340858745">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="9" column="8" />
@@ -25,19 +11,11 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" timestamp="1527492718062">
-        <mark key="'" line="98" column="22" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="129" column="49" />
+      <file name="/users [localhost]" timestamp="1526975482555">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/account.js" timestamp="1526463128913">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="387" column="0" />
-        <mark key="." line="387" column="0" />
-        <mark key="^" line="386" column="56" />
+      <file name="/ng_words [localhost]" timestamp="1525833805705">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" timestamp="1527470141761">
         <mark key="'" line="85" column="2" />
@@ -51,13 +29,6 @@
         <mark key="]" line="29" column="33" />
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="33" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/mutations/account.js" timestamp="1526462675976">
-        <mark key="'" line="47" column="20" />
-        <mark key="[" line="255" column="44" />
-        <mark key="]" line="255" column="44" />
-        <mark key="." line="255" column="44" />
-        <mark key="^" line="255" column="44" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
         <mark key="'" line="18" column="0" />
@@ -74,100 +45,59 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/account.js" timestamp="1526463611115">
-        <mark key="'" line="368" column="29" />
-        <mark key="[" line="370" column="41" />
-        <mark key="]" line="370" column="55" />
-        <mark key="." line="370" column="55" />
-        <mark key="^" line="370" column="55" />
+      <file name="/battles [localhost]" timestamp="1525833800770">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/composer.json" timestamp="1563337194069" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1529578045076">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.js" timestamp="1526465129686">
-        <mark key="'" line="13" column="61" />
-        <mark key="[" line="25" column="5" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/index.tag" timestamp="1526464741625">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolles.js" timestamp="1530499667556">
         <mark key="'" line="252" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/app.php" timestamp="1563340124972">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="229" column="18" />
-        <mark key="]" line="229" column="18" />
-        <mark key="^" line="229" column="18" />
-        <mark key="." line="229" column="18" />
-      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/ControllerProvider/FrontControllerProvider.php" timestamp="1563411202991" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
         <mark key="'" line="30" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" timestamp="1563408965338">
         <mark key="'" line="88" column="21" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/account.js" timestamp="1526462608824">
-        <mark key="'" line="16" column="10" />
-        <mark key="[" line="85" column="23" />
-        <mark key="]" line="85" column="23" />
-        <mark key="^" line="85" column="15" />
-        <mark key="." line="85" column="23" />
+      <file name="/payment_logs [localhost]" timestamp="1525833882970">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/onair_information [localhost]" timestamp="1526870261690">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/routes/web.php" timestamp="1563342009200">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/actions/index.js" timestamp="1526966757874">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="108" column="26" />
-        <mark key="]" line="108" column="32" />
-        <mark key="." line="108" column="32" />
-        <mark key="^" line="108" column="32" />
+      <file name="/PHP Console" timestamp="1563411823161">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/CartService.php" timestamp="1563344591970">
         <mark key="'" line="101" column="22" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/core/i18n/ja.js" timestamp="1526550041592">
-        <mark key="'" line="676" column="31" />
-        <mark key="[" line="1749" column="0" />
-        <mark key="]" line="1752" column="5" />
-        <mark key="^" line="1751" column="36" />
-        <mark key="." line="1751" column="36" />
+      <file name="/dummy.sql" timestamp="1526975484887">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563328509925">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1563330907205" />
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Middleware/Authenticate.php" timestamp="1563335287338" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" timestamp="1527472790953">
         <mark key="'" line="566" column="39" />
       </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/item.tag" timestamp="1526459723802">
-        <mark key="'" line="11" column="55" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" timestamp="1529580640098">
-        <mark key="'" line="207" column="23" />
-        <mark key="[" line="226" column="10" />
-        <mark key="]" line="226" column="16" />
-        <mark key="." line="226" column="16" />
-        <mark key="^" line="226" column="16" />
-      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/auth/login.blade.php" timestamp="1563341657449">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="14" column="66" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1563333948739">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/ShoppingService.php" timestamp="1563344423800" />
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/ligram.js" timestamp="1526966853998">
@@ -181,20 +111,6 @@
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" timestamp="1527039221337">
         <mark key="'" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" timestamp="1528947602991">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/viron/swagger/swagger.yaml" timestamp="1539148589033">
-        <mark key="'" line="3866" column="15" />
-        <mark key="[" line="5850" column="19" />
-        <mark key="]" line="5850" column="19" />
-        <mark key="." line="5850" column="19" />
-        <mark key="^" line="5850" column="19" />
       </file>
     </filemarks>
     <jumps>
