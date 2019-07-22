@@ -79,6 +79,7 @@
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/CartService.php" timestamp="1563344591970">
         <mark key="'" line="101" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Application/ApplicationTrait.php" timestamp="1563838318765" />
       <file name="/dummy.sql" timestamp="1526975484887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -256,7 +257,7 @@
         <text encoding="base64">Y2xhc3MgT0F1dGhMb2dpbkNvbnRyb2xsZXIgZXh0ZW5kcyBDb250cm9sbGVyCnsKICAgIC8vCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -291,8 +292,8 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
