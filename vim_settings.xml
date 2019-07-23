@@ -10,7 +10,7 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1563861265895">
+      <file name="/a.dummy" timestamp="1563865008694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/HomeController.php" timestamp="1563861243383">
@@ -40,10 +40,12 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1563863229416">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1563872828112">
+        <mark key="'" line="32" column="26" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="5" />
+        <mark key="." line="35" column="5" />
+        <mark key="^" line="35" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/OAuthLoginController.php" timestamp="1563862493374">
         <mark key="[" line="29" column="30" />
@@ -140,11 +142,12 @@
         <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1563330907205" />
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563862893050">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
+        <mark key="'" line="3" column="4" />
         <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="3" column="9" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Middleware/Authenticate.php" timestamp="1563335287338" />
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/sub_categories/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563852449137">
@@ -161,6 +164,13 @@
       </file>
       <file name="/fragment.php" timestamp="1563333948739">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" timestamp="1563872801919">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="5" />
+        <mark key="^" line="64" column="5" />
+        <mark key="." line="64" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/items/2019_07_23_032232_create_items_table.php" timestamp="1563852597269">
         <mark key="[" line="22" column="38" />
@@ -186,6 +196,13 @@
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.env" timestamp="1563340858745">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="/users [localhost]" timestamp="1526975482555">
         <mark key="[" line="0" column="0" />
@@ -236,6 +253,12 @@
         <mark key="]" line="57" column="2" />
         <mark key="^" line="55" column="3" />
         <mark key="." line="57" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Roles.php" timestamp="1563869634296">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.editorconfig" timestamp="1563337578624">
         <mark key="[" line="0" column="0" />
@@ -302,7 +325,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="50" />
       </file>
-      <file name="/PHP Console" timestamp="1563849310584">
+      <file name="/PHP Console" timestamp="1563866994272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/companies/2019_07_23_032243_create_companies_table.php" timestamp="1563854885944">
@@ -363,24 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="61" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="157" column="45" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="5" column="29" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="82" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="156" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="208" column="11" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="30" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="141" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" />
-      <jump line="30" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" />
-      <jump line="319" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-compleated-page/index.js" />
-      <jump line="316" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-payment-compleated-page/index.js" />
-      <jump line="27" column="28" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
-      <jump line="130" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
-      <jump line="187" column="10" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
-      <jump line="191" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
-      <jump line="212" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
-      <jump line="303" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
-      <jump line="304" column="10" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
       <jump line="307" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
       <jump line="314" column="19" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
       <jump line="19" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
@@ -463,62 +468,78 @@
       <jump line="475" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="693" column="33" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="62" column="12" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" />
+      <jump line="41" column="9" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="27" column="3" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="34" column="3" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="30" column="13" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" />
+      <jump line="10" column="11" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" />
+      <jump line="19" column="11" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" />
+      <jump line="46" column="14" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="45" column="40" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="32" column="26" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="10" column="4" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="44" column="36" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="16" column="4" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="20" column="12" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
+      <jump line="3" column="4" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXEF1dGhlbnRpY2F0ZXNVc2VyczsK</text>
+      <register name="&quot;" type="4">
+        <text>bbbbbbbb</text>
       </register>
       <register name="-" type="4">
-        <text>aaaaaaaaaaaaa</text>
+        <text>bbbbbbbb</text>
       </register>
       <register name="/" type="4">
-        <text>__</text>
+        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKCkBzZWN0aW9uKCdjb250ZW50JykKICBhYWFhYWFhYWFhYWFhCkBlbmRzZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXEF1dGhlbnRpY2F0ZXNVc2VyczsK</text>
+        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1c2UgQXV0aGVudGljYXRlc1VzZXJzOwo=</text>
+        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgJHJlZGlyZWN0VG8gPSAnLyc7Cg==</text>
+        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vJHRoaXMtPm1pZGRsZXdhcmUoJ2d1ZXN0JyktPmV4Y2VwdCgnbG9nb3V0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGRkKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9Int7IHN0cl9yZXBsYWNlKCdfJywgJy0nLCBhcHAoKS0+Z2V0TG9jYWxlKCkpIH19Ij4KICAgIDxoZWFkPgogICAgICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KICAgICAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgogICAgICAgIDx0aXRsZT5MYXJhdmVsPC90aXRsZT4KICAgIDwvaGVhZD4KICAgIDxib2R5PgogICAgPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgIGRkKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR1c2Vycy0+dG9TcWwoKSwgJHVzZXJzLT5nZXRCaW5kaW5ncygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0aGlzLT5iZWxvbmdzVG8oJ0FwcFxSb2xlcycsICdyb2xlX2lkJyktPnRvU3FsKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0aGlzLT53aGVyZSgnaWQnLCAkaWQpLT5maXJzdCgpLT50b1NxbCgpLCAkdGhpcy0+d2hlcmUoJ2lkJywgJGlkKS0+Zmlyc3QoKS0+Z2V0QmluZGluZ3MoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIEZvbnRzIC0tPgogICAgICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1OdW5pdG86MjAwLDYwMCIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>__</last-search>
+      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
       <last-offset />
-      <last-pattern>__</last-pattern>
+      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</entry>
-        <entry>dev-st</entry>
         <entry>scf</entry>
         <entry>scf.last</entry>
         <entry>display_date</entry>
@@ -537,6 +558,8 @@
         <entry encoding="base64">XDxDdXN0b21lclw+</entry>
         <entry>login</entry>
         <entry>__</entry>
+        <entry encoding="base64">XDxfdXNlckRiXD4=</entry>
+        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
