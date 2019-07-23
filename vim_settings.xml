@@ -23,6 +23,9 @@
         <mark key="^" line="29" column="33" />
         <mark key="." line="29" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1563848675937">
+        <mark key="'" line="693" column="33" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
         <mark key="'" line="18" column="0" />
       </file>
@@ -73,7 +76,7 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="/PHP Console" timestamp="1563411823161">
+      <file name="/PHP Console" timestamp="1563849310584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/CartService.php" timestamp="1563344591970">
@@ -83,7 +86,7 @@
       <file name="/dummy.sql" timestamp="1526975484887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563328509925">
+      <file name="/Dummy.txt" timestamp="1563848720178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1563330907205" />
@@ -116,11 +119,9 @@
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" timestamp="1527039221337">
         <mark key="'" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Translation/Translator.php" timestamp="1563849316547" />
     </filemarks>
     <jumps>
-      <jump line="99" column="21" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="31" column="10" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="87" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="131" column="61" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
       <jump line="157" column="45" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/index.js" />
@@ -218,6 +219,9 @@
       <jump line="92" column="37" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" />
       <jump line="88" column="21" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" />
       <jump line="46" column="45" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/layouts/app.blade.php" />
+      <jump line="278" column="28" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
+      <jump line="475" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
+      <jump line="693" column="33" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -227,7 +231,7 @@
         <text>welcome</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>__</text>
       </register>
       <register name="0" type="4">
         <text>ProductType</text>
@@ -264,15 +268,14 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>__</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>__</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNEYXRhXD4=</entry>
         <entry encoding="base64">XDx1bnJlZ2lzdGVyVXNlclw+</entry>
         <entry>dev-st</entry>
         <entry>scf</entry>
@@ -292,6 +295,7 @@
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxDdXN0b21lclw+</entry>
         <entry>login</entry>
+        <entry>__</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
