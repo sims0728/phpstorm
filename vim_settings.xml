@@ -25,6 +25,12 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="16" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032207_create_categories_table.php" timestamp="1563857745495">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="16" column="33" />
+      </file>
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +75,12 @@
         <mark key="." line="30" column="28" />
         <mark key="^" line="30" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.gitignore" timestamp="1563851610575">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/userTop.blade.php" timestamp="1563862874157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="11" />
@@ -76,8 +88,44 @@
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1529578045076">
         <mark key="'" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/diamond_charge.js" timestamp="1529371307834">
+        <mark key="[" line="217" column="4" />
+        <mark key="]" line="217" column="4" />
+        <mark key="." line="217" column="4" />
+        <mark key="^" line="217" column="7" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/ligram.js" timestamp="1526966128831">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_030814_create_roles_table.php" timestamp="1563857623116">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1528946189119">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
         <mark key="'" line="30" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1563949290972">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/offices/2019_07_23_032248_create_offices_table.php" timestamp="1563855879470">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="/payment_logs [localhost]" timestamp="1525833882970">
         <mark key="[" line="0" column="0" />
@@ -103,6 +151,12 @@
         <mark key="." line="12" column="1" />
         <mark key="^" line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1563330907205" />
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
         <mark key="'" line="3" column="4" />
@@ -112,6 +166,12 @@
         <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Middleware/Authenticate.php" timestamp="1563335287338" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/sub_categories/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563852449137">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1563859475901">
         <mark key="[" line="17" column="61" />
         <mark key="]" line="17" column="72" />
@@ -150,6 +210,12 @@
         <mark key="." line="22" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Translation/Translator.php" timestamp="1563849316547" />
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.js" timestamp="1528709918827">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.env" timestamp="1563340858745">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="9" column="8" />
@@ -163,6 +229,30 @@
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/bin/php-cs-fixer" timestamp="1563876383171">
         <mark key="'" line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/route.js" timestamp="1526967652253">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="43" />
+        <mark key="^" line="39" column="35" />
+        <mark key="." line="39" column="43" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515073406-lascolles.js" timestamp="1526373999150">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.tag" timestamp="1527039200639">
+        <mark key="[" line="4" column="92" />
+        <mark key="]" line="4" column="105" />
+        <mark key="." line="4" column="76" />
+        <mark key="^" line="4" column="76" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-faqs-page/route.js" timestamp="1526463393926">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/user_history/2019_07_23_032253_create_user_history_table.php" timestamp="1563856074686">
         <mark key="[" line="18" column="51" />
         <mark key="]" line="21" column="29" />
@@ -173,6 +263,18 @@
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Resource/doctrine/master/Eccube.Entity.Master.ProductType.dcm.yml" timestamp="1563344231054">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515000000-lascolle.js" timestamp="1526369223444">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/database.php" timestamp="1563853379622">
+        <mark key="[" line="57" column="2" />
+        <mark key="]" line="57" column="2" />
+        <mark key="^" line="55" column="3" />
+        <mark key="." line="57" column="2" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
         <mark key="'" line="18" column="0" />
@@ -195,6 +297,18 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/OfficeTableSeeder.php" timestamp="1563949266662">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="25" column="29" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526975496077">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
       </file>
@@ -204,6 +318,12 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.tag" timestamp="1528711367509">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolles.js" timestamp="1530499667556">
         <mark key="'" line="252" column="33" />
@@ -221,8 +341,20 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="8" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onair.js" timestamp="1528946562636">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" timestamp="1563408965338">
         <mark key="'" line="88" column="21" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/routes/web.php" timestamp="1563862570744">
         <mark key="[" line="20" column="0" />
@@ -239,12 +371,19 @@
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="25" />
+        <mark key="^" line="87" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Application/ApplicationTrait.php" timestamp="1563838318765" />
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1563948323523">
-        <mark key="[" line="50" column="29" />
-        <mark key="]" line="80" column="33" />
-        <mark key="." line="80" column="33" />
-        <mark key="^" line="80" column="33" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1563949706136">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="8" />
+        <mark key="." line="48" column="8" />
+        <mark key="^" line="48" column="8" />
       </file>
       <file name="/dummy.sql" timestamp="1526975484887">
         <mark key="[" line="0" column="0" />
@@ -257,6 +396,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1563848720178">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/categories/2019_07_23_032207_create_categories_table.php" timestamp="1563852311579">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032248_create_offices_table.php" timestamp="1563858459135">
         <mark key="[" line="17" column="14" />
@@ -294,43 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="40" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
-      <jump line="30" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" />
-      <jump line="20" column="28" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
-      <jump line="6" column="331" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" />
-      <jump line="87" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
-      <jump line="43" column="4" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
-      <jump line="85" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" />
-      <jump line="34" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" />
-      <jump line="35" column="58" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/payment_logs.js" />
-      <jump line="600" column="53" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
-      <jump line="568" column="47" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
-      <jump line="546" column="12" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
-      <jump line="555" column="18" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
-      <jump line="566" column="39" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" />
-      <jump line="116" column="17" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/mobilemail.js" />
-      <jump line="466" column="26" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
-      <jump line="97" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
-      <jump line="98" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/local.js" />
-      <jump line="446" column="9" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/config/prd.js" />
-      <jump line="34" column="3" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/package.json" />
-      <jump line="7" column="228" filename="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onairmembers.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/diamond_charge.js" />
-      <jump line="291" column="7" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="302" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="318" column="66" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="298" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="64" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="172" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="181" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="226" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="317" column="63" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="335" column="28" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="207" column="23" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/ligram.js" />
-      <jump line="163" column="13" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="248" column="2" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="19" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="256" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
@@ -394,61 +502,97 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/bin/php-cs-fixer" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/bin/php-cs-fixer" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/bin/php-cs-fixer" />
+      <jump line="74" column="30" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="79" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="25" column="10" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="34" column="28" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="35" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="36" column="36" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="37" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="38" column="34" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="39" column="36" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="40" column="30" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="41" column="32" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="42" column="26" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="43" column="36" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="45" column="46" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="47" column="9" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="49" column="19" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="50" column="34" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="51" column="35" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="52" column="34" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="53" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="54" column="25" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="56" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="57" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="58" column="37" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="59" column="38" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="60" column="41" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="61" column="35" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="62" column="35" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="63" column="30" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="64" column="28" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="65" column="30" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="66" column="32" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="67" column="26" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="68" column="28" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="69" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="55" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
+      <jump line="44" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ク</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>ク</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICdpZCcgPT4gMSwKICAgICAgICAgICduYW1lJyA9PiAn5qCq5byP5Lya56S+44Oh44OH44Kj44Ki44Oq44Oz44KvJywKICAgICAgICAgICduYW1lX2thbmEnID0+ICfjgoHjgafjgYPjgYLjgorjgpPjgY8nLAogICAgICAgICAgJ3ppcF9jb2RlJyA9PiAnMTExLTExMTEnLAogICAgICAgICAgJ3ByZWZpY3R1cmUnID0+ICflrq7ln47nnIwnLAogICAgICAgICAgJ2NpdHknID0+ICfku5nlj7DluIInLAogICAgICAgICAgJ2FkZHJlc3MnID0+ICcxLTExJywKICAgICAgICAgICd0ZWwnID0+ICcwMzExMTExMTExJywKICAgICAgICAgICdmYXgnID0+ICcwMzIyMjIyMjIyJywKICAgICAgICAgICdyZXByZXNlbnRfbmFtZScgPT4gJ+axoOeUsCDlt6jmqLknLAogICAgICAgICAgJ3JlcHJlc2VudF9hZGRyZXNzJyA9PiAn5p2x5Lqs6YO9JywKICAgICAgICAgICdyZXByZXNlbnRfdGVsJyA9PiAnMDMxMTExMTExMScsCiAgICAgICAgICAnc2hhcmVfY2FwaXRhbCcgPT4gJzEwMDAnLAogICAgICAgICAgJ2FubnVhbF9zYWxlcycgPT4gJzEwMDAwJywKICAgICAgICAgICdkaXZpc2lvbicgPT4gJ+adseS6rOaUr+ekvicsCiAgICAgICAgICAncmVwJyA9PiAn5a6H5L2Q576O44GK44Gr44GO44KKJywKICAgICAgICAgICdpbmR1c3RyaWVzJyA9PiAn5Y2w5Yi3JywKICAgICAgICAgICdzYWxlc190eXBlJyA9PiAn5Za25qWt56iu55uuJywKICAgICAgICAgICdiaWxsaW5nJyA9PiAnMScsCiAgICAgICAgICAnYmlsbF90eXBlJyA9PiAnMicsCiAgICAgICAgICAnb2Zmc2V0dGluZycgPT4gJzInLAogICAgICAgICAgJ2JpbGxpbmdfZGl2aXNpb24nID0+ICfntYznkIYnLAogICAgICAgICAgJ2JpbGxpbmdfcmVwJyA9PiAn6L+R6YeOJywKICAgICAgICAgICdwYXltZW50X21ldGhvZHMnID0+ICcyJywKICAgICAgICAgICdjbG9zaW5nX2RhdGVfdHlwZScgPT4gJzInLAogICAgICAgICAgJ2Nsb3NpbmdfZGF0ZScgPT4gJycsCiAgICAgICAgICAnZHVlX2RhdGVfdHlwZScgPT4gJzInLAogICAgICAgICAgJ2R1ZV9kYXRlJyA9PiAnJywKICAgICAgICAgICdiYW5rX25hbWUnID0+ICfkuInoj7HmnbHkuqxVRkrpioDooYwnLAogICAgICAgICAgJ2JhbmtfYnJhbmNoX25hbWUnID0+ICfmlrDmqYsnLAogICAgICAgICAgJ3VybCcgPT4gJ2h0dHBzOi8vbWVkaWFsaW5rZXIuY28uanAnLAogICAgICAgICAgJ2ZyZWVfdGV4dCcgPT4gJ+ODleODquODvOODhuOCreOCueODiCcK</text>
+        <text encoding="base64">ICAgICR0aGlzLT5jYWxsKENvbXBhbmllc1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICdpZCcgPT4gMiwKICAgICAgICAgICdyb2xlJyA9PiAn57eo6ZuG6ICFJywK</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnbmFtZScgPT4gJ+agquW8j+S8muekvuODoeODh+OCo+OCouODr+ODvOOCr+OCuScsCiAgICAgICAgICAnbmFtZV9rYW5hJyA9PiAn44KB44Gn44GD44GC44KP44O844GP44GZJywKICAgICAgICAgICd6aXBfY29kZScgPT4gJzExMS0xMTExJywKICAgICAgICAgICdwcmVmaWN0dXJlJyA9PiAn5a6u5Z+O55yMJywKICAgICAgICAgICdjaXR5JyA9PiAn5LuZ5Y+w5biCJywKICAgICAgICAgICdhZGRyZXNzJyA9PiAnMS0xMScsCiAgICAgICAgICAndGVsJyA9PiAnMDMxMTExMTExMScsCiAgICAgICAgICAnZmF4JyA9PiAnMDMyMjIyMjIyMicsCiAgICAgICAgICAncmVwcmVzZW50X25hbWUnID0+ICfmsaDnlLAg5beo5qi5JywKICAgICAgICAgICdyZXByZXNlbnRfYWRkcmVzcycgPT4gJ+adseS6rOmDvScsCiAgICAgICAgICAncmVwcmVzZW50X3RlbCcgPT4gJzAzMTExMTExMTEnLAogICAgICAgICAgJ3NoYXJlX2NhcGl0YWwnID0+ICcxMDAwJywKICAgICAgICAgICdhbm51YWxfc2FsZXMnID0+ICcxMDAwMCcsCiAgICAgICAgICAnZGl2aXNpb24nID0+ICfmnbHkuqzmlK/npL4nLAogICAgICAgICAgJ3JlcCcgPT4gJ+Wuh+S9kOe+juOBiuOBq+OBjuOCiicsCiAgICAgICAgICAnaW5kdXN0cmllcycgPT4gJ+WNsOWItycsCiAgICAgICAgICAnc2FsZXNfdHlwZScgPT4gJ+WWtualreeoruebricsCiAgICAgICAgICAnYmlsbGluZycgPT4gJzEnLAogICAgICAgICAgJ2JpbGxfdHlwZScgPT4gJzInLAogICAgICAgICAgJ29mZnNldHRpbmcnID0+ICcyJywKICAgICAgICAgICdiaWxsaW5nX2RpdmlzaW9uJyA9PiAn57WM55CGJywKICAgICAgICAgICdiaWxsaW5nX3JlcCcgPT4gJ+i/kemHjicsCiAgICAgICAgICAncGF5bWVudF9tZXRob2RzJyA9PiAnMicsCiAgICAgICAgICAnY2xvc2luZ19kYXRlX3R5cGUnID0+ICcyJywKICAgICAgICAgICdjbG9zaW5nX2RhdGUnID0+ICcnLAogICAgICAgICAgJ2R1ZV9kYXRlX3R5cGUnID0+ICcyJywKICAgICAgICAgICdkdWVfZGF0ZScgPT4gJycsCiAgICAgICAgICAnYmFua19uYW1lJyA9PiAn5LiJ6I+x5p2x5LqsVUZK6YqA6KGMJywKICAgICAgICAgICdiYW5rX2JyYW5jaF9uYW1lJyA9PiAn5paw5qmLJywKICAgICAgICAgICd1cmwnID0+ICdodHRwczovL21lZGlhbGlua2VyLmNvLmpwJywKICAgICAgICAgICdmcmVlX3RleHQnID0+ICfjg5Xjg6rjg7zjg4bjgq3jgrnjg4gnCiAgICAgICAgXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdpbmR1c3RyaWVzJyA9PiAn5Y2w5Yi3JywKICAgICAgICAgICdzYWxlc190eXBlJyA9PiAn5Za25qWt56iu55uuJywKICAgICAgICAgICdiaWxsaW5nJyA9PiAnMScsCiAgICAgICAgICAnYmlsbF90eXBlJyA9PiAnMicsCiAgICAgICAgICAnb2Zmc2V0dGluZycgPT4gJzInLAogICAgICAgICAgJ2JpbGxpbmdfZGl2aXNpb24nID0+ICfntYznkIYnLAogICAgICAgICAgJ2JpbGxpbmdfcmVwJyA9PiAn6L+R6YeOJywKICAgICAgICAgICdwYXltZW50X21ldGhvZHMnID0+ICcyJywKICAgICAgICAgICdjbG9zaW5nX2RhdGVfdHlwZScgPT4gJzInLAogICAgICAgICAgJ2Nsb3NpbmdfZGF0ZScgPT4gJycsCiAgICAgICAgICAnZHVlX2RhdGVfdHlwZScgPT4gJzInLAogICAgICAgICAgJ2R1ZV9kYXRlJyA9PiAnJywKICAgICAgICAgICdiYW5rX25hbWUnID0+ICfkuInoj7HmnbHkuqxVRkrpioDooYwnLAogICAgICAgICAgJ2JhbmtfYnJhbmNoX25hbWUnID0+ICfmlrDmqYsnLAogICAgICAgICAgJ3VybCcgPT4gJ2h0dHBzOi8vbWVkaWFsaW5rZXIuY28uanAnLAogICAgICAgICAgJ2ZyZWVfdGV4dCcgPT4gJ+ODleODquODvOODhuOCreOCueODiCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICdyZXByZXNlbnRfbmFtZScgPT4gJ+axoOeUsCDlt6jmqLknLAogICAgICAgICAgJ3JlcHJlc2VudF9hZGRyZXNzJyA9PiAn5p2x5Lqs6YO9JywKICAgICAgICAgICdyZXByZXNlbnRfdGVsJyA9PiAnMDMxMTExMTExMScsCiAgICAgICAgICAnc2hhcmVfY2FwaXRhbCcgPT4gJzEwMDAnLAogICAgICAgICAgJ2FubnVhbF9zYWxlcycgPT4gJzEwMDAwJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDk5LAogICAgICAgICAgJ3JvbGUnID0+ICfnrqHnkIbogIUnLAogICAgICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICdpZCcgPT4gMiwKICAgICAgICAgICdyb2xlJyA9PiAn57eo6ZuG6ICFJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
+        <text encoding="base64">ICAgIERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
+      <last-pattern>,</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scf</entry>
         <entry>scf.last</entry>
         <entry>display_date</entry>
         <entry>post_date</entry>
@@ -468,6 +612,7 @@
         <entry>__</entry>
         <entry encoding="base64">XDxfdXNlckRiXD4=</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
