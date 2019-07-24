@@ -19,11 +19,11 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1563857812785">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="16" column="33" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1563958860858">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032207_create_categories_table.php" timestamp="1563857745495">
         <mark key="[" line="16" column="33" />
@@ -378,12 +378,12 @@
         <mark key="^" line="87" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Application/ApplicationTrait.php" timestamp="1563838318765" />
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1563949706136">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1563958829559">
         <mark key="'" line="44" column="8" />
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="8" />
-        <mark key="^" line="48" column="8" />
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="/dummy.sql" timestamp="1526975484887">
         <mark key="[" line="0" column="0" />
@@ -542,10 +542,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>smallInteger</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>smallInteger</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
