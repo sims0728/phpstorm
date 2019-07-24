@@ -561,7 +561,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -596,8 +596,8 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
