@@ -42,13 +42,13 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564014867481">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564015503034">
         <mark key="'" line="36" column="26" />
-        <mark key="[" line="38" column="40" />
+        <mark key="[" line="41" column="17" />
         <mark key="k" line="37" column="0" />
-        <mark key="]" line="38" column="45" />
-        <mark key="." line="38" column="45" />
-        <mark key="^" line="38" column="45" />
+        <mark key="]" line="41" column="17" />
+        <mark key="." line="41" column="17" />
+        <mark key="^" line="38" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/OAuthLoginController.php" timestamp="1563862493374">
         <mark key="[" line="29" column="30" />
@@ -150,12 +150,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564014896836">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="51" />
-        <mark key="^" line="16" column="51" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564015656475">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
+        <mark key="^" line="29" column="10" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
         <mark key="[" line="51" column="10" />
@@ -185,10 +185,10 @@
       <file name="/fragment.php" timestamp="1563333948739">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" timestamp="1564013927227">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" timestamp="1564015602852">
         <mark key="'" line="20" column="12" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="14" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="7" />
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
       </file>
@@ -540,16 +540,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>All</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>All</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>offices</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFwcFxSb2xlczsK</text>
+        <text encoding="base64">dXNlIERCOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
