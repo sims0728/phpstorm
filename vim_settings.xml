@@ -150,12 +150,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564122494771">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564123831225">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="42" column="82" />
-        <mark key="]" line="42" column="82" />
-        <mark key="." line="42" column="82" />
-        <mark key="^" line="42" column="82" />
+        <mark key="[" line="42" column="84" />
+        <mark key="]" line="42" column="105" />
+        <mark key="." line="42" column="105" />
+        <mark key="^" line="42" column="105" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
         <mark key="[" line="51" column="10" />
@@ -540,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>offices</text>
