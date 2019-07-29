@@ -36,13 +36,13 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564365820168">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564369541726">
         <mark key="'" line="36" column="26" />
-        <mark key="[" line="47" column="14" />
         <mark key="k" line="37" column="0" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="32" />
-        <mark key="^" line="47" column="32" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="51" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/OAuthLoginController.php" timestamp="1563862493374">
         <mark key="[" line="29" column="30" />
@@ -108,12 +108,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564365656522">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="." line="23" column="4" />
-        <mark key="^" line="22" column="49" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564369796156">
+        <mark key="'" line="17" column="31" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="17" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
         <mark key="'" line="3" column="4" />
@@ -305,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
-      <jump line="256" column="16" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="268" column="60" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="467" column="79" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="466" column="80" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
@@ -405,93 +403,62 @@
       <jump line="55" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
       <jump line="44" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="5" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="17" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>office</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>office</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>offices</text>
+        <text encoding="base64">XDxPZmZpY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRvZmZpY2UpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG9mZmljZVswXS0+bmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vZGQoJHRoaXMtPl9yb2xlRGItPnJvbGVzKTsK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG9mZmljZVswXS0+bmFtZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkKCRjb21wYW5pZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLT5sZWZ0Sm9pbigndXNlcl9oaXN0b3J5JywgJ2NvbXBhbmllcy5pZCcsICc9JywgJ3VzZXJfaGlzdG9yeS5jb21wYW55X2lkJykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRvZmZpY2UpOwogICAgdmFyX2R1bXAoJGl0ZW1Db21wYW55UmVsYXRpb24pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vZGQoJHRoaXMtPl9yb2xlRGItPnJvbGVzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRkKCRjb21wYW5pZXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnbmFtZScgPT4gJ+agquW8j+S8muekvuODoeODh+OCo+OCouODr+ODvOOCr+OCuScsCiAgICAgICAgICAnbmFtZV9rYW5hJyA9PiAn44KB44Gn44GD44GC44KP44O844GP44GZJywKICAgICAgICAgICd6aXBfY29kZScgPT4gJzExMS0xMTExJywKICAgICAgICAgICdwcmVmaWN0dXJlJyA9PiAn5a6u5Z+O55yMJywKICAgICAgICAgICdjaXR5JyA9PiAn5LuZ5Y+w5biCJywKICAgICAgICAgICdhZGRyZXNzJyA9PiAnMS0xMScsCiAgICAgICAgICAndGVsJyA9PiAnMDMxMTExMTExMScsCiAgICAgICAgICAnZmF4JyA9PiAnMDMyMjIyMjIyMicsCiAgICAgICAgICAncmVwcmVzZW50X25hbWUnID0+ICfmsaDnlLAg5beo5qi5JywKICAgICAgICAgICdyZXByZXNlbnRfYWRkcmVzcycgPT4gJ+adseS6rOmDvScsCiAgICAgICAgICAncmVwcmVzZW50X3RlbCcgPT4gJzAzMTExMTExMTEnLAogICAgICAgICAgJ3NoYXJlX2NhcGl0YWwnID0+ICcxMDAwJywKICAgICAgICAgICdhbm51YWxfc2FsZXMnID0+ICcxMDAwMCcsCiAgICAgICAgICAnZGl2aXNpb24nID0+ICfmnbHkuqzmlK/npL4nLAogICAgICAgICAgJ3JlcCcgPT4gJ+Wuh+S9kOe+juOBiuOBq+OBjuOCiicsCiAgICAgICAgICAnaW5kdXN0cmllcycgPT4gJ+WNsOWItycsCiAgICAgICAgICAnc2FsZXNfdHlwZScgPT4gJ+WWtualreeoruebricsCiAgICAgICAgICAnYmlsbGluZycgPT4gJzEnLAogICAgICAgICAgJ2JpbGxfdHlwZScgPT4gJzInLAogICAgICAgICAgJ29mZnNldHRpbmcnID0+ICcyJywKICAgICAgICAgICdiaWxsaW5nX2RpdmlzaW9uJyA9PiAn57WM55CGJywKICAgICAgICAgICdiaWxsaW5nX3JlcCcgPT4gJ+i/kemHjicsCiAgICAgICAgICAncGF5bWVudF9tZXRob2RzJyA9PiAnMicsCiAgICAgICAgICAnY2xvc2luZ19kYXRlX3R5cGUnID0+ICcyJywKICAgICAgICAgICdjbG9zaW5nX2RhdGUnID0+ICcnLAogICAgICAgICAgJ2R1ZV9kYXRlX3R5cGUnID0+ICcyJywKICAgICAgICAgICdkdWVfZGF0ZScgPT4gJycsCiAgICAgICAgICAnYmFua19uYW1lJyA9PiAn5LiJ6I+x5p2x5LqsVUZK6YqA6KGMJywKICAgICAgICAgICdiYW5rX2JyYW5jaF9uYW1lJyA9PiAn5paw5qmLJywKICAgICAgICAgICd1cmwnID0+ICdodHRwczovL21lZGlhbGlua2VyLmNvLmpwJywKICAgICAgICAgICdmcmVlX3RleHQnID0+ICfjg5Xjg6rjg7zjg4bjgq3jgrnjg4gnCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgLT5sZWZ0Sm9pbigndXNlcl9oaXN0b3J5JywgJ2NvbXBhbmllcy5pZCcsICc9JywgJ3VzZXJfaGlzdG9yeS5jb21wYW55X2lkJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdpbmR1c3RyaWVzJyA9PiAn5Y2w5Yi3JywKICAgICAgICAgICdzYWxlc190eXBlJyA9PiAn5Za25qWt56iu55uuJywKICAgICAgICAgICdiaWxsaW5nJyA9PiAnMScsCiAgICAgICAgICAnYmlsbF90eXBlJyA9PiAnMicsCiAgICAgICAgICAnb2Zmc2V0dGluZycgPT4gJzInLAogICAgICAgICAgJ2JpbGxpbmdfZGl2aXNpb24nID0+ICfntYznkIYnLAogICAgICAgICAgJ2JpbGxpbmdfcmVwJyA9PiAn6L+R6YeOJywKICAgICAgICAgICdwYXltZW50X21ldGhvZHMnID0+ICcyJywKICAgICAgICAgICdjbG9zaW5nX2RhdGVfdHlwZScgPT4gJzInLAogICAgICAgICAgJ2Nsb3NpbmdfZGF0ZScgPT4gJycsCiAgICAgICAgICAnZHVlX2RhdGVfdHlwZScgPT4gJzInLAogICAgICAgICAgJ2R1ZV9kYXRlJyA9PiAnJywKICAgICAgICAgICdiYW5rX25hbWUnID0+ICfkuInoj7HmnbHkuqxVRkrpioDooYwnLAogICAgICAgICAgJ2JhbmtfYnJhbmNoX25hbWUnID0+ICfmlrDmqYsnLAogICAgICAgICAgJ3VybCcgPT4gJ2h0dHBzOi8vbWVkaWFsaW5rZXIuY28uanAnLAogICAgICAgICAgJ2ZyZWVfdGV4dCcgPT4gJ+ODleODquODvOODhuOCreOCueODiCcK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICdyZXByZXNlbnRfbmFtZScgPT4gJ+axoOeUsCDlt6jmqLknLAogICAgICAgICAgJ3JlcHJlc2VudF9hZGRyZXNzJyA9PiAn5p2x5Lqs6YO9JywKICAgICAgICAgICdyZXByZXNlbnRfdGVsJyA9PiAnMDMxMTExMTExMScsCiAgICAgICAgICAnc2hhcmVfY2FwaXRhbCcgPT4gJzEwMDAnLAogICAgICAgICAgJ2FubnVhbF9zYWxlcycgPT4gJzEwMDAwJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>offices</last-search>
+      <last-search encoding="base64">XDxPZmZpY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>offices</last-pattern>
+      <last-pattern encoding="base64">XDxPZmZpY2VzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>display_date</entry>
         <entry>post_date</entry>
         <entry encoding="base64">XDxnZXRTdGFydERhdGFcPg==</entry>
         <entry encoding="base64">XDxpc0F2YWlsYWJsZUdhY2hhXD4=</entry>
@@ -511,6 +478,7 @@
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry>,</entry>
         <entry>offices</entry>
+        <entry encoding="base64">XDxPZmZpY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
