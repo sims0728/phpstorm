@@ -36,12 +36,12 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564378162369">
-        <mark key="'" line="36" column="26" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564380976920">
         <mark key="k" line="37" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="40" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/OAuthLoginController.php" timestamp="1563862493374">
         <mark key="[" line="29" column="30" />
@@ -107,12 +107,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564378099910">
-        <mark key="'" line="17" column="31" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-        <mark key="^" line="17" column="48" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564382461042">
+        <mark key="'" line="65" column="36" />
+        <mark key="[" line="77" column="31" />
+        <mark key="]" line="78" column="5" />
+        <mark key="." line="78" column="5" />
+        <mark key="^" line="78" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
         <mark key="'" line="3" column="4" />
@@ -304,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="60" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
-      <jump line="467" column="79" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="466" column="80" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="439" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="438" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
@@ -404,61 +402,62 @@
       <jump line="41" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="5" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="17" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="41" column="33" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" />
+      <jump line="63" column="36" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>roles</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>roles</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPZmZpY2VzXD4=</text>
+        <text encoding="base64">XDxvZmZpY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG9mZmljZVswXS0+bmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZWNobyAnZXJyb3InOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICR0ZXN0ID0gJHRoaXMtPm9mZmljZXMoKS0+cmVqZWN0KGZ1bmN0aW9uKCkgewogICAgICBlY2hvICdlcnJvcic7CiAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG9mZmljZVswXS0+bmFtZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICRyb2xlcyA9ICR0aGlzLT53aGVyZSgnaWQnLCAkaWQpLT5vZmZpY2VzKCktPmZpcnN0KCk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvcmVhY2ggKCRvZmZpY2UgYXMgJGRhdGEpIHsKICAgICAgZWNobyAkZGF0YS0+bmFtZTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRvZmZpY2UpOwogICAgdmFyX2R1bXAoJGl0ZW1Db21wYW55UmVsYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICRvZmZpY2UgPSAkdGhpcy0+X2NvbXBhbnlEYi0+b2ZmaWNlcygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vZGQoJHRoaXMtPl9yb2xlRGItPnJvbGVzKTsK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKCRjb21wYW5pZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRfcigkZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLT5sZWZ0Sm9pbigndXNlcl9oaXN0b3J5JywgJ2NvbXBhbmllcy5pZCcsICc9JywgJ3VzZXJfaGlzdG9yeS5jb21wYW55X2lkJykK</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJG9mZmljZVswXS0+bmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPZmZpY2VzXD4=</last-search>
+      <last-search encoding="base64">XDxvZmZpY2VzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPZmZpY2VzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvZmZpY2VzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>post_date</entry>
         <entry encoding="base64">XDxnZXRTdGFydERhdGFcPg==</entry>
         <entry encoding="base64">XDxpc0F2YWlsYWJsZUdhY2hhXD4=</entry>
         <entry encoding="base64">XDxtZVw+</entry>
@@ -478,6 +477,7 @@
         <entry>,</entry>
         <entry>offices</entry>
         <entry encoding="base64">XDxPZmZpY2VzXD4=</entry>
+        <entry encoding="base64">XDxvZmZpY2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
