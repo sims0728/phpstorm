@@ -107,12 +107,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564384376948">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564387226496">
         <mark key="'" line="65" column="36" />
-        <mark key="[" line="68" column="62" />
-        <mark key="]" line="68" column="66" />
-        <mark key="." line="68" column="66" />
-        <mark key="^" line="68" column="66" />
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+        <mark key="^" line="68" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
         <mark key="'" line="3" column="4" />
@@ -407,16 +407,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>company</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>company</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvZmZpY2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG9mZmljZXMtPmlzRW1wdHkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICRvZmZpY2VzID0gJGNvbXBhbnktPmhhc01hbnkoJ0FwcFxPZmZpY2VzJywgJ2NvbXBhbnlfaWQnKS0+Z2V0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICR0ZXN0ID0gJHRoaXMtPm9mZmljZXMoKS0+cmVqZWN0KGZ1bmN0aW9uKCkgewogICAgICBlY2hvICdlcnJvcic7CiAgICB9KTsK</text>
