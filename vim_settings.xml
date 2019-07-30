@@ -31,6 +31,12 @@
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/bin/php-cs-fixer" timestamp="1563876383171">
         <mark key="'" line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/SubCategoriesTableSeeder.php" timestamp="1564448606645">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/route.js" timestamp="1526967652253">
         <mark key="[" line="39" column="43" />
         <mark key="]" line="39" column="43" />
@@ -244,6 +250,12 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/ItemCompanyRelation.php" timestamp="1564447638253">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1528946189119">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="22" column="28" />
@@ -283,6 +295,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CategoriesTableSeeder.php" timestamp="1564448341196">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
       <file name="/onair_information [localhost]" timestamp="1526870261690">
         <mark key="[" line="0" column="0" />
       </file>
@@ -298,7 +316,7 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="/PHP Console" timestamp="1563866994272">
+      <file name="/PHP Console" timestamp="1564447878986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/companies/2019_07_23_032243_create_companies_table.php" timestamp="1563854885944">
@@ -313,12 +331,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564387226496">
-        <mark key="'" line="65" column="36" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="19" />
-        <mark key="." line="68" column="19" />
-        <mark key="^" line="68" column="19" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564447624449">
+        <mark key="'" line="35" column="16" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="74" column="31" />
+        <mark key="^" line="74" column="31" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
         <mark key="[" line="87" column="21" />
@@ -442,7 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="466" column="80" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="439" column="24" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="438" column="25" filename="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/lascolle.js" />
       <jump line="94" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
@@ -542,46 +559,47 @@
       <jump line="17" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="41" column="33" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" />
       <jump line="63" column="36" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="35" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCpOODmeODs+ODiCcKICAgICAgICBdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>刷</text>
       </register>
       <register name="/" type="4">
         <text>MaxPermSize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRvZmZpY2VzID0gJGNvbXBhbnktPmhhc01hbnkoJ0FwcFxPZmZpY2VzJywgJ2NvbXBhbnlfaWQnKS0+Z2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdjYXRlZ29yeV9pZCcgPT4gMSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR0ZXN0ID0gJHRoaXMtPm9mZmljZXMoKS0+cmVqZWN0KGZ1bmN0aW9uKCkgewogICAgICBlY2hvICdlcnJvcic7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCpOODmeODs+ODiCcKICAgICAgICBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICduYW1lJyA9PiAn5p2x5Lqs5pSv56S+JywKICAgICAgICAgICduYW1lX2thbmEnID0+ICfjgajjgYbjgY3jgofjgYbjgZfjgZfjgoMnLAogICAgICAgICAgJ3ppcF9jb2RlJyA9PiAnMTExLTExMTEnLAogICAgICAgICAgJ3ByZWZpY3R1cmUnID0+ICfmnbHkuqzpg70nLAogICAgICAgICAgJ2NpdHknID0+ICfmuK/ljLonLAogICAgICAgICAgJ2FkZHJlc3MnID0+ICcxLTExLTknLAogICAgICAgICAgJ3RlbCcgPT4gJzAzMTExMTExMTEnLAogICAgICAgICAgJ2ZheCcgPT4gJzAzMjIyMjIyMjInLAogICAgICAgICAgJ2RpdmlzaW9uJyA9PiAnRUPkuovmpa3pg6gnLAogICAgICAgICAgJ3JlcCcgPT4gJ+Wuh+S9kOe+juOBiuOBq+OBjuOCiicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRyb2xlcyA9ICR0aGlzLT53aGVyZSgnaWQnLCAkaWQpLT5vZmZpY2VzKCktPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRvZmZpY2UgYXMgJGRhdGEpIHsKICAgICAgZWNobyAkZGF0YS0+bmFtZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICR0ZXN0ID0gJHRoaXMtPm9mZmljZXMoKS0+cmVqZWN0KGZ1bmN0aW9uKCkgewogICAgICBlY2hvICdlcnJvcic7CiAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRvZmZpY2UgPSAkdGhpcy0+X2NvbXBhbnlEYi0+b2ZmaWNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
+        <text encoding="base64">ICAgICRyb2xlcyA9ICR0aGlzLT53aGVyZSgnaWQnLCAkaWQpLT5vZmZpY2VzKCktPmZpcnN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvcmVhY2ggKCRvZmZpY2UgYXMgJGRhdGEpIHsKICAgICAgZWNobyAkZGF0YS0+bmFtZTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50X3IoJG9mZmljZVswXS0+bmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICRvZmZpY2UgPSAkdGhpcy0+X2NvbXBhbnlEYi0+b2ZmaWNlcygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
