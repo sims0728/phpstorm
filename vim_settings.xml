@@ -263,11 +263,11 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564469886041">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564470760817">
         <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="16" />
-        <mark key="^" line="16" column="34" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemCompanyRelationTableSeeder.php" timestamp="1564469722177">
         <mark key="'" line="51" column="0" />
@@ -568,10 +568,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CategoriesTableSeeder</text>
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text>CategoriesTableSeeder</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>MaxPermSize</text>
