@@ -31,11 +31,11 @@
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/bin/php-cs-fixer" timestamp="1563876383171">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/SubCategoriesTableSeeder.php" timestamp="1564457659188">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/SubCategoriesTableSeeder.php" timestamp="1564467933739">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="26" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-ligram-page/route.js" timestamp="1526967652253">
         <mark key="[" line="39" column="43" />
@@ -103,10 +103,6 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Resource/doctrine/master/Eccube.Entity.Master.ProductType.dcm.yml" timestamp="1563344231054">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1564445811922">
         <mark key="[" line="4" column="26" />
@@ -191,10 +187,6 @@
       </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/userTop.blade.php" timestamp="1563862874157">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1529578045076">
         <mark key="'" line="25" column="0" />
@@ -343,6 +335,12 @@
         <mark key="]" line="87" column="25" />
         <mark key="." line="87" column="25" />
         <mark key="^" line="87" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemTableSeeder.php" timestamp="1564467966495">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
         <mark key="[" line="51" column="10" />
@@ -562,17 +560,17 @@
       <jump line="35" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCpOODmeODs+ODiCcKICAgICAgICBdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>sub_categories</text>
       </register>
       <register name="-" type="4">
-        <text>刷</text>
+        <text>sub_categories</text>
       </register>
       <register name="/" type="4">
         <text>MaxPermSize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICdjYXRlZ29yeV9pZCcgPT4gMSwK</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDEsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCquODleOCu+ODg+ODiCcKICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCpOODmeODs+ODiCcKICAgICAgICBdLAo=</text>
