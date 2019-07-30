@@ -12,206 +12,6 @@
       <file name="/a.dummy" timestamp="1564365423712">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/HomeController.php" timestamp="1563861243383">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1563960952347">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032207_create_categories_table.php" timestamp="1563857745495">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="16" column="33" />
-      </file>
-      <file name="/ng_words [localhost]" timestamp="1525833805705">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" timestamp="1527470141761">
-        <mark key="'" line="85" column="2" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032253_create_user_history_table.php" timestamp="1563858485772">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564444365624">
-        <mark key="k" line="37" column="0" />
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/OAuthLoginController.php" timestamp="1563862493374">
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="33" />
-        <mark key="^" line="29" column="33" />
-        <mark key="." line="29" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.php_cs" timestamp="1563337560006">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/home.blade.php" timestamp="1563847502595">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/Auth/RegisterController.php" timestamp="1563862412010">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.gitignore" timestamp="1563851610575">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/userTop.blade.php" timestamp="1563862874157">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1529578045076">
-        <mark key="'" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Offices.php" timestamp="1564013909282">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/diamond_charge.js" timestamp="1529371307834">
-        <mark key="[" line="217" column="4" />
-        <mark key="]" line="217" column="4" />
-        <mark key="." line="217" column="4" />
-        <mark key="^" line="217" column="7" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/ligram.js" timestamp="1526966128831">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_030814_create_roles_table.php" timestamp="1563857623116">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1528946189119">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
-        <mark key="'" line="30" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564365157808">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
-        <mark key="^" line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/offices/2019_07_23_032248_create_offices_table.php" timestamp="1563855879470">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="5" />
-        <mark key="^" line="28" column="5" />
-      </file>
-      <file name="/payment_logs [localhost]" timestamp="1525833882970">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/onair_information [localhost]" timestamp="1526870261690">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1563861855671">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563858413394">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564387226496">
-        <mark key="'" line="65" column="36" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="19" />
-        <mark key="." line="68" column="19" />
-        <mark key="^" line="68" column="19" />
-      </file>
-      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/sub_categories/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563852449137">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1563859475901">
-        <mark key="[" line="17" column="61" />
-        <mark key="]" line="17" column="72" />
-        <mark key="." line="17" column="72" />
-        <mark key="^" line="17" column="72" />
-      </file>
-      <file name="/fragment.php" timestamp="1563333948739">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" timestamp="1564015602852">
-        <mark key="'" line="20" column="12" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="42" column="3" />
-        <mark key="." line="42" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/items/2019_07_23_032232_create_items_table.php" timestamp="1563852597269">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-        <mark key="^" line="22" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032232_create_items_table.php" timestamp="1563858420545">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/layouts/app.blade.php" timestamp="1563847533881">
-        <mark key="'" line="46" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/company_update/2019_07_23_032257_create_company_update_table.php" timestamp="1563856223929">
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="22" column="35" />
-        <mark key="^" line="22" column="35" />
-        <mark key="." line="22" column="35" />
-      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.js" timestamp="1528709918827">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="18" />
@@ -237,11 +37,23 @@
         <mark key="^" line="39" column="35" />
         <mark key="." line="39" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/HomeController.php" timestamp="1563861243383">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515073406-lascolles.js" timestamp="1526373999150">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="16" column="1" />
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1563960952347">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="19" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.tag" timestamp="1527039200639">
         <mark key="[" line="4" column="92" />
@@ -255,21 +67,52 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032207_create_categories_table.php" timestamp="1563857745495">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="16" column="33" />
+      </file>
+      <file name="/ng_words [localhost]" timestamp="1525833805705">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/user_history/2019_07_23_032253_create_user_history_table.php" timestamp="1563856074686">
         <mark key="[" line="18" column="51" />
         <mark key="]" line="21" column="29" />
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/register.js" timestamp="1527470141761">
+        <mark key="'" line="85" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032253_create_user_history_table.php" timestamp="1563858485772">
+        <mark key="[" line="18" column="14" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564444365624">
+        <mark key="k" line="37" column="0" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Resource/doctrine/master/Eccube.Entity.Master.ProductType.dcm.yml" timestamp="1563344231054">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1564445596976">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1564445811922">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/OAuthLoginController.php" timestamp="1563862493374">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="33" />
+        <mark key="." line="29" column="33" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515000000-lascolle.js" timestamp="1526369223444">
         <mark key="[" line="4" column="14" />
@@ -283,8 +126,20 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="57" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.php_cs" timestamp="1563337560006">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/api/ligram.js" timestamp="1526967708856">
         <mark key="'" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/home.blade.php" timestamp="1563847502595">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Roles.php" timestamp="1563945406948">
         <mark key="[" line="34" column="0" />
@@ -310,6 +165,18 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="25" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/Auth/RegisterController.php" timestamp="1563862412010">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.gitignore" timestamp="1563851610575">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1526975496077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -319,11 +186,30 @@
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/userTop.blade.php" timestamp="1563862874157">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/ligram.js" timestamp="1529578045076">
+        <mark key="'" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Offices.php" timestamp="1564013909282">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1563862416128">
         <mark key="[" line="27" column="28" />
         <mark key="]" line="27" column="28" />
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/diamond_charge.js" timestamp="1529371307834">
+        <mark key="[" line="217" column="4" />
+        <mark key="]" line="217" column="4" />
+        <mark key="." line="217" column="4" />
+        <mark key="^" line="217" column="7" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-episodes-page/index.tag" timestamp="1528711367509">
         <mark key="[" line="23" column="0" />
@@ -333,6 +219,18 @@
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolles.js" timestamp="1530499667556">
         <mark key="'" line="252" column="33" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/ligram.js" timestamp="1526966128831">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_030814_create_roles_table.php" timestamp="1563857623116">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032257_create_company_update_table.php" timestamp="1563858401981">
         <mark key="[" line="21" column="14" />
@@ -346,14 +244,38 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="8" />
       </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/histories.js" timestamp="1528946189119">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/image.js" timestamp="1526969283744">
+        <mark key="'" line="30" column="9" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/onair.js" timestamp="1528946562636">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564365157808">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/offices/2019_07_23_032248_create_offices_table.php" timestamp="1563855879470">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" timestamp="1563408965338">
         <mark key="'" line="88" column="21" />
+      </file>
+      <file name="/payment_logs [localhost]" timestamp="1525833882970">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/db_migration/mysql/migrations/20180515072600-lascolle.js" timestamp="1526369578959">
         <mark key="[" line="13" column="43" />
@@ -361,11 +283,20 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
+      <file name="/onair_information [localhost]" timestamp="1526870261690">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/routes/web.php" timestamp="1563862570744">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="13" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1563861855671">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
       </file>
       <file name="/PHP Console" timestamp="1563866994272">
         <mark key="[" line="0" column="0" />
@@ -376,11 +307,30 @@
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563858413394">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564387226496">
+        <mark key="'" line="65" column="36" />
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+        <mark key="^" line="68" column="19" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
         <mark key="[" line="87" column="21" />
         <mark key="]" line="87" column="25" />
         <mark key="." line="87" column="25" />
         <mark key="^" line="87" column="25" />
+      </file>
+      <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/states/episodes.js" timestamp="1530522088577">
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1563961126769">
         <mark key="'" line="44" column="8" />
@@ -407,11 +357,30 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/sub_categories/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563852449137">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="34" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032248_create_offices_table.php" timestamp="1563961033625">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="19" />
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1563859475901">
+        <mark key="[" line="17" column="61" />
+        <mark key="]" line="17" column="72" />
+        <mark key="." line="17" column="72" />
+        <mark key="^" line="17" column="72" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/api/routes/account.js" timestamp="1527472790953">
         <mark key="'" line="566" column="39" />
@@ -422,11 +391,33 @@
         <mark key="^" line="14" column="66" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/fragment.php" timestamp="1563333948739">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/item_campany_relation/2019_07_23_032238_create_item_campany_relation_table.php" timestamp="1563852704115">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" timestamp="1564015602852">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/items/2019_07_23_032232_create_items_table.php" timestamp="1563852597269">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032232_create_items_table.php" timestamp="1563858420545">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/store/getters/ligram.js" timestamp="1526966853998">
         <mark key="'" line="2" column="0" />
@@ -437,8 +428,17 @@
         <mark key="^" line="48" column="40" />
         <mark key="." line="48" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/layouts/app.blade.php" timestamp="1563847533881">
+        <mark key="'" line="46" column="45" />
+      </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.js" timestamp="1527039221337">
         <mark key="'" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/company_update/2019_07_23_032257_create_company_update_table.php" timestamp="1563856223929">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="22" column="35" />
+        <mark key="^" line="22" column="35" />
+        <mark key="." line="22" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -551,7 +551,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZmZpY2VzXD4=</text>
+        <text>MaxPermSize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRvZmZpY2VzID0gJGNvbXBhbnktPmhhc01hbnkoJ0FwcFxPZmZpY2VzJywgJ2NvbXBhbnlfaWQnKS0+Z2V0KCk7Cg==</text>
@@ -588,15 +588,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZmZpY2VzXD4=</last-search>
+      <last-search>MaxPermSize</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZmZpY2VzXD4=</last-pattern>
+      <last-pattern>MaxPermSize</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTdGFydERhdGFcPg==</entry>
         <entry encoding="base64">XDxpc0F2YWlsYWJsZUdhY2hhXD4=</entry>
         <entry encoding="base64">XDxtZVw+</entry>
         <entry encoding="base64">XDxuZWNlc3NhcnlDb3N0XD4=</entry>
@@ -616,6 +615,7 @@
         <entry>offices</entry>
         <entry encoding="base64">XDxPZmZpY2VzXD4=</entry>
         <entry encoding="base64">XDxvZmZpY2VzXD4=</entry>
+        <entry>MaxPermSize</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
