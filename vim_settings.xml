@@ -317,12 +317,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564562355545">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564564228164">
         <mark key="'" line="91" column="30" />
         <mark key="[" line="93" column="15" />
-        <mark key="]" line="93" column="18" />
-        <mark key="^" line="93" column="18" />
-        <mark key="." line="93" column="18" />
+        <mark key="]" line="93" column="19" />
+        <mark key="^" line="93" column="19" />
+        <mark key="." line="93" column="19" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
         <mark key="[" line="87" column="21" />
@@ -589,7 +589,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -623,9 +623,9 @@
         <entry encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</entry>
       </history-search>
       <history-cmd>
+        <entry>w</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
