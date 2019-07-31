@@ -263,11 +263,12 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564470760817">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-        <mark key="^" line="16" column="15" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564538175226">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemCompanyRelationTableSeeder.php" timestamp="1564469722177">
         <mark key="'" line="51" column="0" />
@@ -294,11 +295,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CategoriesTableSeeder.php" timestamp="1564469881048">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CategoriesTableSeeder.php" timestamp="1564538084153">
+        <mark key="'" line="13" column="17" />
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="26" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="/onair_information [localhost]" timestamp="1526870261690">
         <mark key="[" line="0" column="0" />
@@ -465,11 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="22" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
-      <jump line="25" column="15" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolles.js" />
-      <jump line="252" column="33" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolles.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolles.js" />
-      <jump line="110" column="14" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="107" column="26" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="70" column="0" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
       <jump line="120" column="6" filename="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/lascolle_gacha.js" />
@@ -565,62 +562,65 @@
       <jump line="35" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="17" column="21" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemCompanyRelationTableSeeder.php" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemCompanyRelationTableSeeder.php" />
+      <jump line="17" column="9" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CategoriesTableSeeder.php" />
+      <jump line="13" column="17" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CategoriesTableSeeder.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
+      <jump line="16" column="28" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
+      <jump line="17" column="21" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>MaxPermSize</text>
+        <text>CategoriesTableSeeder</text>
       </register>
       <register name="0" type="4">
         <text>CategoriesTableSeeder</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnc3ViX2NhdGVnb3J5X2lkJyA9PiAxLAogICAgICAgICAgJ25hbWUnID0+ICfjg5Hjg7Pjg5Xjg6zjg4Pjg4gnCiAgICAgICAgXSwKICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDMsCiAgICAgICAgICAnc3ViX2NhdGVnb3J5X2lkJyA9PiAxLAogICAgICAgICAgJ25hbWUnID0+ICfjg53jgrnjgr/jg7wnCiAgICAgICAgXSwKICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDQsCiAgICAgICAgICAnc3ViX2NhdGVnb3J5X2lkJyA9PiAyLAogICAgICAgICAgJ25hbWUnID0+ICdU44K344Oj44OEJwogICAgICAgIF0sCiAgICAgICAgWwogICAgICAgICAgJ2lkJyA9PiA1LAogICAgICAgICAgJ3N1Yl9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICduYW1lJyA9PiAn44Ki44Kv44Oq44Or44Kt44O844Ob44Or44OA44O8JwogICAgICAgIF0sCiAgICAgICAgWwogICAgICAgICAgJ2lkJyA9PiA2LAogICAgICAgICAgJ3N1Yl9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICduYW1lJyA9PiAn44Oe44Kw44Kr44OD44OXJwogICAgICAgIF0sCiAgICAgICAgWwogICAgICAgICAgJ2lkJyA9PiA3LAogICAgICAgICAgJ3N1Yl9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICduYW1lJyA9PiAn44Kz44O844K544K/44O8JwogICAgICAgIF0sCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCquODs+ODh+ODnuODs+ODiScKICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnc3ViX2NhdGVnb3J5X2lkJyA9PiAxLAogICAgICAgICAgJ25hbWUnID0+ICfjg5Hjg7Pjg5Xjg6zjg4Pjg4gnCiAgICAgICAgXSwKICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDMsCiAgICAgICAgICAnc3ViX2NhdGVnb3J5X2lkJyA9PiAxLAogICAgICAgICAgJ25hbWUnID0+ICfjg53jgrnjgr/jg7wnCiAgICAgICAgXSwKICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDQsCiAgICAgICAgICAnc3ViX2NhdGVnb3J5X2lkJyA9PiAyLAogICAgICAgICAgJ25hbWUnID0+ICdU44K344Oj44OEJwogICAgICAgIF0sCiAgICAgICAgWwogICAgICAgICAgJ2lkJyA9PiA1LAogICAgICAgICAgJ3N1Yl9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICduYW1lJyA9PiAn44Ki44Kv44Oq44Or44Kt44O844Ob44Or44OA44O8JwogICAgICAgIF0sCiAgICAgICAgWwogICAgICAgICAgJ2lkJyA9PiA2LAogICAgICAgICAgJ3N1Yl9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICduYW1lJyA9PiAn44Oe44Kw44Kr44OD44OXJwogICAgICAgIF0sCiAgICAgICAgWwogICAgICAgICAgJ2lkJyA9PiA3LAogICAgICAgICAgJ3N1Yl9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICduYW1lJyA9PiAn44Kz44O844K544K/44O8JwogICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCpOODmeODs+ODiCcKICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCquODs+ODh+ODnuODs+ODiScKICAgICAgICBdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICduYW1lJyA9PiAn5p2x5Lqs5pSv56S+JywKICAgICAgICAgICduYW1lX2thbmEnID0+ICfjgajjgYbjgY3jgofjgYbjgZfjgZfjgoMnLAogICAgICAgICAgJ3ppcF9jb2RlJyA9PiAnMTExLTExMTEnLAogICAgICAgICAgJ3ByZWZpY3R1cmUnID0+ICfmnbHkuqzpg70nLAogICAgICAgICAgJ2NpdHknID0+ICfmuK/ljLonLAogICAgICAgICAgJ2FkZHJlc3MnID0+ICcxLTExLTknLAogICAgICAgICAgJ3RlbCcgPT4gJzAzMTExMTExMTEnLAogICAgICAgICAgJ2ZheCcgPT4gJzAzMjIyMjIyMjInLAogICAgICAgICAgJ2RpdmlzaW9uJyA9PiAnRUPkuovmpa3pg6gnLAogICAgICAgICAgJ3JlcCcgPT4gJ+Wuh+S9kOe+juOBiuOBq+OBjuOCiicsCg==</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnY2F0ZWdvcnlfaWQnID0+IDEsCiAgICAgICAgICAnbmFtZScgPT4gJ+OCpOODmeODs+ODiCcKICAgICAgICBdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICduYW1lJyA9PiAn5p2x5Lqs5pSv56S+JywKICAgICAgICAgICduYW1lX2thbmEnID0+ICfjgajjgYbjgY3jgofjgYbjgZfjgZfjgoMnLAogICAgICAgICAgJ3ppcF9jb2RlJyA9PiAnMTExLTExMTEnLAogICAgICAgICAgJ3ByZWZpY3R1cmUnID0+ICfmnbHkuqzpg70nLAogICAgICAgICAgJ2NpdHknID0+ICfmuK/ljLonLAogICAgICAgICAgJ2FkZHJlc3MnID0+ICcxLTExLTknLAogICAgICAgICAgJ3RlbCcgPT4gJzAzMTExMTExMTEnLAogICAgICAgICAgJ2ZheCcgPT4gJzAzMjIyMjIyMjInLAogICAgICAgICAgJ2RpdmlzaW9uJyA9PiAnRUPkuovmpa3pg6gnLAogICAgICAgICAgJ3JlcCcgPT4gJ+Wuh+S9kOe+juOBiuOBq+OBjuOCiicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICR0ZXN0ID0gJHRoaXMtPm9mZmljZXMoKS0+cmVqZWN0KGZ1bmN0aW9uKCkgewogICAgICBlY2hvICdlcnJvcic7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICR0ZXN0ID0gJHRoaXMtPm9mZmljZXMoKS0+cmVqZWN0KGZ1bmN0aW9uKCkgewogICAgICBlY2hvICdlcnJvcic7CiAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRyb2xlcyA9ICR0aGlzLT53aGVyZSgnaWQnLCAkaWQpLT5vZmZpY2VzKCktPmZpcnN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRvZmZpY2UgYXMgJGRhdGEpIHsKICAgICAgZWNobyAkZGF0YS0+bmFtZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICRyb2xlcyA9ICR0aGlzLT53aGVyZSgnaWQnLCAkaWQpLT5vZmZpY2VzKCktPmZpcnN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MaxPermSize</last-search>
+      <last-search>CategoriesTableSeeder</last-search>
       <last-offset />
-      <last-pattern>MaxPermSize</last-pattern>
+      <last-pattern>CategoriesTableSeeder</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0F2YWlsYWJsZUdhY2hhXD4=</entry>
-        <entry encoding="base64">XDxtZVw+</entry>
         <entry encoding="base64">XDxuZWNlc3NhcnlDb3N0XD4=</entry>
         <entry encoding="base64">XDxnYWNoYUluZm9cPg==</entry>
         <entry encoding="base64">XDxSQVJJVFlfQ09TVFw+</entry>
@@ -639,6 +639,8 @@
         <entry encoding="base64">XDxPZmZpY2VzXD4=</entry>
         <entry encoding="base64">XDxvZmZpY2VzXD4=</entry>
         <entry>MaxPermSize</entry>
+        <entry>categories</entry>
+        <entry>CategoriesTableSeeder</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
