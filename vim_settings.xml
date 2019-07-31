@@ -91,11 +91,11 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564557558275">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564568809261">
         <mark key="k" line="37" column="0" />
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="5" />
-        <mark key="." line="45" column="5" />
+        <mark key="[" line="44" column="4" />
+        <mark key="]" line="44" column="4" />
+        <mark key="." line="44" column="4" />
         <mark key="^" line="45" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1564445811922">
@@ -296,13 +296,14 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/SubCategories.php" timestamp="1564561067948">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="35" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/SubCategories.php" timestamp="1564568760234">
+        <mark key="'" line="27" column="1" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1564562418928">
+      <file name="/PHP Console" timestamp="1564568811317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/companies/2019_07_23_032243_create_companies_table.php" timestamp="1563854885944">
@@ -317,12 +318,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564564228164">
-        <mark key="'" line="91" column="30" />
-        <mark key="[" line="93" column="15" />
-        <mark key="]" line="93" column="19" />
-        <mark key="^" line="93" column="19" />
-        <mark key="." line="93" column="19" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564568877876">
+        <mark key="'" line="96" column="35" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="96" column="7" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
         <mark key="[" line="87" column="21" />
@@ -386,12 +387,10 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" timestamp="1564562416267">
-        <mark key="'" line="64" column="18" />
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="68" />
-        <mark key="." line="19" column="68" />
-        <mark key="^" line="19" column="62" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" timestamp="1564568875128">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1563859475901">
         <mark key="[" line="17" column="61" />
@@ -439,6 +438,13 @@
         <mark key="^" line="48" column="40" />
         <mark key="." line="48" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Categories.php" timestamp="1564568762223">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="13" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/company_update/2019_07_23_032257_create_company_update_table.php" timestamp="1563856223929">
         <mark key="[" line="18" column="51" />
         <mark key="]" line="22" column="35" />
@@ -447,14 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.editorconfig" />
-      <jump line="180" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/app.php" />
-      <jump line="64" column="13" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/CartService.php" />
-      <jump line="127" column="19" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/CartService.php" />
-      <jump line="101" column="22" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/CartService.php" />
-      <jump line="57" column="9" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" />
-      <jump line="92" column="37" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" />
-      <jump line="88" column="21" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/EntryController.php" />
       <jump line="46" column="45" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/layouts/app.blade.php" />
       <jump line="278" column="28" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="475" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
@@ -539,7 +537,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="77" column="24" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="38" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="93" column="34" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="105" column="65" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="89" column="5" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
@@ -547,49 +544,58 @@
       <jump line="5" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
       <jump line="19" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
       <jump line="64" column="18" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
+      <jump line="95" column="41" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="9" column="20" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="87" column="14" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="26" column="1" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/SubCategories.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="101" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="47" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Categories.php" />
+      <jump line="96" column="35" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>$item['subCategories']['id']</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlIERCOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRpdGVtLT5pZCk7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiDjgqLjgr3jgrfjgqjjg7zjgrfjg6fjg7Nbc3ViQ2F0ZWdvcnldCiAgICovCiAgcHVibGljIGZ1bmN0aW9uIHN1YkNhdGVnb3JpZXMoKSB7CiAgICByZXR1cm4gJHRoaXMtPmJlbG9uZ3NUbygnQXBwXFN1YkNhdGVnb3JpZXMnLCAnc3ViX2NhdGVnb3J5X2lkJywnaWQnKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UgQXBwXEl0ZW1zOwo=</text>
+        <text encoding="base64">ICAgIC8vJHF1ZXJ5LT53aXRoKCdzdWJDYXRlZ29yaWVzJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRpdGVtT2JqID0gbmV3IEl0ZW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRkKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRpdGVtKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50X3IoJGRhdGEtPnRvQXJyYXkoKSk7CiAgICBkZChEQjo6Z2V0UXVlcnlMb2coKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -623,9 +629,9 @@
         <entry encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
