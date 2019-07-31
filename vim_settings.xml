@@ -302,7 +302,7 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="/PHP Console" timestamp="1564561148196">
+      <file name="/PHP Console" timestamp="1564562392667">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/companies/2019_07_23_032243_create_companies_table.php" timestamp="1563854885944">
@@ -317,11 +317,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564560954276">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564562355545">
         <mark key="'" line="91" column="30" />
-        <mark key="[" line="92" column="23" />
-        <mark key="]" line="92" column="23" />
-        <mark key="." line="92" column="23" />
+        <mark key="[" line="93" column="15" />
+        <mark key="]" line="93" column="18" />
+        <mark key="^" line="93" column="18" />
+        <mark key="." line="93" column="18" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
         <mark key="[" line="87" column="21" />
@@ -385,11 +386,11 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" timestamp="1564561179631">
-        <mark key="'" line="19" column="31" />
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" timestamp="1564562416267">
+        <mark key="'" line="64" column="18" />
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
         <mark key="^" line="19" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1563859475901">
@@ -446,7 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.editorconfig" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/.editorconfig" />
       <jump line="180" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/app.php" />
       <jump line="64" column="13" filename="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Service/CartService.php" />
@@ -546,61 +546,61 @@
       <jump line="91" column="30" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="5" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
       <jump line="19" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
+      <jump line="64" column="18" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</text>
+        <text encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBAdmFyIOODhuODvOODluODq+WQjQogICAqLwogIHByb3RlY3RlZCAkdGFibGUgPSAnaXRlbXMnOwo=</text>
+      <register name="0" type="4">
+        <text>$item['subCategories']['id']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UgQXBwXEl0ZW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRpdGVtLT5pZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRpdGVtT2JqID0gbmV3IEl0ZW1zKCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICB1c2UgQXBwXEl0ZW1zOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICRpdGVtT2JqID0gbmV3IEl0ZW1zKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRpdGVtKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRfcigkaXRlbVsnaXRlbUNvbXBhbnlSZWxhdGlvbiddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</last-search>
+      <last-search encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry encoding="base64">XDxQcm9kdWN0VHlwZVw+</entry>
         <entry encoding="base64">XDxzZXRDYW5BZGRQcm9kdWN0VHlwZVw+</entry>
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
@@ -620,6 +620,7 @@
         <entry encoding="base64">XDxjb21wYW55XD4=</entry>
         <entry encoding="base64">XDxpdGVtT2JqXD4=</entry>
         <entry encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</entry>
+        <entry encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
