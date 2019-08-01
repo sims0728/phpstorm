@@ -377,12 +377,12 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1564625491600">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1564627028701">
         <mark key="'" line="3" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="22" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/sub_categories/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563852449137">
         <mark key="[" line="22" column="34" />
@@ -564,17 +564,17 @@
       <jump line="96" column="35" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT50ZWx9fQo=</text>
+      <register name="&quot;" type="4">
+        <text>fax</text>
       </register>
       <register name="-" type="4">
-        <text>rep</text>
+        <text>fax</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT50ZWx9fQo=</text>
+        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT5mYXh9fQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAge3skY29tcGFueS0+bmFtZX19Cg==</text>
