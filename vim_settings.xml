@@ -52,11 +52,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1563960952347">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="19" column="19" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1564641278963">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="40" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="27" column="40" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-frontend/src/pages/wagon-index-page/index.tag" timestamp="1527039200639">
         <mark key="[" line="4" column="92" />
@@ -352,12 +352,12 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1563961126769">
-        <mark key="'" line="44" column="8" />
-        <mark key="[" line="76" column="10" />
-        <mark key="]" line="76" column="11" />
-        <mark key="." line="76" column="11" />
-        <mark key="^" line="76" column="11" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1564641378551">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="/dummy.sql" timestamp="1526975484887">
         <mark key="[" line="0" column="0" />
@@ -390,11 +390,11 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032248_create_offices_table.php" timestamp="1563961033625">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032248_create_offices_table.php" timestamp="1564641454673">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" timestamp="1564568875128">
         <mark key="[" line="15" column="0" />
@@ -565,16 +565,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>integer</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAZm9yZWFjaCgkY29tcGFueS0+Y2F0ZWdvcmllcyBhcyAkY2F0ZWdvcnkpCiAgICAgICAgICB7eyRjYXRlZ29yeS0+aWR9fQogICAgICAgICAge3skY2F0ZWdvcnktPm5hbWV9fQogICAgICAgIEBlbmRmb3JlYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICdyZXBfdGVsJyA9PiAnMDkwMTExMTIyMjInLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT5pdGVtc319Cg==</text>
