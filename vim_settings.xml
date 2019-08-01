@@ -91,11 +91,11 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564623043965">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564630043445">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="37" />
         <mark key="^" line="33" column="30" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="20" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1564445811922">
         <mark key="[" line="4" column="26" />
@@ -312,7 +312,7 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1564625392753">
+      <file name="/PHP Console" timestamp="1564629949055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/companies/2019_07_23_032243_create_companies_table.php" timestamp="1563854885944">
@@ -327,11 +327,11 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564619322465">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564629525932">
         <mark key="'" line="98" column="35" />
-        <mark key="[" line="87" column="5" />
-        <mark key="]" line="88" column="23" />
-        <mark key="." line="88" column="23" />
+        <mark key="[" line="110" column="42" />
+        <mark key="]" line="110" column="42" />
+        <mark key="." line="110" column="42" />
         <mark key="^" line="88" column="23" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/stores/mysql/models/lascolles.js" timestamp="1526374231007">
@@ -377,12 +377,12 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1564627028701">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1564629662845">
         <mark key="'" line="3" column="4" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="22" />
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/sub_categories/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563852449137">
         <mark key="[" line="22" column="34" />
@@ -565,43 +565,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fax</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>fax</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT5mYXh9fQo=</text>
+        <text encoding="base64">ICAgICAgICBAZm9yZWFjaCgkY29tcGFueS0+Y2F0ZWdvcmllcyBhcyAkY2F0ZWdvcnkpCiAgICAgICAgICB7eyRjYXRlZ29yeS0+aWR9fQogICAgICAgICAge3skY2F0ZWdvcnktPm5hbWV9fQogICAgICAgIEBlbmRmb3JlYWNoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3skY29tcGFueS0+bmFtZX19Cg==</text>
+        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT5pdGVtc319Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHt7JGl0ZW19fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAZm9yZWFjaCAoJGNvbXBhbmllcyBhcyAkY29tcGFueSkKICAgIHt7JGNvbXBhbnktPm5hbWV9fQogIEBlbmRmb3JlYWNoCg==</text>
+        <text encoding="base64">ICAgICAge3skY29tcGFueS0+bmFtZX19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB7eyRjb21wYW5pZXN9fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICB7CiAgfQogIHB1YmxpYyBmdW5jdGlvbiBib290KCkKICB7CiAgICAkdGhpcy0+X3VzZXJEYiA9IG5ldyBVc2VyOwogICAgJHVzZXJzID0gJHRoaXMtPl91c2VyRGItPmZpbmRCeUlkKDEpOwogICAgdmFyX2R1bXAoJHVzZXJzKTsKICAgIGV4aXQ7CiAgICBWaWV3OjpzaGFyZSgndXNlcnMnLCAkdXNlcnMpOwoKICB9Cg==</text>
+        <text encoding="base64">ICBAZm9yZWFjaCAoJGNvbXBhbmllcyBhcyAkY29tcGFueSkKICAgIHt7JGNvbXBhbnktPm5hbWV9fQogIEBlbmRmb3JlYWNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7eyRjb21wYW5pZXN9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlICRfdXNlckRiOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
