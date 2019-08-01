@@ -91,11 +91,11 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564570174255">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="37" column="30" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1564623043965">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1564445811922">
         <mark key="[" line="4" column="26" />
@@ -178,6 +178,11 @@
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Providers/AppServiceProvider.php" timestamp="1564624766732">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="29" />
+        <mark key="." line="30" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Offices.php" timestamp="1564013909282">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="28" />
@@ -189,6 +194,11 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/Controller.php" timestamp="1564624006102">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/wagon-env/repos/wagon-backend/shared/services/diamond_charge.js" timestamp="1529371307834">
         <mark key="[" line="217" column="4" />
@@ -302,7 +312,7 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1564570207723">
+      <file name="/PHP Console" timestamp="1564625392753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/companies/2019_07_23_032243_create_companies_table.php" timestamp="1563854885944">
@@ -367,12 +377,12 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1563872858980">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1564625491600">
         <mark key="'" line="3" column="4" />
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="11" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/sub_categories/2019_07_23_032226_create_sub_categories_table.php" timestamp="1563852449137">
         <mark key="[" line="22" column="34" />
@@ -555,43 +565,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly91c2UgQXBwXEl0ZW1zOwovL3VzZSBBcHBcU3ViQ2F0ZWdvcmllczsKLy91c2UgQXBwXENhdGVnb3JpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT50ZWx9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text>rep</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ3VzZXJzJyA9PiAkdXNlcnMsCg==</text>
+        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT50ZWx9fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly91c2UgQXBwXEl0ZW1zOwovL3VzZSBBcHBcU3ViQ2F0ZWdvcmllczsKLy91c2UgQXBwXENhdGVnb3JpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAge3skY29tcGFueS0+bmFtZX19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlICRfcm9sZURiOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxwcmU+JzsKICAgIC8vcHJpbnRfcigkY29tcGFuaWVzLT50b0FycmF5KCkpOwogICAgcHJpbnRfcigkdXNlcnMtPnRvQXJyYXkoKSk7CiAgICAvL3ByaW50X3IoJGNvbXBhbnktPnRvQXJyYXkoKSk7CiAgICAvL3ByaW50X3IoJGl0ZW1Db21wYW55UmVsYXRpb24tPnRvQXJyYXkoKSk7CiAgICBlY2hvICc8L3ByZT4nOwoKCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAZm9yZWFjaCAoJGNvbXBhbmllcyBhcyAkY29tcGFueSkKICAgIHt7JGNvbXBhbnktPm5hbWV9fQogIEBlbmRmb3JlYWNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7eyRjb21wYW5pZXN9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vJGNvbXBhbnkgPSAkdGhpcy0+X2NvbXBhbnlEYi0+ZmluZEJ5SWQoMSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxSb2xlczsK</text>
+        <text encoding="base64">CiAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICB7CiAgfQogIHB1YmxpYyBmdW5jdGlvbiBib290KCkKICB7CiAgICAkdGhpcy0+X3VzZXJEYiA9IG5ldyBVc2VyOwogICAgJHVzZXJzID0gJHRoaXMtPl91c2VyRGItPmZpbmRCeUlkKDEpOwogICAgdmFyX2R1bXAoJHVzZXJzKTsKICAgIGV4aXQ7CiAgICBWaWV3OjpzaGFyZSgndXNlcnMnLCAkdXNlcnMpOwoKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5fcm9sZURiID0gbmV3IFJvbGVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vJHJvbGVzID0gJHRoaXMtPl9yb2xlRGItPmZpbmRCeUlkKDEpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlICRfdXNlckRiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
