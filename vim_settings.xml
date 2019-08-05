@@ -63,12 +63,12 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564540044105">
-        <mark key="'" line="17" column="21" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="16" column="5" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1564990563667">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemCompanyRelationTableSeeder.php" timestamp="1564469722177">
         <mark key="'" line="51" column="0" />
@@ -97,15 +97,21 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1564973799486">
+      <file name="/PHP Console" timestamp="1564990706470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564985329652">
-        <mark key="'" line="98" column="35" />
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="41" />
-        <mark key="^" line="32" column="41" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/UserHistoryTableSeeder.php" timestamp="1564989904655">
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564988159904">
+        <mark key="'" line="56" column="29" />
+        <mark key="[" line="63" column="6" />
+        <mark key="]" line="63" column="6" />
+        <mark key="." line="63" column="6" />
+        <mark key="^" line="63" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemTableSeeder.php" timestamp="1564468098868">
         <mark key="[" line="47" column="21" />
@@ -126,12 +132,12 @@
       <file name="/Dummy.txt" timestamp="1563848720178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1564629662845">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" timestamp="1564988139014">
         <mark key="'" line="3" column="4" />
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="16" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032248_create_offices_table.php" timestamp="1564641454673">
         <mark key="[" line="25" column="26" />
@@ -163,9 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="45" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/layouts/app.blade.php" />
-      <jump line="278" column="28" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
-      <jump line="475" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="693" column="33" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="62" column="12" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" />
       <jump line="41" column="9" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
@@ -248,7 +251,6 @@
       <jump line="77" column="24" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="38" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="93" column="34" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="105" column="65" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="89" column="5" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="91" column="30" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="5" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
@@ -263,55 +265,59 @@
       <jump line="47" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Categories.php" />
       <jump line="96" column="35" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="105" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="107" column="27" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="86" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="56" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ItemCompanyRelation</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>ItemCompanyRelation</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</text>
+        <text encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDjgqLjgr3jgrfjgqjjg7zjgrfjg6fjg7NbaXRlbUNvbXBhbnlSZWxhdGlvbl0KICAgKi8KICBwdWJsaWMgZnVuY3Rpb24gaXRlbUNvbXBhbnlSZWxhdGlvbigpIHsKICAgIHJldHVybiAkdGhpcy0+aGFzTWFueSgnQXBwXEl0ZW1Db21wYW55UmVsYXRpb24nLCAnY29tcGFueV9pZCcpOwogIH0K</text>
+        <text encoding="base64">ICAgICR0aGlzLT5jYWxsKFJvbGVzVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICdhZGRyZXNzJyA9PiAnMS0xMScsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT5pdGVtc319Cg==</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAnaWQnID0+IDIsCiAgICAgICAgICAnbmFtZScgPT4gJ+agquW8j+S8muekvuODoeODh+OCo+OCouODr+ODvOOCr+OCuScsCiAgICAgICAgICAnbmFtZV9rYW5hJyA9PiAn44KB44Gn44GD44GC44KP44O844GP44GZJywKICAgICAgICAgICd6aXBfY29kZScgPT4gJzExMS0xMTExJywKICAgICAgICAgICdwcmVmaWN0dXJlJyA9PiAn5a6u5Z+O55yMJywKICAgICAgICAgICdjaXR5JyA9PiAn5LuZ5Y+w5biCJywKICAgICAgICAgICdhZGRyZXNzJyA9PiAnMS0xMScsCiAgICAgICAgICAndGVsJyA9PiAnMDMxMTExMTExMScsCiAgICAgICAgICAnZmF4JyA9PiAnMDMyMjIyMjIyMicsCiAgICAgICAgICAncmVwcmVzZW50X25hbWUnID0+ICfmsaDnlLAg5beo5qi5JywKICAgICAgICAgICdyZXByZXNlbnRfYWRkcmVzcycgPT4gJ+adseS6rOmDvScsCiAgICAgICAgICAncmVwcmVzZW50X3RlbCcgPT4gJzAzMTExMTExMTEnLAogICAgICAgICAgJ3NoYXJlX2NhcGl0YWwnID0+ICcxMDAwJywKICAgICAgICAgICdhbm51YWxfc2FsZXMnID0+ICcxMDAwMCcsCiAgICAgICAgICAnZGl2aXNpb24nID0+ICfmnbHkuqzmlK/npL4nLAogICAgICAgICAgJ3JlcCcgPT4gJ+Wuh+S9kOe+juOBiuOBq+OBjuOCiicsCiAgICAgICAgICAncmVwX3RlbCcgPT4gJzA5MDExMTEyMjIyJywKICAgICAgICAgICdpbmR1c3RyaWVzJyA9PiAn5Y2w5Yi3JywKICAgICAgICAgICdzYWxlc190eXBlJyA9PiAn5Za25qWt56iu55uuJywKICAgICAgICAgICdiaWxsaW5nJyA9PiAnMScsCiAgICAgICAgICAnYmlsbF90eXBlJyA9PiAnMicsCiAgICAgICAgICAnb2Zmc2V0dGluZycgPT4gJzInLAogICAgICAgICAgJ2JpbGxpbmdfZGl2aXNpb24nID0+ICfntYznkIYnLAogICAgICAgICAgJ2JpbGxpbmdfcmVwJyA9PiAn6L+R6YeOJywKICAgICAgICAgICdwYXltZW50X21ldGhvZHMnID0+ICcyJywKICAgICAgICAgICdjbG9zaW5nX2RhdGVfdHlwZScgPT4gJzInLAogICAgICAgICAgLy8nY2xvc2luZ19kYXRlJyA9PiAnJywKICAgICAgICAgICdkdWVfZGF0ZV90eXBlJyA9PiAnMicsCiAgICAgICAgICAvLydkdWVfZGF0ZScgPT4gJycsCiAgICAgICAgICAnYmFua19uYW1lJyA9PiAn5LiJ6I+x5p2x5LqsVUZK6YqA6KGMJywKICAgICAgICAgICdiYW5rX2JyYW5jaF9uYW1lJyA9PiAn5paw5qmLJywKICAgICAgICAgICd1cmwnID0+ICdodHRwczovL21lZGlhbGlua2VyLmNvLmpwJywKICAgICAgICAgICdmcmVlX3RleHQnID0+ICfjg5Xjg6rjg7zjg4bjgq3jgrnjg4gnCiAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICd0ZWwnID0+ICcwMzExMTExMTExJywKICAgICAgICAgICdmYXgnID0+ICcwMzIyMjIyMjIyJywKICAgICAgICAgICdyZXByZXNlbnRfbmFtZScgPT4gJ+axoOeUsCDlt6jmqLknLAogICAgICAgICAgJ3JlcHJlc2VudF9hZGRyZXNzJyA9PiAn5p2x5Lqs6YO9JywKICAgICAgICAgICdyZXByZXNlbnRfdGVsJyA9PiAnMDMxMTExMTExMScsCiAgICAgICAgICAnc2hhcmVfY2FwaXRhbCcgPT4gMTAwMCwKICAgICAgICAgICdhbm51YWxfc2FsZXMnID0+IDEwMDAwLAogICAgICAgICAgJ2RpdmlzaW9uJyA9PiAn5p2x5Lqs5pSv56S+JywKICAgICAgICAgICdyZXAnID0+ICflrofkvZDnvo7jgYrjgavjgY7jgoonLAogICAgICAgICAgJ3JlcF90ZWwnID0+ICcwOTAxMTExMjIyMicsCiAgICAgICAgICAnaW5kdXN0cmllcycgPT4gJ+WNsOWItycsCiAgICAgICAgICAnc2FsZXNfdHlwZScgPT4gJ+WWtualreeoruebricsCiAgICAgICAgICAnYmlsbGluZycgPT4gMSwKICAgICAgICAgICdiaWxsX3R5cGUnID0+IDIsCiAgICAgICAgICAnb2Zmc2V0dGluZycgPT4gMiwKICAgICAgICAgICdiaWxsaW5nX2RpdmlzaW9uJyA9PiAn57WM55CGJywKICAgICAgICAgICdiaWxsaW5nX3JlcCcgPT4gJ+i/kemHjicsCiAgICAgICAgICAncGF5bWVudF9tZXRob2RzJyA9PiAyLAogICAgICAgICAgJ2Nsb3NpbmdfZGF0ZV90eXBlJyA9PiAyLAogICAgICAgICAgLy8nY2xvc2luZ19kYXRlJyA9PiAnJywKICAgICAgICAgICdkdWVfZGF0ZV90eXBlJyA9PiAyLAogICAgICAgICAgLy8nZHVlX2RhdGUnID0+ICcnLAogICAgICAgICAgJ2JhbmtfbmFtZScgPT4gJ+S4ieiPseadseS6rFVGSumKgOihjCcsCiAgICAgICAgICAnYmFua19icmFuY2hfbmFtZScgPT4gJ+aWsOapiycsCiAgICAgICAgICAndXJsJyA9PiAnaHR0cHM6Ly9tZWRpYWxpbmtlci5jby5qcCcsCiAgICAgICAgICAnZnJlZV90ZXh0JyA9PiAn44OV44Oq44O844OG44Kt44K544OIJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7JGl0ZW19fQo=</text>
+        <text encoding="base64">ICAgICRxdWVyeS0+bGltaXQoJGxpbWl0KTsKICAgICRxdWVyeS0+d2l0aCgnb2ZmaWNlcycsICdpdGVtQ29tcGFueVJlbGF0aW9uJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAge3skY29tcGFueS0+bmFtZX19Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB7eyRjb21wYW55LT5pdGVtc319Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBAZW5kZm9yZWFjaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAZm9yZWFjaCAoJGNvbXBhbmllcyBhcyAkY29tcGFueSkKICAgIHt7JGNvbXBhbnktPm5hbWV9fQogIEBlbmRmb3JlYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHt7JGl0ZW19fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7eyRjb21wYW5pZXN9fQo=</text>
+        <text encoding="base64">ICAgICAge3skY29tcGFueS0+bmFtZX19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</last-search>
+      <last-search encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -331,12 +337,12 @@
         <entry>MaxPermSize</entry>
         <entry>categories</entry>
         <entry>CategoriesTableSeeder</entry>
-        <entry encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxvZmZpY2VzXD4=</entry>
         <entry encoding="base64">XDxjb21wYW55XD4=</entry>
         <entry encoding="base64">XDxpdGVtT2JqXD4=</entry>
         <entry encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</entry>
+        <entry encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
