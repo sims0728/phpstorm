@@ -25,8 +25,8 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1565055294820">
-        <mark key="'" line="17" column="21" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" timestamp="1565074026853">
+        <mark key="'" line="11" column="17" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -77,11 +77,11 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/UserHistoryTableSeeder.php" timestamp="1565055478127">
-        <mark key="[" line="55" column="18" />
-        <mark key="]" line="55" column="18" />
-        <mark key="." line="55" column="18" />
-        <mark key="^" line="55" column="18" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/UserHistoryTableSeeder.php" timestamp="1565073946162">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" timestamp="1564988159904">
         <mark key="'" line="56" column="29" />
@@ -99,11 +99,11 @@
       <file name="/ng_words [localhost]" timestamp="1525833805705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1564641378551">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1565074016989">
         <mark key="'" line="45" column="8" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="37" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="77" column="30" />
+        <mark key="." line="77" column="30" />
         <mark key="^" line="31" column="34" />
       </file>
       <file name="/dummy.sql" timestamp="1526975484887">
@@ -170,9 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="693" column="33" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
-      <jump line="62" column="12" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/resources/views/root.blade.php" />
-      <jump line="41" column="9" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
       <jump line="27" column="3" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
       <jump line="34" column="3" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/User.php" />
       <jump line="30" column="13" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" />
@@ -270,16 +267,19 @@
       <jump line="107" column="27" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="86" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="56" column="29" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
+      <jump line="14" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
+      <jump line="13" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
+      <jump line="11" column="17" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</text>
+        <text>CompaniesTableSeeder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICR0aGlzLT5jYWxsKFJvbGVzVGFibGVTZWVkZXI6OmNsYXNzKTsK</text>
@@ -316,15 +316,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</last-search>
+      <last-search>CompaniesTableSeeder</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</last-pattern>
+      <last-pattern>CompaniesTableSeeder</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm9kdWN0VHlwZVw+</entry>
         <entry encoding="base64">XDxzZXRDYW5BZGRQcm9kdWN0VHlwZVw+</entry>
         <entry encoding="base64">XDxidWlsZGVyXD4=</entry>
         <entry encoding="base64">XDxDdXN0b21lclw+</entry>
@@ -344,6 +343,7 @@
         <entry encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</entry>
+        <entry>CompaniesTableSeeder</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
