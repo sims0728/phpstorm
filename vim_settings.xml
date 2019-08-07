@@ -68,7 +68,7 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1565139163731">
+      <file name="/PHP Console" timestamp="1565139999553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1564641278963">
@@ -157,10 +157,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Providers/AppServiceProvider.php" timestamp="1565139320736">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Providers/AppServiceProvider.php" timestamp="1565139984645">
         <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="30" column="5" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/Controller.php" timestamp="1564624006102">
