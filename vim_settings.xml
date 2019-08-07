@@ -21,11 +21,11 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Providers/UserServiceProvider.php" timestamp="1565149022543">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="34" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="16" column="34" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Providers/UserServiceProvider.php" timestamp="1565153093310">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="/a.dummy" timestamp="1564365423712">
         <mark key="[" line="0" column="0" />
@@ -80,7 +80,7 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1565149025384">
+      <file name="/PHP Console" timestamp="1565153691536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1564641278963">
@@ -121,12 +121,12 @@
       <file name="/dummy.sql" timestamp="1526975484887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1565149071280">
-        <mark key="k" line="47" column="0" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
-        <mark key="^" line="37" column="5" />
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Http/Controllers/RootController.php" timestamp="1565153687426">
+        <mark key="k" line="39" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563848720178">
         <mark key="[" line="0" column="0" />
@@ -159,12 +159,11 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="50" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Services/UserService.php" timestamp="1565147771132">
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Services/UserService.php" timestamp="1565153458056">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="10" column="1" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
@@ -290,44 +289,44 @@
       <jump line="7" column="6" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Services/UserService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>UserService</text>
       </register>
-      <register name="0" type="4">
-        <text>AppServiceProvider</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgJ2NvbXBhbmllcycgPT4gJGNvbXBhbmllcywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBJbGx1bWluYXRlXFZpZXdcVmlld1NlcnZpY2VQcm92aWRlcjo6Y2xhc3MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT51c2VyU2VydmljZS0+Z2V0VXNlcihBdXRoOjp1c2VyKCktPmlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlICRfdXNlckRiOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFZpZXc7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgJ3VzZXInID0+ICR1c2VyLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICR1c2VyU2VydmljZS0+Z2V0VXNlcihBdXRoOjp1c2VyKCktPmlkKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAkdXNlcjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3VzZXInID0+ICR1c2VyLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
