@@ -63,6 +63,7 @@
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" timestamp="1568184740351">
         <mark key="'" line="715" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" timestamp="1568185907288" />
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/welcome.blade.php" timestamp="1568110295956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="65" column="10" />
@@ -79,12 +80,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568184854529">
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568185987633">
         <mark key="'" line="18" column="37" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="48" column="22" />
-        <mark key="^" line="48" column="22" />
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+        <mark key="^" line="54" column="9" />
       </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
@@ -187,11 +188,11 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" timestamp="1568180811632">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="73" />
-        <mark key="^" line="23" column="112" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" timestamp="1568186020063">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1565074016989">
         <mark key="'" line="45" column="8" />
@@ -352,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>validate</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
@@ -364,31 +365,31 @@
         <text>validate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdmFsaWRhdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZHxzdHJpbmd8bWF4OjI1NScsCiAgICAgICAgICAgICdnZW5kZXInID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdhZ2UnID0+ICdyZXF1aXJlZHxpbnRlZ2VyJywKICAgICAgICAgICAgJ2ZpbGUnID0+ICdyZXF1aXJlZHxmaWxlfGltYWdlfG1heDoxMDAwMCcsCiAgICAgICAgICAgICdjb21tZW50JyA9PiAncmVxdWlyZWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IGFycmF5KAogICAgICAgICAgICAnbGFzdF9uYW1lJyA9PiAnYWFhYScKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdmFsaWRhdG9yKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvbW1lbnQnID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZHxzdHJpbmd8bWF4OjI1NScsCiAgICAgICAgICAgICdnZW5kZXInID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdhZ2UnID0+ICdyZXF1aXJlZHxpbnRlZ2VyJywKICAgICAgICAgICAgJ2ZpbGUnID0+ICdyZXF1aXJlZHxmaWxlfGltYWdlfG1heDoxMDAwMCcsCiAgICAgICAgICAgICdjb21tZW50JyA9PiAncmVxdWlyZWQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycgPT4gJ3JlcXVpcmVkJywgICAgICAgICAgICAgICAvLyDlv4XpoIgK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IGFycmF5KAogICAgICAgICAgICAnbGFzdF9uYW1lJyA9PiAnYWFhYScKICAgICAgICApOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
