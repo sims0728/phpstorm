@@ -80,7 +80,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568185987633">
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568186630722">
         <mark key="'" line="18" column="37" />
         <mark key="[" line="53" column="9" />
         <mark key="]" line="54" column="9" />
@@ -188,11 +188,11 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" timestamp="1568186020063">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="9" column="9" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" timestamp="1568188492337">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1565074016989">
         <mark key="'" line="45" column="8" />
@@ -353,43 +353,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>key</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>validate</text>
       </register>
-      <register name="0" type="4">
-        <text>validate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAY2FzZSgnY29kZTMnKQogICAgICAgICAgICAgICAgICAgIDxsaT7jg5fjg63jg4Djgq/jg4jjgrPjg7zjg4njgpLlhaXlipvjgZfjgabjgY/jgaDjgZXjgYQ8L2xpPgogICAgICAgICAgICAgICAgICAgIEBicmVhawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT57eyAkZXJyb3IgfX08L2xpPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAY2FzZSgncHJlZmVjdHVyZScpCiAgICAgICAgICAgICAgICAgICAgPGxpPumDvemBk+W6nOecjOOCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhDwvbGk+CiAgICAgICAgICAgICAgICAgICAgQGJyZWFrCiAgICAgICAgICAgICAgICAgICAgQGNhc2UoJ2NpdHknKQogICAgICAgICAgICAgICAgICAgIDxsaT7luILljLrnlLrmnZHjgpLlhaXlipvjgZfjgabjgY/jgaDjgZXjgYQ8L2xpPgogICAgICAgICAgICAgICAgICAgIEBicmVhawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZygkdmFsaWRhdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAY2FzZSgnemlwX2NvZGUyJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICdyZXF1aXJlZHxzdHJpbmd8bWF4OjI1NScsCiAgICAgICAgICAgICdnZW5kZXInID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICdhZ2UnID0+ICdyZXF1aXJlZHxpbnRlZ2VyJywKICAgICAgICAgICAgJ2ZpbGUnID0+ICdyZXF1aXJlZHxmaWxlfGltYWdlfG1heDoxMDAwMCcsCiAgICAgICAgICAgICdjb21tZW50JyA9PiAncmVxdWlyZWQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAY2FzZSgncHJlZmVjdHVyZScpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IGFycmF5KAogICAgICAgICAgICAnbGFzdF9uYW1lJyA9PiAnYWFhYScKICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAZGVmYXVsdAogICAgICAgICAgICAgICAgICAgIOODh+ODleOCqeODq+ODiOOBruOCseODvOOCuQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
