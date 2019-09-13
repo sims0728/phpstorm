@@ -16,11 +16,10 @@
       <file name="/users [localhost]" timestamp="1526975482555">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/routes/web.php" timestamp="1568344897635">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/routes/web.php" timestamp="1568354999822">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_093244_create_items_table.php" timestamp="1568109556971">
         <mark key="[" line="20" column="38" />
@@ -64,6 +63,7 @@
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" timestamp="1568184740351">
         <mark key="'" line="715" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1568355171706" />
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" timestamp="1568343416748">
         <mark key="'" line="9" column="32" />
         <mark key="[" line="209" column="20" />
@@ -85,15 +85,21 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568345295536">
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568355081059">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="83" column="36" />
+        <mark key="[" line="83" column="34" />
         <mark key="]" line="83" column="36" />
         <mark key="." line="83" column="36" />
-        <mark key="^" line="83" column="64" />
+        <mark key="^" line="83" column="36" />
       </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" timestamp="1568355344788">
+        <mark key="'" line="270" column="41" />
+        <mark key="[" line="383" column="0" />
+        <mark key="]" line="383" column="0" />
+        <mark key="." line="383" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/app.php" timestamp="1565148976843">
         <mark key="[" line="179" column="2" />
@@ -240,6 +246,12 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="50" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Services/UserService.php" timestamp="1565153458056">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/.env" timestamp="1568108681948">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="22" />
@@ -254,15 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
-      <jump line="19" column="31" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
-      <jump line="64" column="18" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Items.php" />
-      <jump line="95" column="41" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="9" column="20" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="87" column="14" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="26" column="1" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/SubCategories.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="101" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="47" column="8" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Categories.php" />
       <jump line="96" column="35" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
@@ -354,43 +357,52 @@
       <jump line="20" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="68" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="383" column="20" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="384" column="38" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="24" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="113" column="53" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="118" column="49" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="120" column="25" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="239" column="41" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
+      <jump line="270" column="41" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5yb3V0ZXMtPmdldEJ5TmFtZSgnLycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>$name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXNzaW9uXD4=</text>
+        <text encoding="base64">XDxyb3V0ZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>TopController@index</text>
+        <text encoding="base64">JHRoaXMtPnJvdXRlcy0+Z2V0QnlOYW1lKCRuYW1lKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT5yb3V0ZXMtPmdldEJ5TmFtZSgnLycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwb3N0ZGF0YScgPT4gJHBvc3RkYXRhLAo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
+        <text encoding="base64">Um91dGU6OmdldCgnJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBhcnJheV9tZXJnZSgkZm9ybUtleXMsICRwb3N0ZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwb3N0ZGF0YScgPT4gJHBvc3RkYXRhLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSBhcnJheV9tZXJnZSgkZm9ybUtleXMsICRwb3N0ZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -400,15 +412,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXNzaW9uXD4=</last-search>
+      <last-search encoding="base64">XDxyb3V0ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXNzaW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb3V0ZXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CategoriesTableSeeder</entry>
         <entry encoding="base64">XDxvZmZpY2VzXD4=</entry>
         <entry encoding="base64">XDxjb21wYW55XD4=</entry>
         <entry encoding="base64">XDxpdGVtT2JqXD4=</entry>
@@ -428,6 +439,7 @@
         <entry encoding="base64">XDxzZXRTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxTZXNzaW9uU3RvcmVcPg==</entry>
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
+        <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
