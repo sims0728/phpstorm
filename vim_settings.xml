@@ -77,12 +77,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568705133136">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="76" column="7" />
-        <mark key="^" line="76" column="7" />
-        <mark key="." line="76" column="7" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568705968698">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_17_070716_create_entory_items_table.php" timestamp="1568704480189">
         <mark key="[" line="17" column="23" />
@@ -248,11 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="48" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
-      <jump line="7" column="11" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
-      <jump line="167" column="20" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
-      <jump line="216" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
-      <jump line="229" column="38" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
       <jump line="230" column="26" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
       <jump line="41" column="20" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
       <jump line="58" column="20" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
@@ -348,6 +343,11 @@
       <jump line="157" column="6" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/vlucas/phpdotenv/src/Validator.php" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="46" column="46" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Requests/EntoryRequest.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="74" column="12" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
