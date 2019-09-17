@@ -30,11 +30,11 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1568108386232">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="67" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1568704146402">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="73" />
         <mark key="^" line="16" column="67" />
-        <mark key="." line="16" column="67" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/SubCategoriesTableSeeder.php" timestamp="1565155967288">
         <mark key="[" line="47" column="21" />
@@ -83,6 +83,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="73" column="42" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_17_070716_create_entory_items_table.php" timestamp="1568704480189">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php" timestamp="1568356523825">
         <mark key="'" line="270" column="41" />
@@ -227,11 +233,6 @@
         <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php" timestamp="1568695544729" />
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/.env" timestamp="1568108681948">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Categories.php" timestamp="1564568762223">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="5" column="0" />
@@ -350,43 +351,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Increments</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Increments</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9kdWN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygndG9wJywgY29tcGFjdCgncmVxdWVzdCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbnRlZ2VyKCd0aWNrZXRfaWQnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbnRlZ2VyKCdpdGVtX2lkJyktPnVuc2lnbmVkKCktPm51bGxhYmxlKGZhbHNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsaWRhdG9yLT5lcnJvcnMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdC0+c2Vzc2lvbigpLT5mbHVzaCgpOwogICAgICAgICRyZXF1ZXN0LT5zZXNzaW9uKCktPnJlZ2VuZXJhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3Zhcl9kdW1wKCRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsaWRhdG9yLT5lcnJvcnMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICdyZWdpc3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
