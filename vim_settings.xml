@@ -48,8 +48,8 @@
         <mark key="^" line="47" column="25" />
         <mark key="." line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" timestamp="1568184974211">
-        <mark key="'" line="87" column="6" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" timestamp="1568695501009">
+        <mark key="'" line="240" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" timestamp="1565155393200">
         <mark key="'" line="16" column="0" />
@@ -249,6 +249,7 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="50" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php" timestamp="1568695544729" />
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/.env" timestamp="1568108681948">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="22" />
@@ -261,37 +262,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1568695478642">
+        <mark key="'" line="386" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032243_create_companies_table.php" />
-      <jump line="20" column="6" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_08_07_052243_tags_table.php" />
-      <jump line="59" column="25" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_08_07_052243_tags_table.php" />
-      <jump line="60" column="1" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_08_07_052243_tags_table.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="45" column="3" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Companies.php" />
-      <jump line="9" column="36" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
-      <jump line="17" column="37" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
-      <jump line="974" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="107" column="27" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="270" column="21" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="114" column="29" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="276" column="21" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="558" column="58" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="611" column="5" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="705" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="709" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="1058" column="47" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="1055" column="23" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="1053" column="24" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="995" column="68" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="993" column="45" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="990" column="23" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="988" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="715" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Validation/Validator.php" />
-      <jump line="87" column="6" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
-      <jump line="13" column="10" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" />
       <jump line="14" column="16" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="47" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
@@ -363,6 +338,35 @@
       <jump line="25" column="13" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="40" column="13" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="64" column="43" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="386" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
+      <jump line="30" column="6" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="401" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="407" column="45" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="409" column="40" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="411" column="34" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="530" column="103" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="532" column="30" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="533" column="33" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="534" column="34" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="535" column="35" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="537" column="33" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="714" column="37" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="715" column="36" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="760" column="39" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="953" column="45" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1003" column="23" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1214" column="65" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1457" column="33" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1620" column="87" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1660" column="109" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1674" column="111" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1688" column="115" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1909" column="66" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1910" column="16" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="2024" column="81" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="2029" column="60" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="2050" column="56" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
+      <jump line="240" column="39" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/symfony/http-foundation/Request.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -372,7 +376,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVmZWN0dXJlXD4=</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgJF92YWxpZGF0aW9uUnVsZSA9IFsKICAgICAgICAnbGFzdF9uYW1lJyA9PiAncmVxdWlyZWR8c3RyaW5nfG1heDoyNTUnLAogICAgICAgICdmaXJzdF9uYW1lJyA9PiAncmVxdWlyZWR8c3RyaW5nfG1heDoyNTUnLAogICAgICAgICdtYWlsJyA9PiAncmVxdWlyZWR8ZW1haWwnLAogICAgICAgICd6aXBfY29kZTEnID0+ICdyZXF1aXJlZHxkaWdpdHM6MycsCiAgICAgICAgJ3ppcF9jb2RlMicgPT4gJ3JlcXVpcmVkfGRpZ2l0czo0JywKICAgICAgICAncHJlZmVjdHVyZScgPT4gJ3JlcXVpcmVkJywKICAgICAgICAnY2l0eScgPT4gJ3JlcXVpcmVkJywKICAgICAgICAnb3RoZXJfYWRkcmVzcycgPT4gJ21heDoyNTUnLAogICAgICAgICdidWlsZGluZycgPT4gJ21heDoyNTUnLAogICAgICAgICd0ZWwnID0+ICdyZXF1aXJlZHxkaWdpdHNfYmV0d2Vlbjo5LDExJywKICAgICAgICAnY29kZTEnID0+ICdyZXF1aXJlZHxtYXg6MjU1JywKICAgIF07Cg==</text>
@@ -409,15 +413,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVmZWN0dXJlXD4=</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVmZWN0dXJlXD4=</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDxpdGVtQ29tcGFueVJlbGF0aW9uXD4=</entry>
         <entry>CompaniesTableSeeder</entry>
@@ -437,6 +440,7 @@
         <entry encoding="base64">XDxwb3N0ZGF0YVw+</entry>
         <entry encoding="base64">XDxwYXJzZUVycm9yc1w+</entry>
         <entry encoding="base64">XDxwcmVmZWN0dXJlXD4=</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
