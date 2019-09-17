@@ -86,12 +86,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568362480871">
-        <mark key="'" line="86" column="37" />
-        <mark key="[" line="87" column="12" />
-        <mark key="]" line="87" column="12" />
-        <mark key="." line="87" column="12" />
-        <mark key="^" line="86" column="13" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568688479750">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="48" column="13" />
       </file>
       <file name="/battles [localhost]" timestamp="1525833800770">
         <mark key="[" line="0" column="0" />
@@ -201,10 +201,10 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" timestamp="1568357264740">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" timestamp="1568688424558">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/CompaniesTableSeeder.php" timestamp="1565074016989">
         <mark key="'" line="45" column="8" />
@@ -262,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="16" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
       <jump line="11" column="17" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/DatabaseSeeder.php" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Services/UserService.php" />
       <jump line="7" column="6" filename="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Services/UserService.php" />
@@ -362,61 +361,61 @@
       <jump line="44" column="38" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="83" column="26" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="86" column="37" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="51" column="28" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxWaWV3RXJyb3JCYWc7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcTWVzc2FnZUJhZzsKdXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXFN1cHBvcnRcTWVzc2FnZVByb3ZpZGVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0ZGF0YVw+</text>
+        <text encoding="base64">XDxwYXJzZUVycm9yc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcmVxdWVzdC0+b2xkKCdsYXN0X25hbWUnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdlcnJvcnMnLCAkZXJyb3JzLT5wdXQoJ2RlZmF1bHQnLCAkdmFsaWRhdG9yLT5lcnJvcnMoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXF1ZXN0LT5hbGwoKQo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxWaWV3RXJyb3JCYWc7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcTWVzc2FnZUJhZzsKdXNlIElsbHVtaW5hdGVcQ29udHJhY3RzXFN1cHBvcnRcTWVzc2FnZVByb3ZpZGVyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcmVxdWVzdC0+b2xkKCdsYXN0X25hbWUnKSk7CiAgICAgICAgICAgIHByaW50X3IoJHJlcXVlc3QtPm5ldygnbGFzdF9uYW1lJykpOwogICAgICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcG9zdGRhdGEpOwogICAgICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2Vzc2lvbjo6Zmxhc2goCiAgICAgICAgICAgICAgICAncG9zdGRhdGEnLCAkcmVxdWVzdC0+YWxsKCkKICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiB2aWV3KCd0b3AnKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfcigkcG9zdGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBwYXJzZUVycm9ycygkcHJvdmlkZXIpCiAgICB7CiAgICAgICAgaWYgKCRwcm92aWRlciBpbnN0YW5jZW9mIE1lc3NhZ2VQcm92aWRlcikgewogICAgICAgICAgICByZXR1cm4gJHByb3ZpZGVyLT5nZXRNZXNzYWdlQmFnKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbmV3IE1lc3NhZ2VCYWcoKGFycmF5KSAkcHJvdmlkZXIpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWyRrZXldID0gaWYoYXJyYXlfa2V5X2V4aXN0cygka2V5LCAkcG9zdGRhdGEpKSAkcG9zdGRhdGFbJGtleV07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">e3sgJHBvc3RkYXRhIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8kcG9zdGRhdGEgPSAkcmVxdWVzdC0+YWxsKCk7CiAgICAgICAgICAgIC8vcmV0dXJuIHJlZGlyZWN0KCktPnJvdXRlKCd0b3AuaW5kZXgnKS0+d2l0aCgkcmVxdWVzdC0+YWxsKCkpOwogICAgICAgICAgICAvL3JldHVybiBiYWNrKCktPndpdGhJbnB1dCgpOwogICAgICAgICAgICAvL3JldHVybiByZWRpcmVjdCgpLT5yb3V0ZSgndG9wLmluZGV4JyktPndpdGhJbnB1dCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0ZGF0YVw+</last-search>
+      <last-search encoding="base64">XDxwYXJzZUVycm9yc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0ZGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZUVycm9yc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wYW55XD4=</entry>
         <entry encoding="base64">XDxpdGVtT2JqXD4=</entry>
         <entry encoding="base64">XDxTdWJDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDxzdWJDYXRlZ29yaWVzXD4=</entry>
@@ -436,6 +435,7 @@
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
         <entry encoding="base64">XDxwb3N0ZGF0YVw+</entry>
+        <entry encoding="base64">XDxwYXJzZUVycm9yc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
