@@ -18,11 +18,11 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_093244_create_items_table.php" timestamp="1568873178535">
-        <mark key="[" line="18" column="81" />
-        <mark key="]" line="18" column="81" />
-        <mark key="." line="18" column="81" />
-        <mark key="^" line="18" column="81" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_093244_create_items_table.php" timestamp="1568875757006">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1568872001930">
         <mark key="[" line="17" column="0" />
@@ -307,17 +307,17 @@
       <jump line="8" column="6" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_19_054613_create_ticket_categories_bak_table.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>price</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aWNrZXRfY2F0ZWdvcmllc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpLT51bnNpZ25lZCgpLT5hdXRvSW5jcmVtZW50KCk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCduYW1lJyktPm51bGxhYmxlKGZhbHNlKTsKICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdwcmljZScpLT51bnNpZ25lZCgpLT5udWxsYWJsZShmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTsK</text>
