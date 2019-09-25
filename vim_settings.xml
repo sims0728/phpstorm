@@ -39,7 +39,7 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1568874445305">
+      <file name="/a.dummy" timestamp="1569375496692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/routes/web.php" timestamp="1568952789051">
@@ -53,9 +53,9 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1569374400099">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="43" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1569375021462">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="34" />
         <mark key="^" line="29" column="43" />
         <mark key="." line="29" column="43" />
       </file>
@@ -71,6 +71,12 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_25_012909_create_deliveries_table.php" timestamp="1569375029089">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="63" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/TicketsTableSeeder.php" timestamp="1568873308728">
         <mark key="[" line="61" column="40" />
         <mark key="]" line="61" column="40" />
@@ -81,11 +87,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_19_054613_create_ticket_categories_bak_table.php" timestamp="1568874366398">
-        <mark key="'" line="8" column="6" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/EntryItemRelation.php" timestamp="1568865983411">
         <mark key="[" line="2" column="0" />
@@ -111,10 +112,10 @@
         <mark key="." line="47" column="25" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Entries.php" timestamp="1568950434078">
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Entries.php" timestamp="1569375538054">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="7" />
         <mark key="^" line="67" column="20" />
         <mark key="." line="61" column="0" />
       </file>
@@ -181,13 +182,18 @@
         <mark key="^" line="17" column="36" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/DatabaseSeeder.php" timestamp="1568873050712">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/DatabaseSeeder.php" timestamp="1569375641446">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/storage/logs/laravel-2019-09-20.log" timestamp="1568954135789" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Deliveries.php" timestamp="1569375541177">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Exceptions/Handler.php" timestamp="1568953886816">
         <mark key="[" line="5" column="65" />
         <mark key="]" line="5" column="7" />
@@ -218,6 +224,12 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/DeliveriesTableSeeder.php" timestamp="1569375788505">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -324,43 +336,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>item_branch_code</text>
+        <text>tickets</text>
       </register>
       <register name="-" type="4">
-        <text>item_branch_code</text>
+        <text>tickets</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aWNrZXRfY2F0ZWdvcmllc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2l0ZW1fYnJhbmNoX2NvZGUnKS0+bnVsbGFibGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2lkJyA9PiAxLAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICfjgobjgYbjg5HjgrHjg4Pjg4gnLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgICAgICAndXBkYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+ICdhYWExLWJiYmItY2NjYycsCiAgICAgICAgICAgICAgICAndGlja2V0X2NhdGVnb3J5X2lkJyA9PiAxLAogICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnMzAwMCcsCiAgICAgICAgICAgICAgICAnaXNfdXNlJyA9PiAnMCcsCiAgICAgICAgICAgICAgICAnZXhwaXJlX2RhdGUnID0+ICcyMDM4LTEyLTMxIDIzOjU5OjU5JywKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdjb2RlJyA9PiAnYWFhMi1iYmJiLWNjY2MnLAogICAgICAgICAgICAgICAgJ3RpY2tldF9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnY29kZScgPT4gJ2FhYTMtYmJiYi1jY2NjJywKICAgICAgICAgICAgICAgICd0aWNrZXRfY2F0ZWdvcnlfaWQnID0+IDIsCiAgICAgICAgICAgICAgICAncHJpY2UnID0+ICczMDAwJywKICAgICAgICAgICAgICAgICdpc191c2UnID0+ICcwJywKICAgICAgICAgICAgICAgICdleHBpcmVfZGF0ZScgPT4gJzIwMzgtMTItMzEgMjM6NTk6NTknLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgICAgICAndXBkYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+ICdhYWE0LWJiYmItY2NjYycsCiAgICAgICAgICAgICAgICAndGlja2V0X2NhdGVnb3J5X2lkJyA9PiAzLAogICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnMzUwMCcsCiAgICAgICAgICAgICAgICAnaXNfdXNlJyA9PiAnMCcsCiAgICAgICAgICAgICAgICAnZXhwaXJlX2RhdGUnID0+ICcyMDM4LTEyLTMxIDIzOjU5OjU5JywKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdjb2RlJyA9PiAnYWFhNS1iYmJiLWNjY2MnLAogICAgICAgICAgICAgICAgJ3RpY2tldF9jYXRlZ29yeV9pZCcgPT4gMywKICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzM1MDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc191c2UnID0+ICcwJywKICAgICAgICAgICAgICAgICdleHBpcmVfZGF0ZScgPT4gJzIwMzgtMTItMzEgMjM6NTk6NTknLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gMzAwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gMzAwMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gMzAwMCwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kdGFibGUtPmJpZ0ludGVnZXIoJ2l0ZW1faWQnKS0+dW5zaWduZWQoKS0+bnVsbGFibGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kdGFibGUtPmJpZ0ludGVnZXIoJ3RpY2tldF9pZCcpLT51bnNpZ25lZCgpLT5udWxsYWJsZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gMzAwMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
