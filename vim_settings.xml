@@ -47,17 +47,16 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_093244_create_items_table.php" timestamp="1568955434407">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="25" column="66" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_093244_create_items_table.php" timestamp="1569379971989">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="64" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="27" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1569375021462">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="34" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1569379967780">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/SubCategoriesTableSeeder.php" timestamp="1565155967288">
         <mark key="[" line="47" column="21" />
@@ -200,18 +199,18 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/ItemsTableSeeder.php" timestamp="1568955314397">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="21" column="26" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/ItemsTableSeeder.php" timestamp="1569380056135">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="68" column="44" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1568954467292">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-        <mark key="^" line="194" column="21" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1569379835637">
+        <mark key="'" line="149" column="18" />
+        <mark key="[" line="161" column="48" />
+        <mark key="]" line="161" column="53" />
+        <mark key="." line="161" column="53" />
+        <mark key="^" line="161" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_17_070716_create_entory_items_table.php" timestamp="1568704480189">
         <mark key="[" line="17" column="23" />
@@ -233,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
-      <jump line="204" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
       <jump line="206" column="43" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
       <jump line="79" column="12" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="209" column="31" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" />
@@ -315,7 +312,6 @@
       <jump line="22" column="25" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Tickets.php" />
       <jump line="119" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Tickets.php" />
-      <jump line="145" column="50" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="10" column="13" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="34" column="25" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="25" column="26" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Tickets.php" />
@@ -333,37 +329,40 @@
       <jump line="76" column="32" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="82" column="46" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" />
       <jump line="139" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="145" column="13" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="161" column="48" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
+      <jump line="149" column="18" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tickets</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpdGVtX2NvZGUnID0+ICdTTl8wMDAxJywKICAgICAgICAgICAgICAgICdpdGVtX2JyYW5jaF9jb2RlJyA9PiAnU05XJywK</text>
       </register>
       <register name="-" type="4">
-        <text>tickets</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aWNrZXRfY2F0ZWdvcmllc1w+</text>
+        <text encoding="base64">XDx1cGRhdGVFbnRyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2lkJyA9PiAxLAogICAgICAgICAgICAgICAgJ25hbWUnID0+ICfjgobjgYbjg5HjgrHjg4Pjg4gnLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgICAgICAndXBkYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpdGVtX2NvZGUnID0+ICdTTl8wMDAxJywKICAgICAgICAgICAgICAgICdpdGVtX2JyYW5jaF9jb2RlJyA9PiAnU05XJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+ICdhYWExLWJiYmItY2NjYycsCiAgICAgICAgICAgICAgICAndGlja2V0X2NhdGVnb3J5X2lkJyA9PiAxLAogICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnMzAwMCcsCiAgICAgICAgICAgICAgICAnaXNfdXNlJyA9PiAnMCcsCiAgICAgICAgICAgICAgICAnZXhwaXJlX2RhdGUnID0+ICcyMDM4LTEyLTMxIDIzOjU5OjU5JywKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdjb2RlJyA9PiAnYWFhMi1iYmJiLWNjY2MnLAogICAgICAgICAgICAgICAgJ3RpY2tldF9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnY29kZScgPT4gJ2FhYTMtYmJiYi1jY2NjJywKICAgICAgICAgICAgICAgICd0aWNrZXRfY2F0ZWdvcnlfaWQnID0+IDIsCiAgICAgICAgICAgICAgICAncHJpY2UnID0+ICczMDAwJywKICAgICAgICAgICAgICAgICdpc191c2UnID0+ICcwJywKICAgICAgICAgICAgICAgICdleHBpcmVfZGF0ZScgPT4gJzIwMzgtMTItMzEgMjM6NTk6NTknLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgICAgICAndXBkYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+ICdhYWE0LWJiYmItY2NjYycsCiAgICAgICAgICAgICAgICAndGlja2V0X2NhdGVnb3J5X2lkJyA9PiAzLAogICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnMzUwMCcsCiAgICAgICAgICAgICAgICAnaXNfdXNlJyA9PiAnMCcsCiAgICAgICAgICAgICAgICAnZXhwaXJlX2RhdGUnID0+ICcyMDM4LTEyLTMxIDIzOjU5OjU5JywKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdjb2RlJyA9PiAnYWFhNS1iYmJiLWNjY2MnLAogICAgICAgICAgICAgICAgJ3RpY2tldF9jYXRlZ29yeV9pZCcgPT4gMywKICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzM1MDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2l0ZW1fY29kZScpLT5udWxsYWJsZShmYWxzZSk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdpdGVtX2JyYW5jaF9jb2RlJyktPm51bGxhYmxlKGZhbHNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+ICdhYWExLWJiYmItY2NjYycsCiAgICAgICAgICAgICAgICAndGlja2V0X2NhdGVnb3J5X2lkJyA9PiAxLAogICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnMzAwMCcsCiAgICAgICAgICAgICAgICAnaXNfdXNlJyA9PiAnMCcsCiAgICAgICAgICAgICAgICAnZXhwaXJlX2RhdGUnID0+ICcyMDM4LTEyLTMxIDIzOjU5OjU5JywKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdjb2RlJyA9PiAnYWFhMi1iYmJiLWNjY2MnLAogICAgICAgICAgICAgICAgJ3RpY2tldF9jYXRlZ29yeV9pZCcgPT4gMiwKICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnY29kZScgPT4gJ2FhYTMtYmJiYi1jY2NjJywKICAgICAgICAgICAgICAgICd0aWNrZXRfY2F0ZWdvcnlfaWQnID0+IDIsCiAgICAgICAgICAgICAgICAncHJpY2UnID0+ICczMDAwJywKICAgICAgICAgICAgICAgICdpc191c2UnID0+ICcwJywKICAgICAgICAgICAgICAgICdleHBpcmVfZGF0ZScgPT4gJzIwMzgtMTItMzEgMjM6NTk6NTknLAogICAgICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgICAgICAndXBkYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+ICdhYWE0LWJiYmItY2NjYycsCiAgICAgICAgICAgICAgICAndGlja2V0X2NhdGVnb3J5X2lkJyA9PiAzLAogICAgICAgICAgICAgICAgJ3ByaWNlJyA9PiAnMzUwMCcsCiAgICAgICAgICAgICAgICAnaXNfdXNlJyA9PiAnMCcsCiAgICAgICAgICAgICAgICAnZXhwaXJlX2RhdGUnID0+ICcyMDM4LTEyLTMxIDIzOjU5OjU5JywKICAgICAgICAgICAgICAgICdjcmVhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZWRfYXQnID0+IGRhdGUoJ1ktbS1kIEg6aTpzJyksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICdjb2RlJyA9PiAnYWFhNS1iYmJiLWNjY2MnLAogICAgICAgICAgICAgICAgJ3RpY2tldF9jYXRlZ29yeV9pZCcgPT4gMywKICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzM1MDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc191c2UnID0+ICcwJywKICAgICAgICAgICAgICAgICdleHBpcmVfZGF0ZScgPT4gJzIwMzgtMTItMzEgMjM6NTk6NTknLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc191c2UnID0+ICcwJywKICAgICAgICAgICAgICAgICdleHBpcmVfZGF0ZScgPT4gJzIwMzgtMTItMzEgMjM6NTk6NTknLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gJzMwMDAnLAogICAgICAgICAgICAgICAgJ2lzX3VzZScgPT4gJzAnLAogICAgICAgICAgICAgICAgJ2V4cGlyZV9kYXRlJyA9PiAnMjAzOC0xMi0zMSAyMzo1OTo1OScsCiAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gZGF0ZSgnWS1tLWQgSDppOnMnKSwKICAgICAgICAgICAgICAgICd1cGRhdGVkX2F0JyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
@@ -372,22 +371,21 @@
         <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gMzAwMCwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aWNrZXRfY2F0ZWdvcmllc1w+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVFbnRyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aWNrZXRfY2F0ZWdvcmllc1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVFbnRyeVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry>validate</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
@@ -407,6 +405,7 @@
         <entry encoding="base64">XDxFeGNlcHRpb25cPg==</entry>
         <entry encoding="base64">XDx0aWNrZXRJZHNcPg==</entry>
         <entry encoding="base64">XDx0aWNrZXRfY2F0ZWdvcmllc1w+</entry>
+        <entry encoding="base64">XDx1cGRhdGVFbnRyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
