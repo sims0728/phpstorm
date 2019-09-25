@@ -53,11 +53,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="25" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1568955425832">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="17" column="46" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1569374400099">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="43" />
+        <mark key="^" line="29" column="43" />
+        <mark key="." line="29" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/SubCategoriesTableSeeder.php" timestamp="1565155967288">
         <mark key="[" line="47" column="21" />
@@ -323,17 +323,17 @@
       <jump line="139" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
+      <register name="&quot;" type="4">
+        <text>item_branch_code</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>item_branch_code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aWNrZXRfY2F0ZWdvcmllc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmljZScgPT4gMzAwMCwKICAgICAgICAgICAgICAgICdwcmljZV90YXgnID0+IDMwMDAsCiAgICAgICAgICAgICAgICAndGF4JyA9PiA4LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2l0ZW1fYnJhbmNoX2NvZGUnKS0+bnVsbGFibGUoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUb0RvOiBJbmRleOioreWumgo=</text>
