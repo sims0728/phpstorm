@@ -87,11 +87,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Items.php" timestamp="1569455171884">
-        <mark key="[" line="17" column="62" />
-        <mark key="]" line="17" column="63" />
-        <mark key="^" line="17" column="63" />
-        <mark key="." line="17" column="63" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Items.php" timestamp="1569543836799">
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="48" column="8" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/EntryItemRelation.php" timestamp="1568865983411">
         <mark key="[" line="2" column="0" />
@@ -338,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>item_category_id</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>item_category_id</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVFbnRyeVw+</text>
