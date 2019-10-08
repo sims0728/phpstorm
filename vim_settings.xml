@@ -213,6 +213,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1570522574513">
+        <mark key="[" line="138" column="44" />
+        <mark key="]" line="138" column="65" />
+        <mark key="^" line="138" column="65" />
+        <mark key="." line="138" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_17_070716_create_entory_items_table.php" timestamp="1568704480189">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="30" />
@@ -354,7 +360,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>1000000000, 9999999999</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -362,8 +368,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpc19zaW1wbGVfZGVsaXZlcnlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkaWQpOwo=</text>
+      <register name="0" type="4">
+        <text>1000000000, 9999999999</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGl0ZW1EYiA9IG5ldyBJdGVtczsKICAgICAgICAgICAgJGl0ZW1zID0gJGl0ZW1EYi0+ZmluZEJ5SWQoJGl0ZW1JZHMpOwo=</text>
