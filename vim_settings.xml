@@ -9,6 +9,9 @@
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="35" />
       </file>
+      <file name="/a.dummy" timestamp="1571730961412">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/routes/web.php" timestamp="1568952789051">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -49,21 +52,18 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" timestamp="1571730118509">
-        <mark key="'" line="74" column="4" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="64" column="21" />
-        <mark key="." line="64" column="21" />
-        <mark key="^" line="64" column="21" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" timestamp="1571730881989">
+        <mark key="'" line="90" column="8" />
+        <mark key="[" line="96" column="29" />
+        <mark key="]" line="96" column="29" />
+        <mark key="^" line="278" column="37" />
+        <mark key="." line="96" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/routes/api.php" timestamp="1571579979752">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="16" column="71" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/storage/debugbar/X25d85695895651469258254a70913995.json" timestamp="1569993854943">
-        <mark key="'" line="0" column="12762" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/routes/api.php" timestamp="1571730929426">
+        <mark key="[" line="17" column="109" />
+        <mark key="]" line="17" column="113" />
+        <mark key="^" line="17" column="113" />
+        <mark key="." line="17" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/.gitignore" timestamp="1568802110331">
         <mark key="[" line="11" column="14" />
@@ -250,12 +250,12 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" timestamp="1571729668793">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" timestamp="1571730949779">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="31" />
         <mark key="^" line="197" column="63" />
-        <mark key="." line="5" column="0" />
+        <mark key="." line="44" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2038_12_31_999999_create_view_entry_summary_table.php" timestamp="1569998045694">
         <mark key="[" line="25" column="40" />
@@ -307,9 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="37" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
-      <jump line="51" column="28" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
-      <jump line="65" column="52" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="64" column="43" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" />
       <jump line="386" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
@@ -407,61 +404,63 @@
       <jump line="171" column="4" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
       <jump line="75" column="20" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Models/Tickets.php" />
+      <jump line="79" column="46" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
+      <jump line="86" column="8" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnRvcnlSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxfdmFsaWRhdGlvblJ1bGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5lcnJvclJlc3BvbnNlKCR2YWxpZGF0b3ItPmVycm9ycygpKTsK</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJ2l0ZW1zJywgJ0FwaVxJdGVtQ29udHJvbGxlckBnZXRCeVByb2R1Y3RDb2RlJywgZnVuY3Rpb24oUmVxdWVzdCAkcmVxdWVzdCl7IH0pLT5uYW1lKCdpdGVtcy5nZXRCeVByb2R1Y3RDb2RlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ3RvcCcsIGNvbXBhY3QoJ3JlcXVlc3QnLCdlJykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ2ZpbmlzaCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2Vzc2lvbjo6Zmxhc2goCiAgICAgICAgICAgICAgICAndXNlZFRpY2tldHMnLCAkdXNlZFRpY2tldHMKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPndoZXJlKCdpc191c2UnLCAkaXNVc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ3RvcCcsIGNvbXBhY3QoJ3JlcXVlc3QnLCAndXNlZFRpY2tldHMnKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKERCOjpnZXRRdWVyeUxvZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGVycm9ycyA9ICR2YWxpZGF0b3ItPmVycm9ycygpOwogICAgICAgICAgICBTZXNzaW9uOjpmbGFzaCgKICAgICAgICAgICAgICAgICdlcnJvcnMnLCAkZXJyb3JzCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHJldHVybiB2aWV3KCd0b3AnLCBjb21wYWN0KCdyZXF1ZXN0JywnZXJyb3JzJykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDopIfmlbDmpJzntKLjga7loLTlkIgKICAgICAgICBpZiAoaXNfYXJyYXkoJGNvZGUpKSB7CiAgICAgICAgICAgICRxdWVyeS0+d2hlcmVJbignY29kZScsICRjb2RlKTsKICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgnaXNfdXNlJywgJGlzVXNlKTsKICAgICAgICAgICAgaWYgKCEkcXVlcnktPmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHJlczsKICAgICAgICAgICAgfQogICAgICAgICAgICAkaXRlbXMgPSAkcXVlcnktPmdldCgpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnY29kZS5yZWdleCcgPT4gJ2Zvcm1hdCBlcnJvci4nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmoLzntI3jgZfjgZ/jgqLjgqTjg4bjg6Djg4fjg7zjgr/jgpJKU09O5YyW44GX44Gm6YCB5L+hCg==</text>
+        <text encoding="base64">ICAgICAgICAnY29kZScgPT4gJ3JlZ2V4Oi9eW2EtekEtWjAtOV17NH0tW2EtekEtWjAtOV17NH0tW2EtekEtWjAtOV17NH0kL3UnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnRvcnlSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxfdmFsaWRhdGlvblJ1bGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnRvcnlSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfdmFsaWRhdGlvblJ1bGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>with</entry>
         <entry encoding="base64">XDxzZXRTZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxTZXNzaW9uU3RvcmVcPg==</entry>
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
@@ -481,6 +480,7 @@
         <entry encoding="base64">XDxUaWNrZXRDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxJdGVtQ2F0ZWdvcmllc1w+</entry>
         <entry encoding="base64">XDxFbnRvcnlSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxfdmFsaWRhdGlvblJ1bGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
