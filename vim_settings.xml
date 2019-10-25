@@ -56,13 +56,6 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/TicketCategoriesTableSeeder.php" timestamp="1569831408143">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/finish.blade.php" timestamp="1568952799514">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="10" />
@@ -170,31 +163,18 @@
         <mark key="]" line="61" column="121" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/resources/sass/app.scss" timestamp="1571209247263" />
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Items.php" timestamp="1570686917840">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="39" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/UserHistoryTableSeeder.php" timestamp="1565073946162">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/resources/views/top.blade.php" timestamp="1571967154983" />
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemTableSeeder.php" timestamp="1564468098868">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="47" column="25" />
         <mark key="." line="47" column="25" />
         <mark key="^" line="47" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Entries.php" timestamp="1569405163043">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="7" />
-        <mark key="^" line="67" column="20" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/TagsTableSeeder.php" timestamp="1565156165273">
         <mark key="[" line="25" column="18" />
@@ -223,6 +203,12 @@
         <mark key="]" line="21" column="9" />
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Middleware/TrustProxies.php" timestamp="1571967287886">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032248_create_offices_table.php" timestamp="1564641454673">
         <mark key="[" line="25" column="26" />
@@ -383,11 +369,11 @@
       <jump line="86" column="8" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2luZm8wMDEnLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gdmlldygnaW5mb3MuMDAxJyk7Cn0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdmFsaWRhdGlvblJ1bGVcPg==</text>
