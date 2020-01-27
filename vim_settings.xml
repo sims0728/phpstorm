@@ -80,6 +80,12 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/TicketsTableSeeder.php" timestamp="1580116112144">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="74" />
+        <mark key="^" line="9" column="74" />
+        <mark key="." line="9" column="74" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_03_071442_create_tickets_table.php" timestamp="1568955421270">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -320,11 +326,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="20" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/DatabaseSeeder.php" timestamp="1579156032575">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/DatabaseSeeder.php" timestamp="1580116090964">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/migrations/2020_01_16_061733_add_is_activation_to_tickets_table.php" timestamp="1579848120062">
         <mark key="[" line="16" column="46" />
@@ -443,10 +449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVCeUFjdGl2YXRpb25cPg==</text>
