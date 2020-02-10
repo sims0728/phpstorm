@@ -57,16 +57,10 @@
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" timestamp="1580091429124">
         <mark key="'" line="165" column="23" />
-        <mark key="[" line="90" column="60" />
-        <mark key="]" line="90" column="64" />
-        <mark key="." line="90" column="64" />
-        <mark key="^" line="90" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/routes/api.php" timestamp="1580087260454">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="126" />
-        <mark key="." line="18" column="131" />
-        <mark key="^" line="18" column="131" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/.gitignore" timestamp="1568802110331">
         <mark key="[" line="11" column="14" />
@@ -80,11 +74,11 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/TicketsTableSeeder.php" timestamp="1580116112144">
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="9" column="74" />
-        <mark key="^" line="9" column="74" />
-        <mark key="." line="9" column="74" />
+      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/TicketsTableSeeder.php" timestamp="1581320476409">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_03_071442_create_tickets_table.php" timestamp="1568955421270">
         <mark key="[" line="15" column="0" />
@@ -296,13 +290,6 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Models/Tickets.php" timestamp="1579850088082">
-        <mark key="'" line="124" column="20" />
-        <mark key="[" line="128" column="66" />
-        <mark key="]" line="130" column="20" />
-        <mark key="^" line="130" column="20" />
-        <mark key="." line="130" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_25_100158_create_item_categories_table.php" timestamp="1569993880535">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -327,10 +314,7 @@
         <mark key="^" line="20" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/DatabaseSeeder.php" timestamp="1580116090964">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="15" column="9" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/migrations/2020_01_16_061733_add_is_activation_to_tickets_table.php" timestamp="1579848120062">
         <mark key="[" line="16" column="46" />
