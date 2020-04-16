@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_19_054613_create_item_categories_table.php" timestamp="1568872512978">
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="35" />
-        <mark key="." line="29" column="35" />
-        <mark key="^" line="29" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/html/index_local.php" timestamp="1573628970438">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="67" />
-      </file>
       <file name="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/order/index.php" timestamp="1583924085669">
         <mark key="'" line="37" column="9" />
         <mark key="[" line="179" column="0" />
@@ -20,150 +10,33 @@
         <mark key="^" line="450" column="17" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/routes/web.php" timestamp="1568952789051">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/local_libra.deliveries [localhost]" timestamp="1587023376933">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_093244_create_items_table.php" timestamp="1569406190856">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-        <mark key="^" line="18" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_10_092927_create_entries_table.php" timestamp="1569379967780">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/SubCategoriesTableSeeder.php" timestamp="1565155967288">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="47" column="25" />
-        <mark key="^" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_25_012909_create_deliveries_table.php" timestamp="1569375029089">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="63" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/contact/pearlib/Mail/mime.php" timestamp="1583287662433">
-        <mark key="'" line="1388" column="17" />
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="511" column="0" />
-        <mark key="." line="511" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/EntryItemRelation.php" timestamp="1568865983411">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2038_12_31_999999_create_view_check_item_table.php" timestamp="1569924317924">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="35" column="25" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/routes.php" timestamp="1587026394524">
+        <mark key="'" line="66" column="23" />
+        <mark key="[" line="66" column="55" />
+        <mark key="]" line="66" column="55" />
+        <mark key="^" line="66" column="55" />
+        <mark key="." line="66" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" timestamp="1580091429124">
         <mark key="'" line="165" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/routes/api.php" timestamp="1580087260454">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="126" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/.gitignore" timestamp="1568802110331">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/finish.blade.php" timestamp="1568952799514">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/TicketsTableSeeder.php" timestamp="1581320476409">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="9" />
-        <mark key="^" line="15" column="9" />
-        <mark key="." line="15" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_03_071442_create_tickets_table.php" timestamp="1568955421270">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/TicketController.php" timestamp="1579850835627">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Exceptions/Handler.php" timestamp="1568953886816">
-        <mark key="[" line="5" column="65" />
-        <mark key="]" line="5" column="7" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/ItemsTableSeeder.php" timestamp="1569922182094">
+      <file name="/local_libra.sales [localhost]" timestamp="1587023439513">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/.env" timestamp="1571577859197">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Http/Controllers/TopController.php" timestamp="1570522574513">
-        <mark key="[" line="138" column="44" />
-        <mark key="]" line="138" column="65" />
-        <mark key="^" line="138" column="65" />
-        <mark key="." line="138" column="65" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_17_070716_create_entory_items_table.php" timestamp="1568704480189">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/routes/web.php" timestamp="1571741818982">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/migrations/2019_09_03_071442_create_tickets_table.php" timestamp="1579847972885">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/DeliveriesTableSeeder.php" timestamp="1569375788505">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/scripts/init_env.sh" timestamp="1571212967600">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/ItemCategoriesTableSeeder.php" timestamp="1569922223574">
+      <file name="/local_libra.payments [localhost]" timestamp="1587023299337">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="9" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/app/config/eccube/database.php" timestamp="1573628342908">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="/local_libra.shippings [localhost]" timestamp="1587023535641">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/vendor/encore/laravel-admin/src/Controllers/AdminController.php" timestamp="1587025437685">
+        <mark key="'" line="10" column="0" />
+      </file>
+      <file name="/local_libra.sales_creators [localhost]" timestamp="1587023451609">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/order/libraries/Config.php" timestamp="1583924034916">
         <mark key="'" line="32" column="39" />
@@ -172,54 +45,11 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/config/app.php" timestamp="1565148976843">
-        <mark key="[" line="179" column="2" />
-        <mark key="]" line="179" column="3" />
-        <mark key="." line="179" column="3" />
-        <mark key="^" line="179" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Tags.php" timestamp="1565157543436">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/ItemCompanyRelation.php" timestamp="1564447638253">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/UserHistory.php" timestamp="1564985285629">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/app/Providers/UserServiceProvider.php" timestamp="1565153093310">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/html/index.php" timestamp="1573629011553">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Controller/Admin/Transfer/TransferController.php" timestamp="1579058414697">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="140" column="56" />
-        <mark key="." line="76" column="0" />
+      <file name="/local_libra.sales_details [localhost]" timestamp="1587023447262">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev_main.admin_menu [dev_main]" timestamp="1587013318012">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/shared/x/libra-eccube/src/Eccube/Repository/OrderDetailRepository.php" timestamp="1573630058739">
-        <mark key="[" line="74" column="25" />
-        <mark key="]" line="75" column="12" />
-        <mark key="." line="75" column="12" />
-        <mark key="^" line="75" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/.env" timestamp="1587016260555">
         <mark key="[" line="14" column="14" />
@@ -227,151 +57,32 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_19_040356_create_entry_item_relations_table.php" timestamp="1568955018792">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="77" />
-        <mark key="." line="19" column="77" />
-        <mark key="^" line="19" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_19_062544_create_ticket_categories_table.php" timestamp="1568874371829">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Requests/EntoryRequest.php" timestamp="1571578485529">
-        <mark key="[" line="61" column="67" />
-        <mark key="]" line="61" column="121" />
-      </file>
       <file name="/a.sql" timestamp="1587013695881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/UserHistoryTableSeeder.php" timestamp="1565073946162">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/ItemTableSeeder.php" timestamp="1564468098868">
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="47" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/seeds/TagsTableSeeder.php" timestamp="1565156165273">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="18" />
-        <mark key="^" line="25" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/resources/views/top.blade.php" timestamp="1569556202001">
-        <mark key="[" line="29" column="63" />
-        <mark key="]" line="29" column="63" />
-        <mark key="." line="29" column="63" />
-        <mark key="^" line="29" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/contact/pearlib/Mail/mimePart.php" timestamp="1583287676755">
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="." line="289" column="0" />
-        <mark key="^" line="289" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Requests/EntryRequest.php" timestamp="1579153530272">
-        <mark key="[" line="61" column="58" />
-        <mark key="]" line="61" column="141" />
-      </file>
-      <file name="/dummy.sql" timestamp="1587013319360">
+      <file name="/local_libra.payment_logs [localhost]" timestamp="1587023348900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/EntryItemRelation.php" timestamp="1568866317410">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="9" />
-        <mark key="." line="21" column="9" />
-        <mark key="^" line="21" column="9" />
+      <file name="/dummy.sql" timestamp="1587025579600">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587013695889">
+      <file name="/Dummy.txt" timestamp="1587025364216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/order/pearlib/Mail/mime.php" timestamp="1583907574768">
         <mark key="'" line="420" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Middleware/TrustProxies.php" timestamp="1571967287886">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
+      <file name="/local_libra.orders [localhost]" timestamp="1587023318445">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/azure-env/shared/x/azure-backend/database/migrations/2019_07_23_032248_create_offices_table.php" timestamp="1564641454673">
-        <mark key="[" line="25" column="26" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="30" />
+      <file name="/local_libra.payment_deliveries [localhost]" timestamp="1587023313353">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/seeds/DatabaseSeeder.php" timestamp="1569406156493">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" timestamp="1571733511721">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2038_12_31_999999_create_view_entry_summary_table.php" timestamp="1569998045694">
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="25" column="43" />
-        <mark key="^" line="25" column="43" />
-        <mark key="." line="25" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/Deliveries.php" timestamp="1569375541177">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_25_100158_create_item_categories_table.php" timestamp="1569993880535">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/Controller.php" timestamp="1571573505894">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/.env" timestamp="1569454859512">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2038_12_31_999999_create_view_check_ticket_table.php" timestamp="1569923850873">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="20" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/seeds/DatabaseSeeder.php" timestamp="1580116090964">
-        <mark key="^" line="13" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/database/migrations/2020_01_16_061733_add_is_activation_to_tickets_table.php" timestamp="1579848120062">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="16" column="87" />
-      </file>
-      <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/app/Models/ItemCategories.php" timestamp="1569546728609">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/FanzineController.php" timestamp="1587024974744">
+        <mark key="'" line="100" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
-      <jump line="12" column="15" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
-      <jump line="4" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
-      <jump line="71" column="16" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
       <jump line="73" column="4" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" />
       <jump line="27" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Models/Items.php" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Models/Items.php" />
@@ -468,55 +179,59 @@
       <jump line="79" column="16" filename="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/order/index.php" />
       <jump line="175" column="8" filename="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/order/index.php" />
       <jump line="37" column="9" filename="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/order/index.php" />
+      <jump line="100" column="43" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/FanzineController.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/vendor/encore/laravel-admin/src/Controllers/AdminController.php" />
+      <jump line="65" column="67" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/routes.php" />
+      <jump line="66" column="23" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/routes.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>local-astat.libra.sc</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>local-astat.libra.sc</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0Rldlw+</text>
+        <text>sales</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbmlfZ2V0KCd1cGxvYWRfdG1wX2RpcicpOyAvLyDjgqLjg4Pjg5fjg63jg7zjg4njg5XjgqHjgqTjg6vjga7kuIDmmYLkv53nrqHloLTmiYAK</text>
+        <text encoding="base64">ICAgICRyb3V0ZXItPmdldCgnL3BkZi9mYW56aW5lcy97aWR9L2NoZWNrbGlzdCcsICdQZGZDb250cm9sbGVyQGZhbnppbmVzQ2hlY2tsaXN0JyktPm5hbWUoJ2FkbWluLnBkZi5mYW56aW5lcy5jaGVja2xpc3QnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRyb3V0ZXItPnJlc291cmNlKCdzYWxlcycsIFNhbGVzQ29udHJvbGxlcjo6Y2xhc3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJG1haWwtPnNlbmQoJ3R5dmVrQHR5dmVrLmNvLmpwJywgJGhlYWRlciwgJGJvZHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJG1haWwtPnNlbmQoJ3R5dmVrQHR5dmVrLmNvLmpwJywgJGhlYWRlciwgJGJvZHkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlLAogICAgICAgICdiYXNlNjQnLAogICAgICAgICdhdHRhY2htZW50JywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnYmFzZTY0JywKICAgICAgICBudWxsLAogICAgICAgICdJU08tMjAyMi1KUCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKCiAgICAvKgogICAgICAkaGVhZGVyVGV4dCA9ICJDb250ZW50LVR5cGU6IG11bHRpcGFydC9taXhlZDtib3VuZGFyeT1cIl9fQk9VTkRBUllfX1wiXG4iOwogICAgICAkaGVhZGVyVGV4dCAuPSAiUmV0dXJuLVBhdGg6ICIgLiAkdG8gLiAiIFxuIjsKICAgICAgJGhlYWRlclRleHQgLj0gIkZyb206ICIgLiAkZnJvbSAuIiBcbiI7CiAgICAgICRoZWFkZXJUZXh0IC49ICJTZW5kZXI6ICIgLiAkZnJvbSAuIiBcbiI7CiAgICAgICRoZWFkZXJUZXh0IC49ICJSZXBseS1UbzogIiAuICR0byAuICIgXG4iOwoKICAgICAgJGJvZHlUZXh0ID0gIi0tX19CT1VOREFSWV9fXG4iOwogICAgICAkYm9keVRleHQgLj0gIkNvbnRlbnQtVHlwZTogdGV4dC9wbGFpbjsgY2hhcnNldD1cIklTTy0yMDIyLUpQXCJcblxuIjsKICAgICAgJGJvZHlUZXh0IC49ICRib2R5IC4gIlxuIjsKICAgICAgJGJvZHlUZXh0IC49ICItLV9fQk9VTkRBUllfX1xuIjsKCiAgICAgICR0bXBGaWxlTmFtZSA9IGdldFVwbG9hZEZpbGVuYW1lKCRhcnJheVsnYXR0YWNobWVudCddLCAkYXJyYXlbJ25vdyddKTsKICAgICAgJGJvZHlUZXh0IC49ICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbTsgbmFtZT1cInskdG1wRmlsZU5hbWV9XCJcbiI7CiAgICAgICRib2R5VGV4dCAuPSAiQ29udGVudC1EaXNwb3NpdGlvbjogYXR0YWNobWVudDsgZmlsZW5hbWU9XCJ7JGFycmF5WydhdHRhY2htZW50J119XCJcbiI7CiAgICAgICRib2R5VGV4dCAuPSAiQ29udGVudC1UcmFuc2Zlci1FbmNvZGluZzogYmFzZTY0XG4iOwogICAgICAkYm9keVRleHQgLj0gIlxuIjsKICAgICAgJGJvZHlUZXh0IC49IGNodW5rX3NwbGl0KGJhc2U2NF9lbmNvZGUoZmlsZV9nZXRfY29udGVudHMoJHRtcEZpbGVOYW1lKSkpOwogICAgICAkYm9keVRleHQgLj0gIi0tX19CT1VOREFSWV9fXG4iOwoKICAgICAgbWJfc2VuZF9tYWlsKCAkdG8sIG1iX2VuY29kZV9taW1laGVhZGVyKCRzdWJqZWN0KSwgJGJvZHlUZXh0LCAkaGVhZGVyVGV4dCk7CiAgICAgIGV4aXQ7CiAgICAqLwoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+        <text encoding="base64">ICAgICAgICB0cnVlLAogICAgICAgICdiYXNlNjQnLAogICAgICAgICdhdHRhY2htZW50JywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnYmFzZTY0JywKICAgICAgICBudWxsLAogICAgICAgICdJU08tMjAyMi1KUCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRyZW5hbWUgPSAkYXJyYXlbJ25vdyddLiAndGVzdC5wZGYnOwo=</text>
+        <text encoding="base64">CgoKCiAgICAvKgogICAgICAkaGVhZGVyVGV4dCA9ICJDb250ZW50LVR5cGU6IG11bHRpcGFydC9taXhlZDtib3VuZGFyeT1cIl9fQk9VTkRBUllfX1wiXG4iOwogICAgICAkaGVhZGVyVGV4dCAuPSAiUmV0dXJuLVBhdGg6ICIgLiAkdG8gLiAiIFxuIjsKICAgICAgJGhlYWRlclRleHQgLj0gIkZyb206ICIgLiAkZnJvbSAuIiBcbiI7CiAgICAgICRoZWFkZXJUZXh0IC49ICJTZW5kZXI6ICIgLiAkZnJvbSAuIiBcbiI7CiAgICAgICRoZWFkZXJUZXh0IC49ICJSZXBseS1UbzogIiAuICR0byAuICIgXG4iOwoKICAgICAgJGJvZHlUZXh0ID0gIi0tX19CT1VOREFSWV9fXG4iOwogICAgICAkYm9keVRleHQgLj0gIkNvbnRlbnQtVHlwZTogdGV4dC9wbGFpbjsgY2hhcnNldD1cIklTTy0yMDIyLUpQXCJcblxuIjsKICAgICAgJGJvZHlUZXh0IC49ICRib2R5IC4gIlxuIjsKICAgICAgJGJvZHlUZXh0IC49ICItLV9fQk9VTkRBUllfX1xuIjsKCiAgICAgICR0bXBGaWxlTmFtZSA9IGdldFVwbG9hZEZpbGVuYW1lKCRhcnJheVsnYXR0YWNobWVudCddLCAkYXJyYXlbJ25vdyddKTsKICAgICAgJGJvZHlUZXh0IC49ICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbTsgbmFtZT1cInskdG1wRmlsZU5hbWV9XCJcbiI7CiAgICAgICRib2R5VGV4dCAuPSAiQ29udGVudC1EaXNwb3NpdGlvbjogYXR0YWNobWVudDsgZmlsZW5hbWU9XCJ7JGFycmF5WydhdHRhY2htZW50J119XCJcbiI7CiAgICAgICRib2R5VGV4dCAuPSAiQ29udGVudC1UcmFuc2Zlci1FbmNvZGluZzogYmFzZTY0XG4iOwogICAgICAkYm9keVRleHQgLj0gIlxuIjsKICAgICAgJGJvZHlUZXh0IC49IGNodW5rX3NwbGl0KGJhc2U2NF9lbmNvZGUoZmlsZV9nZXRfY29udGVudHMoJHRtcEZpbGVOYW1lKSkpOwogICAgICAkYm9keVRleHQgLj0gIi0tX19CT1VOREFSWV9fXG4iOwoKICAgICAgbWJfc2VuZF9tYWlsKCAkdG8sIG1iX2VuY29kZV9taW1laGVhZGVyKCRzdWJqZWN0KSwgJGJvZHlUZXh0LCAkaGVhZGVyVGV4dCk7CiAgICAgIGV4aXQ7CiAgICAqLwoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vJGZpbGVuYW1lID0gbWJfY29udmVydF9rYW5hKCRhcnJheVsnYXR0YWNobWVudCddLCAnS0hWJyk7Cg==</text>
+        <text encoding="base64">ICAgICRyZW5hbWUgPSAkYXJyYXlbJ25vdyddLiAndGVzdC5wZGYnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRmaWxlbmFtZSA9IG1iX2NvbnZlcnRfa2FuYSgkcmVuYW1lLCAnS0hWJyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vJGZpbGVuYW1lID0gbWJfY29udmVydF9rYW5hKCRhcnJheVsnYXR0YWNobWVudCddLCAnS0hWJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0Rldlw+</last-search>
+      <last-search>sales</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0Rldlw+</last-pattern>
+      <last-pattern>sales</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsb2NhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -524,7 +239,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250YWN0c2VjdGlvblw+</entry>
         <entry encoding="base64">XDxhcnJheVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
         <entry>do</entry>
@@ -544,6 +258,7 @@
         <entry>getUploadFilename</entry>
         <entry>sendMail</entry>
         <entry encoding="base64">XDxpc0Rldlw+</entry>
+        <entry>sales</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
