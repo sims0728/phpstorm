@@ -221,6 +221,12 @@
         <mark key="." line="75" column="12" />
         <mark key="^" line="75" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/.env" timestamp="1587016260555">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi/database/migrations/2019_09_19_040356_create_entry_item_relations_table.php" timestamp="1568955018792">
         <mark key="[" line="19" column="70" />
         <mark key="]" line="19" column="77" />
@@ -464,11 +470,11 @@
       <jump line="37" column="9" filename="$USER_HOME$/workspace/medialink/local/tyvek-env/repos/tyvek/order/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>local-astat.libra.sc</text>
       </register>
       <register name="-" type="4">
-        <text>mari.takezawa@dupont.com,kaori.ishikawa@dupont.com</text>
+        <text>local-astat.libra.sc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Rldlw+</text>
