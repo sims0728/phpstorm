@@ -72,14 +72,11 @@
       <file name="/local_libra.sales_details [localhost]" timestamp="1587023447262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587111943857">
-        <mark key="[" line="67" column="45" />
-        <mark key="]" line="67" column="51" />
-        <mark key="." line="67" column="50" />
-        <mark key="^" line="67" column="51" />
-      </file>
-      <file name="/local_libra.deliveries [localhost]" timestamp="1587023376933">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587113755340">
+        <mark key="[" line="68" column="11" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="69" column="7" />
+        <mark key="^" line="69" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/routes.php" timestamp="1587101957315">
         <mark key="'" line="65" column="23" />
@@ -87,6 +84,10 @@
         <mark key="]" line="65" column="0" />
         <mark key="^" line="65" column="55" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/ShippingController.php" timestamp="1587113748412">
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="485" column="37" />
       </file>
       <file name="/sales [localhost]" timestamp="1587101858326">
         <mark key="[" line="0" column="0" />
@@ -241,8 +242,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZ3JpZC0+ZGlzYWJsZUNyZWF0ZUJ1dHRvbigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -251,7 +252,7 @@
         <text>sales</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRzYWxlc19jbG9zZV9kYXRlKSkgewogICAgICAgICAgICAgICAgcmV0dXJuICcnOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBkYXRlKCdZ5bm0beaciGTml6UnLCBzdHJ0b3RpbWUoJHNhbGVzX2Nsb3NlX2RhdGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZ3JpZC0+ZGlzYWJsZUNyZWF0ZUJ1dHRvbigpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
