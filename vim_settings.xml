@@ -72,10 +72,10 @@
       <file name="/local_libra.sales_details [localhost]" timestamp="1587023447262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587113755340">
-        <mark key="[" line="68" column="11" />
-        <mark key="]" line="69" column="8" />
-        <mark key="." line="69" column="7" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587114579723">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="71" column="0" />
         <mark key="^" line="69" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/routes.php" timestamp="1587101957315">
@@ -131,10 +131,10 @@
       <file name="/local_libra.order_payments [localhost]" timestamp="1587102364469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/FanzineController.php" timestamp="1587103893761">
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/FanzineController.php" timestamp="1587114576257">
         <mark key="'" line="100" column="43" />
-        <mark key="[" line="146" column="36" />
-        <mark key="]" line="146" column="60" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="169" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -243,7 +243,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JpZC0+ZGlzYWJsZUNyZWF0ZUJ1dHRvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZ3JpZC0+YWN0aW9ucyhmdW5jdGlvbiAoR3JpZFxEaXNwbGF5ZXJzXERyb3Bkb3duQWN0aW9ucyAkYWN0aW9uKSB7CiAgICAgICAgICAgICRhY3Rpb24tPmRpc2FibGVFZGl0KCk7CiAgICAgICAgICAgICRhY3Rpb24tPmRpc2FibGVEZWxldGUoKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -252,7 +252,7 @@
         <text>sales</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JpZC0+ZGlzYWJsZUNyZWF0ZUJ1dHRvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZ3JpZC0+YWN0aW9ucyhmdW5jdGlvbiAoR3JpZFxEaXNwbGF5ZXJzXERyb3Bkb3duQWN0aW9ucyAkYWN0aW9uKSB7CiAgICAgICAgICAgICRhY3Rpb24tPmRpc2FibGVFZGl0KCk7CiAgICAgICAgICAgICRhY3Rpb24tPmRpc2FibGVEZWxldGUoKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
