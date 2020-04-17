@@ -34,8 +34,8 @@
         <entry>290</entry>
         <entry>sp</entry>
         <entry>qw</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -69,11 +69,11 @@
       <file name="/local_libra.sales_details [localhost]" timestamp="1587023447262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587102014319">
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="30" column="44" />
-        <mark key="." line="30" column="43" />
-        <mark key="^" line="30" column="44" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587103745295">
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="59" />
+        <mark key="." line="28" column="58" />
+        <mark key="^" line="28" column="59" />
       </file>
       <file name="/local_libra.deliveries [localhost]" timestamp="1587023376933">
         <mark key="[" line="0" column="0" />
@@ -85,25 +85,16 @@
         <mark key="^" line="65" column="55" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/.env" timestamp="1587016260555">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-      </file>
       <file name="/sales [localhost]" timestamp="1587101858326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/local_libra.sales [localhost]" timestamp="1587023439513">
+      <file name="/local_libra.sales [localhost]" timestamp="1587104008351">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/local_libra.payment_logs [localhost]" timestamp="1587023348900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1587102449503">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/local_libra.payments [localhost]" timestamp="1587023299337">
+      <file name="/dummy.sql" timestamp="1587104008759">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/local_libra.order_details [localhost]" timestamp="1587102449340">
@@ -112,14 +103,20 @@
       <file name="/Dummy.txt" timestamp="1587025364216">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/vendor/laravel/framework/src/Illuminate/Translation/TranslationServiceProvider.php" timestamp="1587103556126" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1587103472656" />
       <file name="/local_libra.orders [localhost]" timestamp="1587102323624">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/local_libra.payment_deliveries [localhost]" timestamp="1587023313353">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/local_libra.order_temporaries [localhost]" timestamp="1587102345706">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" timestamp="1587104357221">
+        <mark key="'" line="253" column="15" />
+        <mark key="[" line="313" column="31" />
+        <mark key="]" line="301" column="16" />
+        <mark key="^" line="301" column="16" />
+        <mark key="." line="301" column="15" />
       </file>
       <file name="/local_libra.shippings [localhost]" timestamp="1587023535641">
         <mark key="[" line="0" column="0" />
@@ -133,12 +130,13 @@
       <file name="/local_libra.order_payments [localhost]" timestamp="1587102364469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/FanzineController.php" timestamp="1587024974744">
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/FanzineController.php" timestamp="1587103893761">
         <mark key="'" line="100" column="43" />
+        <mark key="[" line="146" column="36" />
+        <mark key="]" line="146" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="4" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/Api/ItemController.php" />
       <jump line="27" column="22" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Models/Items.php" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Models/Items.php" />
       <jump line="171" column="4" filename="$USER_HOME$/workspace/medialink/local/atodashi-env/shared/x/atodashi-web/app/Http/Controllers/TopController.php" />
@@ -238,21 +236,22 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/vendor/encore/laravel-admin/src/Controllers/AdminController.php" />
       <jump line="65" column="67" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/routes.php" />
       <jump line="66" column="23" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/routes.php" />
+      <jump line="253" column="15" filename="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>sales</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICRyb3V0ZXItPmdldCgnL3BkZi9mYW56aW5lcy97aWR9L2NoZWNrbGlzdCcsICdQZGZDb250cm9sbGVyQGZhbnppbmVzQ2hlY2tsaXN0JyktPm5hbWUoJ2FkbWluLnBkZi5mYW56aW5lcy5jaGVja2xpc3QnKTsK</text>
+      <register name="0" type="4">
+        <text>trans('admin.product.id')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vJHJvdXRlci0+Z2V0KCcvc2FsZXMnLCAnU2FsZXNDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FkbWluLnNhbGVzJyk7Cg==</text>
@@ -282,7 +281,7 @@
         <text encoding="base64">ICAgICRyZW5hbWUgPSAkYXJyYXlbJ25vdyddLiAndGVzdC5wZGYnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
