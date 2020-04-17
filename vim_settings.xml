@@ -61,6 +61,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -69,11 +72,11 @@
       <file name="/local_libra.sales_details [localhost]" timestamp="1587023447262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587107375313">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="61" />
-        <mark key="^" line="30" column="61" />
-        <mark key="." line="30" column="60" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587111943857">
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="67" column="51" />
+        <mark key="." line="67" column="50" />
+        <mark key="^" line="67" column="51" />
       </file>
       <file name="/local_libra.deliveries [localhost]" timestamp="1587023376933">
         <mark key="[" line="0" column="0" />
@@ -88,13 +91,10 @@
       <file name="/sales [localhost]" timestamp="1587101858326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/local_libra.sales [localhost]" timestamp="1587104008351">
+      <file name="/local_libra.sales [localhost]" timestamp="1587110933711">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/local_libra.payment_logs [localhost]" timestamp="1587023348900">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1587104008759">
+      <file name="/dummy.sql" timestamp="1587111947521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/local_libra.order_details [localhost]" timestamp="1587102449340">
@@ -111,12 +111,12 @@
       <file name="/local_libra.order_temporaries [localhost]" timestamp="1587102345706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" timestamp="1587105767996">
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" timestamp="1587109615334">
         <mark key="'" line="253" column="15" />
-        <mark key="[" line="313" column="31" />
-        <mark key="]" line="314" column="35" />
-        <mark key="^" line="314" column="35" />
-        <mark key="." line="314" column="34" />
+        <mark key="[" line="303" column="28" />
+        <mark key="]" line="306" column="17" />
+        <mark key="^" line="306" column="17" />
+        <mark key="." line="306" column="16" />
       </file>
       <file name="/local_libra.shippings [localhost]" timestamp="1587023535641">
         <mark key="[" line="0" column="0" />
@@ -242,43 +242,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>sales</text>
       </register>
-      <register name="0" type="4">
-        <text>trans('admin.product.id')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRzYWxlc19jbG9zZV9kYXRlKSkgewogICAgICAgICAgICAgICAgcmV0dXJuICcnOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBkYXRlKCdZ5bm0beaciGTml6UnLCBzdHJ0b3RpbWUoJHNhbGVzX2Nsb3NlX2RhdGUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JpZC0+Y29sdW1uKCd1cGRhdGVkX2F0JywgX18oJ1VwZGF0ZWQgYXQnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JpZC0+Y29sdW1uKCdjcmVhdGVkX2F0JywgX18oJ0NyZWF0ZWQgYXQnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9yZXR1cm4gJGRhdGUtPmZvcm1hdCgnWS1tLWQgSDppOnMnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vJHJvdXRlci0+Z2V0KCcvc2FsZXMnLCAnU2FsZXNDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FkbWluLnNhbGVzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9yZXR1cm4gXERhdGVUaW1lOjpjcmVhdGVGcm9tRm9ybWF0KCdZLW0tZCBIOmk6cycsICRzYWxlc19jbG9zZV9kYXRlKS0+Zm9ybWF0KCdZbWQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRyb3V0ZXItPnJlc291cmNlKCdzYWxlcycsIFNhbGVzQ29udHJvbGxlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJG1haWwtPnNlbmQoJ3R5dmVrQHR5dmVrLmNvLmpwJywgJGhlYWRlciwgJGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlLAogICAgICAgICdiYXNlNjQnLAogICAgICAgICdhdHRhY2htZW50JywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnYmFzZTY0JywKICAgICAgICBudWxsLAogICAgICAgICdJU08tMjAyMi1KUCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -299,7 +299,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
