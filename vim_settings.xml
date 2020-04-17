@@ -34,8 +34,8 @@
         <entry>290</entry>
         <entry>sp</entry>
         <entry>qw</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -69,11 +69,11 @@
       <file name="/local_libra.sales_details [localhost]" timestamp="1587023447262">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587103745295">
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="59" />
-        <mark key="." line="28" column="58" />
-        <mark key="^" line="28" column="59" />
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/SalesController.php" timestamp="1587107375313">
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="61" />
+        <mark key="^" line="30" column="61" />
+        <mark key="." line="30" column="60" />
       </file>
       <file name="/local_libra.deliveries [localhost]" timestamp="1587023376933">
         <mark key="[" line="0" column="0" />
@@ -111,12 +111,12 @@
       <file name="/local_libra.order_temporaries [localhost]" timestamp="1587102345706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" timestamp="1587105721273">
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" timestamp="1587105767996">
         <mark key="'" line="253" column="15" />
         <mark key="[" line="313" column="31" />
-        <mark key="]" line="301" column="16" />
-        <mark key="^" line="301" column="16" />
-        <mark key="." line="301" column="15" />
+        <mark key="]" line="314" column="35" />
+        <mark key="^" line="314" column="35" />
+        <mark key="." line="314" column="34" />
       </file>
       <file name="/local_libra.shippings [localhost]" timestamp="1587023535641">
         <mark key="[" line="0" column="0" />
@@ -242,10 +242,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sales</text>
@@ -254,34 +254,34 @@
         <text>trans('admin.product.id')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vJHJvdXRlci0+Z2V0KCcvc2FsZXMnLCAnU2FsZXNDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FkbWluLnNhbGVzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZ3JpZC0+Y29sdW1uKCd1cGRhdGVkX2F0JywgX18oJ1VwZGF0ZWQgYXQnKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRyb3V0ZXItPnJlc291cmNlKCdzYWxlcycsIFNhbGVzQ29udHJvbGxlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZ3JpZC0+Y29sdW1uKCdjcmVhdGVkX2F0JywgX18oJ0NyZWF0ZWQgYXQnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vJHJvdXRlci0+Z2V0KCcvc2FsZXMnLCAnU2FsZXNDb250cm9sbGVyQGluZGV4JyktPm5hbWUoJ2FkbWluLnNhbGVzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJG1haWwtPnNlbmQoJ3R5dmVrQHR5dmVrLmNvLmpwJywgJGhlYWRlciwgJGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICRyb3V0ZXItPnJlc291cmNlKCdzYWxlcycsIFNhbGVzQ29udHJvbGxlcjo6Y2xhc3MpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJG1haWwtPnNlbmQoJ3R5dmVrQHR5dmVrLmNvLmpwJywgJGhlYWRlciwgJGJvZHkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlLAogICAgICAgICdiYXNlNjQnLAogICAgICAgICdhdHRhY2htZW50JywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnYmFzZTY0JywKICAgICAgICBudWxsLAogICAgICAgICdJU08tMjAyMi1KUCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCiAgICAvKgogICAgICAkaGVhZGVyVGV4dCA9ICJDb250ZW50LVR5cGU6IG11bHRpcGFydC9taXhlZDtib3VuZGFyeT1cIl9fQk9VTkRBUllfX1wiXG4iOwogICAgICAkaGVhZGVyVGV4dCAuPSAiUmV0dXJuLVBhdGg6ICIgLiAkdG8gLiAiIFxuIjsKICAgICAgJGhlYWRlclRleHQgLj0gIkZyb206ICIgLiAkZnJvbSAuIiBcbiI7CiAgICAgICRoZWFkZXJUZXh0IC49ICJTZW5kZXI6ICIgLiAkZnJvbSAuIiBcbiI7CiAgICAgICRoZWFkZXJUZXh0IC49ICJSZXBseS1UbzogIiAuICR0byAuICIgXG4iOwoKICAgICAgJGJvZHlUZXh0ID0gIi0tX19CT1VOREFSWV9fXG4iOwogICAgICAkYm9keVRleHQgLj0gIkNvbnRlbnQtVHlwZTogdGV4dC9wbGFpbjsgY2hhcnNldD1cIklTTy0yMDIyLUpQXCJcblxuIjsKICAgICAgJGJvZHlUZXh0IC49ICRib2R5IC4gIlxuIjsKICAgICAgJGJvZHlUZXh0IC49ICItLV9fQk9VTkRBUllfX1xuIjsKCiAgICAgICR0bXBGaWxlTmFtZSA9IGdldFVwbG9hZEZpbGVuYW1lKCRhcnJheVsnYXR0YWNobWVudCddLCAkYXJyYXlbJ25vdyddKTsKICAgICAgJGJvZHlUZXh0IC49ICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbTsgbmFtZT1cInskdG1wRmlsZU5hbWV9XCJcbiI7CiAgICAgICRib2R5VGV4dCAuPSAiQ29udGVudC1EaXNwb3NpdGlvbjogYXR0YWNobWVudDsgZmlsZW5hbWU9XCJ7JGFycmF5WydhdHRhY2htZW50J119XCJcbiI7CiAgICAgICRib2R5VGV4dCAuPSAiQ29udGVudC1UcmFuc2Zlci1FbmNvZGluZzogYmFzZTY0XG4iOwogICAgICAkYm9keVRleHQgLj0gIlxuIjsKICAgICAgJGJvZHlUZXh0IC49IGNodW5rX3NwbGl0KGJhc2U2NF9lbmNvZGUoZmlsZV9nZXRfY29udGVudHMoJHRtcEZpbGVOYW1lKSkpOwogICAgICAkYm9keVRleHQgLj0gIi0tX19CT1VOREFSWV9fXG4iOwoKICAgICAgbWJfc2VuZF9tYWlsKCAkdG8sIG1iX2VuY29kZV9taW1laGVhZGVyKCRzdWJqZWN0KSwgJGJvZHlUZXh0LCAkaGVhZGVyVGV4dCk7CiAgICAgIGV4aXQ7CiAgICAqLwoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRyZW5hbWUgPSAkYXJyYXlbJ25vdyddLiAndGVzdC5wZGYnOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVlLAogICAgICAgICdiYXNlNjQnLAogICAgICAgICdhdHRhY2htZW50JywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnJywKICAgICAgICAnYmFzZTY0JywKICAgICAgICBudWxsLAogICAgICAgICdJU08tMjAyMi1KUCcK</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
