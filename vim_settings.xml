@@ -111,11 +111,12 @@
       <file name="/local_libra.order_temporaries [localhost]" timestamp="1587102345706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" timestamp="1587367604652">
+      <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/resources/lang/ja/admin.php" timestamp="1587368483747">
         <mark key="'" line="253" column="15" />
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
+        <mark key="[" line="310" column="31" />
+        <mark key="]" line="310" column="34" />
+        <mark key="." line="310" column="33" />
+        <mark key="^" line="310" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/medialink/local/libra-env/repos/libra-backend/app/Admin/Controllers/OrderController.php" timestamp="1587364228471">
         <mark key="'" line="25" column="6" />
@@ -242,11 +243,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RhdHVzX2l0ZW0nID0+IFsKICAgICAgICAgICAgMSA9PiAn44K544OG44O844K/44K5MScsCiAgICAgICAgICAgIDIgPT4gJ+OCueODhuODvOOCv+OCuTInLAogICAgICAgICAgICAzID0+ICfjgrnjg4bjg7zjgr/jgrkzJwogICAgICAgIF0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>額</text>
       </register>
       <register name="-" type="4">
-        <text>sales_close_date</text>
+        <text>額</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
